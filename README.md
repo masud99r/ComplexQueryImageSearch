@@ -9,7 +9,10 @@ Generating Semantically Precise Scene Graphs from Textual Descriptions for Impro
 https://nlp.stanford.edu/pubs/schuster-krishna-chang-feifei-manning-vl15.pdf
 
 Image Retrieval using Scene Graphs
+
 http://hci.stanford.edu/publications/2015/scenegraphs/JohnsonCVPR2015.pdf
+
+http://cs.stanford.edu/people/jcjohns/cvpr15_supp/
 
 DenseCap: Fully Convolutional Localization Networks for Dense Captioning
 http://cs.stanford.edu/people/karpathy/densecap.pdf
