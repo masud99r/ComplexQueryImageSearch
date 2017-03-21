@@ -3,7 +3,7 @@ Search engine for image search where user can put semantically complex sentence 
 
 # Todo
 1. Scene Graph parsing with parser
-
+# Important Resources:
 Papers:
 Generating Semantically Precise Scene Graphs from Textual Descriptions for Improved Image Retrieval 
 https://nlp.stanford.edu/pubs/schuster-krishna-chang-feifei-manning-vl15.pdf
