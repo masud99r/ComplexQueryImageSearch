@@ -76,12 +76,52 @@ def generate_scene_graph_data(jsonpath):
             all_rel = all_rel.strip(",")
             f_im2rel.write(str(image_id)+"\t"+all_rel+"\n")
 
+def map_cococaption2vgcaption(datapath):
+    vsgid2mscocoid = {}
+    vg = json.load(open(datapath+"/vg_image_data.json"))
+    for entry in vg:
+        #print (enrtry['image_id'], enrtry['coco_id'])
+        if entry['coco_id'] != None:
+            print (entry['image_id'], entry['coco_id'])
+            vsgid2mscocoid[entry['image_id']] = int(entry['coco_id'])
+    print (vsgid2mscocoid)
+    print ("vsg id =========================")
+    for id in vsgid2mscocoid:
+        print vsgid2mscocoid[id]
+    print len(vsgid2mscocoid)
 
+    cocoid2caption = {}
+    with open(datapath+"mscoco_caption_map_clean.txt") as fcap:
+        for line in fcap:
+            #print line
+            #line_parts = line.split("\t")
+            cocoid, capt = line.split("\t")
+            #print len(line_parts)
+            #cocoid = line_parts[0]
+            #capt = line_parts[1]
+
+            #for i in range(2, len(line_parts)):
+            #    capt = capt +" "+line_parts[i]
+
+            cocoid2caption[int(cocoid)] = capt #int is bug?? definitely a big bug when read from file!!
+    f_vgcap = open("vg_caption.txt","w")
+    miss_count = 0
+    for vg_id in vsgid2mscocoid:
+        mapcocoid = vsgid2mscocoid[vg_id]
+        try:
+            vgcaption = cocoid2caption[mapcocoid]
+            f_vgcap.write(str(vg_id)+"\t"+str(vgcaption)+"\n")
+        except:
+            print ("Missing id = "+str(mapcocoid))
+            miss_count += 1
+    f_vgcap.close()
+    print (miss_count)
+    print ("done")
 if __name__ == '__main__':
     #datapath = "K:/Masud/PythonProjects/ComplexQueryImageSearch/data/"
     datapath = "/if24/mr5ba/Masud/PythonProjects/ComplexQueryImageSearch/data/"
-    generate_scene_graph_data(datapath)
-
+    #generate_scene_graph_data(datapath)
+    map_cococaption2vgcaption(datapath)
     #f_cap = open("./data/mscoco_caption_map.txt", "a")
     #for id in cap_map:
     #    f_cap.write(str(id) + "\t" + str(cap_map[id]) + "\n")
