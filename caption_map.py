@@ -3,7 +3,7 @@ def generate_caption_map(captionjsonpath):
     id2caps = {}
     mscoco = json.load(open(captionjsonpath))
     captionStrings = [entry['caption'].encode('ascii') for entry in mscoco['annotations']]
-    mscoco_imageid = [entry['image_id'] for entry in mscoco['annotations']]
+    mscoco_imageid = [entry['id'] for entry in mscoco['annotations']] #id is the coco id
 
     for i in range(0, len(captionStrings)):
         imageid = mscoco_imageid[i]
@@ -28,9 +28,12 @@ def generate_caption_map(captionjsonpath):
     return id2caps
 
 if __name__ == '__main__':
-    #mscoco_caption_train = "K:/Masud/2017Spring/Vision/language_generation_lab/annotations/captions_train2014.json"
-    mscoco_caption_val = "K:/Masud/2017Spring/Vision/language_generation_lab/annotations/captions_val2014.json"
-    cap_map = generate_caption_map(mscoco_caption_val)
-    f_cap = open("./data/mscoco_caption_map.txt","a")
+    mscoco_caption_train = "K:/Masud/2017Spring/Vision/language_generation_lab/annotations/captions_train2014.json"
+    #mscoco_caption_val = "K:/Masud/2017Spring/Vision/language_generation_lab/annotations/captions_val2014.json"
+    cap_map = generate_caption_map(mscoco_caption_train)
+    f_cap = open("./data/mscoco_caption_map_clean.txt","a")
     for id in cap_map:
-        f_cap.write(str(id)+"\t"+str(cap_map[id])+"\n")
+        cleaned_caption = str(cap_map[id]).replace("\t"," ")
+        cleaned_caption = cleaned_caption.replace("\n","")
+        cleaned_caption = cleaned_caption.replace("\r","")
+        f_cap.write(str(id)+"\t"+cleaned_caption+"\n")
