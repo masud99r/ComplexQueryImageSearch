@@ -15,7 +15,7 @@ def generate_scene_graph_data(jsonpath):
                 objectattr_list.append("NONE")#no attribute for this objects
             #print objectattr_list
             attributes_map[(str(entry['image_id']) + "_" + str(objectid)).replace("\n","")] = objectattr_list#single tab error!!!!!
-        print (str(entry['image_id']) + "_" + str(objectid))
+        #print (str(entry['image_id']) + "_" + str(objectid))
 
 
     vsgid2mscocoid = {}
@@ -56,7 +56,7 @@ def generate_scene_graph_data(jsonpath):
                 subject_objectid = subject_details['object_id']
                 subject_name = subject_details['name']
                 try:
-                    print (str(image_id)+"_"+str(subject_objectid))
+                    #print (str(image_id)+"_"+str(subject_objectid))
                     subject_attribute_list = attributes_map[(str(image_id)+"_"+str(subject_objectid)).replace("\n","")]
                 except:
                     subject_attribute_list = []
