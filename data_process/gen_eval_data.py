@@ -223,15 +223,58 @@ def remove_string_noise(input_str):
     fresh_str = ' '.join(input_str.split())
     return fresh_str
 def text_process(text):
-    return remove_string_noise(text)
+    clean_text = remove_string_noise(text)
+    if clean_text == "":
+        return clean_text
+    text2 = text
+    relation_token = ""
+    text2_parts = text2.split(",")
+    object_rel_attr_independent = ""
+    sub_obj_rel = ""
+    obj_attr = ""
+    obj_only = ""
+    for rtoken in text2_parts:
+        try:
+            rtoken_parts = str(rtoken).split(":")
+            if(len(rtoken_parts)==3):
+                #subject_attr = rtoken_parts[0].replace("NONE-","").strip()
+                #object_attr = rtoken_parts[2].replace("NONE-","").strip()
+                subparts= rtoken_parts[0].split("-")
+                if len(subparts) == 2:
+                    subject_attr = subparts[0]
+                    subject = subparts[1]
+                else:
+                    subject = subparts[0]
+                object_attr, object_name = rtoken_parts[2].split("-")
+                subparts = rtoken_parts[2].split("-")
+                if len(subparts) == 2:
+                    object_attr = subparts[0]
+                    object_name = subparts[1]
+                else:
+                    object_name = subparts[0]
+
+                rel = rtoken_parts[1].strip()
+                rel = rel.replace(" ","-").strip()#make it single token
+                object_rel_attr_independent = object_rel_attr_independent+" "+subject_attr+" "+object_attr+" "+rel
+                entry_relation = subject+"-"+rel+"-"+object_name
+                sub_obj_rel = sub_obj_rel + " "+entry_relation
+                obj_only = obj_only+" "+subject+" "+object_name
+                obj_attr = obj_attr+" "+subject+" "+object
+            else:
+                print ("Len not 3")
+        except:
+            print ("Data format mitchmatch")
+    final_text = obj_only.strip()#+" "+object_rel_attr_independent.strip()
+    #return remove_string_noise(text)
+    return final_text
 def generate_retrieval_data():
     datapath = "/if24/mr5ba/Masud/PythonProjects/ComplexQueryImageSearch/data/"
     # datapath = "K:/Masud/PythonProjects/ComplexQueryImageSearch/data/"
     vg_graph_path = datapath + "image2relationship_filtered.txt"
     vg_caption_path = datapath + "vg_caption_relation_attribute_processed_filtered.txt"
 
-    f_graph = open(datapath + "candidate_document.txt", "w")
-    f_cap = open(datapath + "query_document.txt", "w")
+    f_graph = open(datapath + "candidate_document_Obj.txt", "w")
+    f_cap = open(datapath + "query_document_Obj.txt", "w")
 
     vg_graph_map = {}
     with open(vg_graph_path) as f_vggraph:
@@ -262,7 +305,7 @@ def generate_retrieval_data():
 
                 f_graph.write(fresh_candidate_rel+"\n")
 
-                f_id = open(datapath + "query/"+str(caption_id)+".txt", "w")
+                f_id = open(datapath + "query_Obj/"+str(caption_id)+".txt", "w")
                 f_id.write(fresh_query_rel)
                 f_id.close()
 

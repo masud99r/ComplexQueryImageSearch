@@ -108,12 +108,13 @@ def run_evaluation_v2():
             vg_caption_map[vg_id] = rel
     query_count = 0
     total_mrr = 0.0
-    total_query = 50
+    total_query = 200
+    rank_list = []
     for query_id in vg_caption_map:
 
         search_results_score, search_results_sorted = model_bm25.generate_results(datapath,str(query_id))
-        print ("Query = " + str(query_id) + "\t" + str(
-            querycaption[query_id]) + "\t" + "https://cs.stanford.edu/people/rak248/VG_100K/" + str(query_id) + ".jpg"+ "\t" + "Alternative: https://cs.stanford.edu/people/rak248/VG_100K_2/" + str(query_id) + ".jpg")
+        #print ("Query = " + str(query_id) + "\t" + str(
+            #querycaption[query_id]) + "\t" + "https://cs.stanford.edu/people/rak248/VG_100K/" + str(query_id) + ".jpg"+ "\t" + "Alternative: https://cs.stanford.edu/people/rak248/VG_100K_2/" + str(query_id) + ".jpg")
         topcount = 0
         query_mrr = 0
         for score_tuple in search_results_sorted[0]:
@@ -122,16 +123,45 @@ def run_evaluation_v2():
             candidate_id = id_list[candidate_index]
             if candidate_id == query_id:  # this will happen at most once
                 rank = topcount
-                print ("Rank is = " + str(rank))
+                rank_list.append(rank)
+                #print ("Rank is = " + str(rank))
                 query_mrr = 1.0 / int(rank)
-            if topcount < 10:
-                print (
-                str(score_tuple) + "\t" + "https://cs.stanford.edu/people/rak248/VG_100K/" + str(candidate_id) + ".jpg"+ "\t" + "Alternative: https://cs.stanford.edu/people/rak248/VG_100K_2/" + str(candidate_id) + ".jpg")
+            #if topcount < 10:
+                #print (
+                #str(score_tuple) + "\t" + "https://cs.stanford.edu/people/rak248/VG_100K/" + str(candidate_id) + ".jpg"+ "\t" + "Alternative: https://cs.stanford.edu/people/rak248/VG_100K_2/" + str(candidate_id) + ".jpg")
         total_mrr += query_mrr
         query_count += 1
+        print query_count
         if query_count > total_query:
             averageMRR = total_mrr / query_count
             print ("avg MRR = " + str(averageMRR))
+            print rank_list
+            top1_count = 0
+            top5_count = 0
+            top10_count = 0
+            top15_count = 0
+            top20_count = 0
+            for rank_val in rank_list:
+                if rank_val <= 1:
+                    top1_count += 1
+                if rank_val <= 5:
+                    top5_count += 1
+                if rank_val <= 10:
+                    top10_count += 1
+                if rank_val <= 15:
+                    top15_count += 1
+                if rank_val <= 20:
+                    top20_count += 1
+            recall_1 = (top1_count*1.0)/total_query
+            recall_5 = (top5_count*1.0)/total_query
+            recall_10 = (top10_count*1.0)/total_query
+            recall_15 = (top15_count*1.0)/total_query
+            recall_20 = (top20_count*1.0)/total_query
+            sorted_rank_list = sorted(rank_list)
+            print sorted_rank_list
+            midindex = len(sorted_rank_list)/2
+            print ("Median Rank = "+str(sorted_rank_list[midindex]))
+            print ("Recall\t"+str(recall_1)+"\t"+str(recall_5)+"\t"+str(recall_10)+"\t"+str(recall_15)+"\t"+str(recall_20))
             break
 
 
