@@ -43,8 +43,9 @@ public class ComplexQueryImageSearch {
             br = new BufferedReader(new FileReader(datapath+"vg_caption.txt"));
             FileWriter fw = new FileWriter("vg_caption_relation_attribute.txt");
             bw = new BufferedWriter(fw);
+            int count = 0;
             while((line = br.readLine()) !=null ){
-                System.out.println(line);
+                //System.out.println(line);
                 String[] lineParts = line.split("\t");
                 String vg_id = lineParts[0];
                 String vg_caption = lineParts[1];
@@ -107,6 +108,10 @@ public class ComplexQueryImageSearch {
                 if (relationshipList.size()>= 2){
                     bw.write(vg_id+"\t"+vg_caption+"\t"+relationships+"\t"+attributes+"\t"+relationshipList.size()+"\t"+attributeList.size()+"\n");
                 
+                }
+                count ++;
+                if (count%100 == 0){
+                    System.out.println("Completed: "+count);
                 }
             }
         }
