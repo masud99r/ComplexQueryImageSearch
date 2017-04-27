@@ -75,7 +75,97 @@ def generate_scene_graph_data(jsonpath):
                         all_rel = all_rel+","+processed_entry
             all_rel = all_rel.strip(",")
             f_im2rel.write(str(image_id)+"\t"+all_rel+"\n")
+def remove_after_dash(token):
+    return str(token).split("-")[0]
+def process_caption_data(datapath):
+    f_processed = open("vg_caption_relation_attribute_processed.txt","w")
+    with open(datapath+"/vg_caption_relation_attribute.txt") as fcap:
+        for line in fcap:
+            lineParts = line.split("\t")
+            vg_id = lineParts[0]
+            vg_caption = lineParts[1]
+            parser_rel = lineParts[2]
+            parser_attribute = lineParts[3]
 
+            #attribute
+            obj2attr = {}
+            attributesParts = parser_attribute.split(",")
+            for entry in attributesParts:
+                if (str(entry) == "NONE"):
+                    continue
+                object, attr = entry.split(":")
+                if object in obj2attr:
+                    atrr_list = obj2attr[object]
+                    atrr_list.append(attr)
+                    obj2attr[object] = attr_list
+                else:
+                    attr_list = []
+                    attr_list.append("NONE")
+                    attr_list.append(attr)
+                    obj2attr[object] = attr_list
+            #relationship
+            relationParts = parser_rel.split(",")
+            processed_relation = ""
+            for entry in relationParts:
+                if (str(entry)=="NONE"):
+                    continue
+                entryParts = entry.split(" ")
+                subject = entryParts[0]
+                object = entryParts[len(entryParts)-1]
+
+                relation = entryParts[1]
+                for i in range(2,len(entryParts)-1):
+                    relation = relation+" "+entryParts[i]
+
+                #relation_item = "NONE-" + str(remove_after_dash(subject))+":"+relation+":"+"NONE-" +str(remove_after_dash(object))
+                #processed_relation = processed_relation+","+relation_item
+
+                rel_list_subject = []
+                rel_list_subject.append("NONE")
+                if subject in obj2attr:
+                    rel_list_subject = obj2attr[subject]#if exist replace with the actual attribute
+                rel_list_object = []
+                rel_list_object.append("NONE")
+                if object in obj2attr:
+                    rel_list_object = obj2attr[object]  # if exist replace with the actual attribute
+
+                for subj_attr in rel_list_subject:
+                    for obj_attr in rel_list_object:
+                        relation_item = str(subj_attr) + "-" + remove_after_dash(subject) + ":" + str(relation) + ":" + str(obj_attr) + "-" + remove_after_dash(object)
+                        processed_relation = processed_relation + "," + relation_item
+            processed_relation = processed_relation.strip(",")
+            f_processed.write(str(vg_id) + "\t" + str(vg_caption) + "\t"+processed_relation+"\n")
+
+    f_processed.close()
+def data_filter():
+    datapath = "/if24/mr5ba/Masud/PythonProjects/ComplexQueryImageSearch/data/"
+    #datapath = "K:/Masud/PythonProjects/ComplexQueryImageSearch/data/"
+    vg_graph_path = datapath + "image2relationship.txt"
+    vg_caption_path = datapath + "vg_caption_relation_attribute_processed.txt"
+
+    f_graph = open(datapath + "image2relationship_filtered.txt","w")
+    f_cap = open(datapath + "vg_caption_relation_attribute_processed_filtered.txt","w")
+
+    vg_graph_map = {}
+    with open(vg_graph_path) as f_vggraph:
+        for line in f_vggraph:
+            vg_id, rel = line.split("\t")
+            vg_id = int(vg_id)
+            vg_graph_map[vg_id] = line
+    vg_caption_map = {}
+    with open(vg_caption_path) as f_vgcap:
+        for line in f_vgcap:
+            vg_id, _, rel = line.split("\t")
+            vg_id = int(vg_id)
+            vg_caption_map[vg_id] = line
+    for caption_id in vg_caption_map:
+        if caption_id in vg_graph_map:
+            vgcap = vg_caption_map[caption_id]
+            vggraph = vg_graph_map[caption_id]
+            f_cap.write(vgcap)
+            f_graph.write(vggraph)
+    f_cap.close()
+    f_graph.close()
 def map_cococaption2vgcaption(datapath):
     vsgid2mscocoid = {}
     vg = json.load(open(datapath+"/vg_image_data.json"))
@@ -110,7 +200,7 @@ def map_cococaption2vgcaption(datapath):
         mapcocoid = vsgid2mscocoid[vg_id]
         try:
             vgcaption = cocoid2caption[mapcocoid]
-            f_vgcap.write(str(vg_id)+"\t"+str(vgcaption)+"\n")
+            f_vgcap.write(str(vg_id)+"\t"+str(vgcaption))
         except:
             print ("Missing id = "+str(mapcocoid))
             miss_count += 1
@@ -120,8 +210,10 @@ def map_cococaption2vgcaption(datapath):
 if __name__ == '__main__':
     #datapath = "K:/Masud/PythonProjects/ComplexQueryImageSearch/data/"
     datapath = "/if24/mr5ba/Masud/PythonProjects/ComplexQueryImageSearch/data/"
+    #process_caption_data(datapath)
+    data_filter()
     #generate_scene_graph_data(datapath)
-    map_cococaption2vgcaption(datapath)
+    #map_cococaption2vgcaption(datapath)
     #f_cap = open("./data/mscoco_caption_map.txt", "a")
     #for id in cap_map:
     #    f_cap.write(str(id) + "\t" + str(cap_map[id]) + "\n")
