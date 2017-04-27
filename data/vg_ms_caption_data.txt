@@ -1,0 +1,1000 @@
+2359298	Decorated cake sitting on a plate atop a box.	NONE,cake-2 sit on plate-6,plate-6 atop box-9	NONE,cake-2:decorated	2	1
+2337451	A woman riding a wave on top of a blue surfboard.	NONE,woman-2 ride wave-5,woman-2 ride on top of surfboard-11	NONE,surfboard-11:blue	2	1
+2359301	A beautiful young woman hitting a tennis ball with a racquet.	NONE,woman-4 hit ball-8,woman-4 hit with racquet-11	NONE,woman-4:beautiful,woman-4:young	2	2
+2359308	Men and their prom dates line up for a photo	NONE,man-1 have prom-4,man-1 date up line-6,man-1 date up for photo-10,man-1' have prom-4,man-1' date up line-6,man-1' date up for photo-10,prom-4 date up line-6,prom-4 date up for photo-10	NONE	8	0
+2359310	two trains passing each other on train tracks	NONE,train-2 pass on train-7,train-2' pass on train-7	NONE,train-2:track,train-2':track	2	2
+2359314	there is a man and a woman sitting on a bench, the man is on the phone	NONE,woman-7 sit on bench-11,man-14 on phone-18	NONE	2	0
+2359322	A bird on top of a rock in the ocean.	NONE,bird-2 on top-4,bird-2 of rock-7,rock-7 in ocean-10	NONE	3	0
+2359324	A tennis player dives for an incoming ball on the court.	NONE,player-3 dive for ball-8,ball-8 on court-11	NONE,ball-8:incoming	2	1
+2359326	Three zebras eating hay from bales inside a barn-like structure.	NONE,zebra-2 eat hay-4,zebra-2 eat from bale-6,zebra-2' eat hay-4,zebra-2' eat from bale-6,zebra-2'' eat hay-4,zebra-2'' eat from bale-6,bale-6 inside structure-10	NONE,structure-10:barnlike	7	1
+2359327	A large blue boat sailing on top of water.	NONE,sailing-5 on top-7,sailing-5 of water-9	NONE,sailing-5:large,sailing-5:blue	2	2
+2359328	A man holding a hotdog in one hand while he talks to a woman.	NONE,man-2 hold hotdog-5,man-2 talk to woman-14,hotdog-5 in hand-8	NONE	3	0
+2359333	A couch topped with all sorts of electronics devices.	NONE,couch-2 top with sort-6,sort-6 of device-9	NONE	2	0
+2339384	a male skateboarder in a white shirt doing a trick	NONE,skateboarder-3 in shirt-7,shirt-7 do trick-10	NONE,skateboarder-3:male,shirt-7:white	2	2
+2359337	A clock tower with lots of strange art pieces.	NONE,tower-3 with lot-5,tower-3 of piece-9	NONE,piece-9:strange	2	1
+2359339	A bathroom with tan walls and fake tiled flooring.	NONE,bathroom-2 with wall-5,bathroom-2 with flooring-9	NONE,flooring-9:tiled,flooring-9:fake	2	2
+2359349	A dog eating a heart shaped doggie birthday cake off a plate.	NONE,dog-2 eat heart-5,dog-2 shape cake-9,dog-2 shape off plate-12	NONE,cake-9:doggie	3	1
+2359351	A cat standing on the edge of a sink drink water.	NONE,standing-3 on edge-6,standing-3 drink water-11,edge-6 of sink-9	NONE	3	0
+2359354	A city alongside the water with a bridge.	NONE,city-2 alongside water-5,city-2 with bridge-8	NONE	2	0
+2359355	A group of people in a bar playing Wii	NONE,group-2 of people-4,people-4 in wii-9	NONE,wii-9:play	2	1
+2359356	A woman's face sitting in front of an oven that has a pan of food in it.	NONE,woman-2 in face-4,face-4 sit in front of oven-10,pan-14 of food-16,food-16 in face-4	NONE	4	0
+2359358	A group of people standing in the rain under some umbrella's.	NONE,group-2 of people-4,people-4 stand in rain-8,rain-8 under umbrella-11	NONE	3	0
+2359361	a view of a bathroom area with a white long flusher and window behind it	NONE,view-2 behind view-2,view-2 of area-6,view-2 with flusher-11,view-2 with window-13	NONE,flusher-11:white,flusher-11:long	4	2
+2359362	A pole with street sign boards showing directions.	NONE,pole-2 with board-6,pole-2 show direction-8	NONE	2	0
+2359363	a man surfing a small wave on part of a river	NONE,wave-6 on part-8,part-8 of river-11	NONE,wave-6:small	2	1
+2359364	A cat sitting on top of the hood of a car.	NONE,cat-2 sit on top of hood-8,hood-8 of car-11	NONE	2	0
+2359365	Three woman and a man all sitting at a table on their cell phones.	NONE,woman-2 have phone-14,table-10 on phone-14	NONE,woman-2:all,man-5:all	2	2
+2359373	A parking meter sitting on the side of a sidewalk.	NONE,meter-3 sit on side-7,side-7 of sidewalk-10	NONE	2	0
+2359375	A man riding on top of a skateboard into the air.	NONE,man-2 ride on top of skateboard-8,man-2 ride into air-11	NONE	2	0
+2359380	A green pool with at least 20 different stop lights on it.	NONE,pool-3 with light-10,light-10 on pool-3	NONE,pool-3:green,light-10:different	2	2
+2359386	A man in a hat is talking on a cell phone.	NONE,man-2 in hat-5,man-2 talk on phone-11	NONE	2	0
+2359389	A pizza sitting on top of a metal pan covered in cheese.	NONE,pizza-2 sit on top of pan-9,pizza-2 cover in cheese-12	NONE	2	0
+2359391	A bathroom with a broken window and white walls.	NONE,bathroom-2 with window-6,bathroom-2 with wall-9	NONE,window-6:broken,wall-9:white	2	2
+2359392	A bathroom showing the mirror, sink, and toilet.	NONE,bathroom-2 show mirror-5,bathroom-2 show sink-7,bathroom-2 show toilet-10	NONE	3	0
+2359395	A bathroom under fine maintenance, with decorative pieces all around	NONE,bathroom-2 under maintenance-5,bathroom-2 with piece-9	NONE,maintenance-5:fine,piece-9:decorative	2	2
+2359396	A surfer emerging from the waves in a black wet suit holding his surfboard.	NONE,surfer-2 emerge from wave-6,surfer-2 have surfboard-14,wave-6 in suit-11	NONE,suit-11:wet,suit-11:black	3	2
+2359397	Several men running while one man running towards a frisbee.	NONE,man-2 run while man-6,man-2' run while man-6,man-6 run towards frisbee-10	NONE,man-2:several,man-2':several	3	2
+2359400	A horse raises its tail while standing next to a pile of hay.	NONE,horse-2 have tail-5,horse-2 raise tail-5,pile-11 of hay-13	NONE	3	0
+2359402	two benches, a small statue and some street signs stand between a street curb and the brick facade of a large building.	NONE,bench-2 stand between curb-15,bench-2 stand between facade-19,bench-2' stand between curb-15,bench-2' stand between facade-19,statue-6 stand between curb-15,statue-6 stand between facade-19,sign-10 stand between curb-15,sign-10 stand between facade-19,sign-10' stand between curb-15,sign-10' stand between facade-19,facade-19 of building-23	NONE,statue-6:small,building-23:large	11	2
+2359404	A man tossing a frisbee to a brown dog.	NONE,man-2 toss frisbee-5,man-2 toss to dog-9	NONE,dog-9:brown	2	1
+2359408	The baseball batter checks his stance by pointing his bat at the plate.	NONE,batter-3 check stance-6,batter-3 have stance-6,batter-3 have bat-10	NONE	3	0
+2359410	A row of white teddy bears on shelf next to DVDs.	NONE,row-2 of teddy-5,row-2 bear on shelf-8,shelf-8 next to DVDs-11	NONE,teddy-5:white	3	1
+2359411	Two people are sitting beside one another working on their laptops.	NONE,people-2 have laptop-11,people-2' have laptop-11	NONE,people-2:sit,people-2':sit	2	2
+2359412	A group of people sitting around a dinner table.	NONE,group-2 of people-4,group-2 sit around table-9	NONE	2	0
+2359415	a person with a base guitar is on a laptop	NONE,person-2 with guitar-6,person-2 on laptop-10	NONE	2	0
+2359418	A bathroom with metal trash can urinals and a dummy in a skirt inside of it.	NONE,bathroom-2 with trash-5,dummy-10 in inside-14,inside-14 of bathroom-2	NONE,bathroom-2:urinal	3	1
+2359423	Several people are at the skate park and one kid is getting some air.	NONE,people-2 at park-7,people-2' at park-7,kid-10 get air-14	NONE,people-2:several,people-2':several,park-7:skate	3	3
+2359431	A man standing next to a motorcycle on a road.	NONE,man-2 stand next to motorcycle-7,man-2 stand on road-10	NONE	2	0
+2359433	Pizza and fries are on a table and a woman has a candled cake and some strawberries.	NONE,Pizza-1 on table-7,fries-3 on table-7,woman-10 have cake-14,woman-10 have strawberry-17	NONE,cake-14:candled	4	1
+2359436	A lawn chair with a colorful umbrella over it.	NONE,chair-3 over chair-3,chair-3 with umbrella-7	NONE,umbrella-7:colorful	2	1
+2359437	A person grabbing a slice of pizza from a pizza box.	NONE,person-2 grab slice-5,person-2 grab from box-11,slice-5 of pizza-7	NONE	3	0
+2359440	A train speeding down the tracks in the middle of a field.	NONE,train-2 speed down track-6,track-6 in middle-9,middle-9 of field-12	NONE	3	0
+2359441	A bus covered in graffiti sitting in front of a building.	NONE,bus-2 cover in graffitus-5,graffitus-5 sit in front of building-11	NONE	2	0
+2359443	A young child cutting broccoli with a knife.	NONE,child-3 cut broccoli-5,child-3 cut with knife-8	NONE,child-3:young	2	1
+2359450	A line of multiple buses parked along a wall.	NONE,line-2 of bus-5,line-2 park along wall-9	NONE,bus-5:multiple	2	1
+2359454	A group of people standing on a sidewalk while carrying umbrella.	NONE,group-2 of people-4,group-2 stand on umbrella-11	NONE,umbrella-11:carry	2	1
+2359459	An entrance way table has a clock on it and a wall candelabra above it.	NONE,table-4 have clock-7,table-4 have candelabra-13,clock-7 on table-4,candelabra-13 above table-4	NONE	4	0
+2359461	A bluish bird with a worm in its mouth	NONE,bird-3 with worm-6,bird-3 have mouth-9,worm-6 in mouth-9	NONE,bird-3:bluish	3	1
+2359465	A cat laying on top of a wooden shelf with boxes.	NONE,cat-2 lay on top of shelf-9,shelf-9 with box-11	NONE,shelf-9:wooden	2	1
+2359466	a man riding a snowboard into the air.	NONE,man-2 ride snowboard-5,man-2 ride into air-8	NONE	2	0
+2359467	A white coffee mug sits beside a computer mouse and keyboard.	NONE,mug-4 sit beside mouse-9,mug-4 sit beside keyboard-11	NONE,mug-4:white	2	1
+2359470	A man in a black shirt rides an elephant as a man walks near it down a street.	NONE,man-2 in shirt-6,man-2 ride elephant-9,man-12 walk near man-2	NONE,shirt-6:black	3	1
+2359472	A women's doubles pair stands on a tennis court.	NONE,woman-2 have pair-5,pair-5 stand on court-10	NONE,pair-5:doubles	2	1
+2359474	A line of performers walking in a town plaza or courtyard.	NONE,line-2 of performer-4,line-2 walk in plaza-9,line-2 walk in courtyard-11	NONE	3	0
+2359480	A phone on top of a pile of papers.	NONE,phone-2 on top-4,phone-2 of pile-7,pile-7 of papers-9	NONE	3	0
+2359482	A white toilet with a black lid sitting in a bathroom.	NONE,toilet-3 with lid-7,toilet-3 sit in bathroom-11	NONE,toilet-3:white,lid-7:black	2	2
+2359488	Two people holding different parts of the same kite.	NONE,people-2 hold part-5,people-2' hold part-5,part-5 of kite-9	NONE,part-5:different,kite-9:same	3	2
+2359491	a traffic light on a side walk near a street	NONE,light-3 on side-6,light-3 walk near street-10	NONE	2	0
+2359498	A person standing at the plate in mid swing of a bat	NONE,standing-3 at plate-6,plate-6 in swing-9,swing-9 of bat-12	NONE,swing-9:mid	3	1
+2359505	A cat sitting on the keyboard of a computer on a table	NONE,keyboard-6 of computer-9,computer-9 on table-12	NONE	2	0
+2359508	A person holding a computer mouse next to a computer keyboard.	NONE,person-2 hold mouse-6,person-2 hold next to keyboard-11	NONE	2	0
+2359511	A closeup of a red fire hydrant including the chains.	NONE,closeup-2 of hydrant-7,hydrant-7 including chain-10	NONE,hydrant-7:red	2	1
+2359514	The inside of a bathroom with new toiletry items inside of it.	NONE,inside-2 of inside-2,inside-2 of bathroom-5,bathroom-5 with item-9	NONE,item-9:new	3	1
+2359521	A man sitting in a chair in a living room.	NONE,man-2 sit in chair-6,chair-6 in room-10	NONE,room-10:live	2	1
+2359523	A man with a laptop and a cat on a table.	NONE,man-2 with laptop-5,man-2 with cat-8,man-2 on table-11	NONE	3	0
+2359526	A man riding a motorcycle parked next to a gas pump.	NONE,man-2 ride motorcycle-5,man-2 park to pump-11	NONE	2	0
+2359528	There are many bikes parked over by the water.	NONE,bike-4 park over by water-9,bike-4' park over by water-9	NONE,bike-4:many,bike-4':many	2	2
+2359533	Guy doing a flip trick with his skateboard at the park	NONE,Guy-1 have skateboard-8,skateboard-8 at park-11	NONE,trick-5:flip	2	1
+2359534	A young man riding a skateboard on a sidewalk.	NONE,man-3 ride skateboard-6,skateboard-6 on sidewalk-9	NONE,man-3:young	2	1
+2359547	A man using his head to hit a soccer ball while playing soccer with other men.	NONE,man-2 have head-5,man-2 use head-5,head-5 hit ball-10	NONE,man-16:other	3	1
+2359552	a number of people riding motorcycles on a city street	NONE,people-4 ride motorcycle-6,people-4 ride on street-10,people-4' ride motorcycle-6,people-4' ride on street-10	NONE	4	0
+2359553	A tree grinder parked on the side of a street next to orange cones.	NONE,grinder-3 park on side-7,grinder-3 park to cone-14,side-7 of street-10	NONE,street-10:next,cone-14:orange	3	2
+2359560	This plate includes a sandwich, pickles, and a bowl of sauce.	NONE,plate-2 include sandwich-5,plate-2 include pickle-7,plate-2 include bowl-11,bowl-11 of sauce-13	NONE	4	0
+2359566	A train carrying army trucks with men standing on it.	NONE,train-2 carry truck-5,train-2 carry with man-7,man-7 stand on train-2	NONE	3	0
+2359567	A young lady eating a whole pizza by herself.	NONE,lady-3 eat by lady-3,lady-3 eat pizza-7	NONE,lady-3:young,pizza-7:whole	2	2
+2359568	A man flying through the air on a snowboard.	NONE,man-2 fly through air-6,air-6 on snowboard-9	NONE	2	0
+2359570	a large dining room filled with tables covered with linens, cups, and cakes	NONE,room-4 fill with table-7,table-7 cover with linen-10,table-7 cover with cup-12,table-7 cover with cake-15	NONE,room-4:large	4	1
+2359571	A half eaten cake with a rabbit drawn on top sits on a dish.	NONE,half-2 eat cake-4,half-2 eat with rabbit-7,half-2 sit on dish-14,rabbit-7 draw on top-10	NONE	4	0
+2359573	Two elephants facing each other with their trunks touching.	NONE,elephant-2 have trunk-8,elephant-2 face touching-9,elephant-2' have trunk-8,elephant-2' face touching-9	NONE,touching-9:other	4	1
+2359575	People are walking in front of a line of parked buses.	NONE,people-1 walk in front of line-8,people-1' walk in front of line-8,line-8 of bus-11	NONE,bus-11:parked	3	1
+2359577	Large white building with a red roof facing a city road.	NONE,building-3 with roof-7,building-3 face road-11	NONE,building-3:large,building-3:white,roof-7:red	2	3
+2359578	A train is sitting on a rail next to a river.	NONE,train-2 sit on rail-7,train-2 sit next to river-11	NONE	2	0
+2359580	A row of buses drive on the street.	NONE,row-2 of bus-4,row-2 drive on street-8	NONE	2	0
+2359583	A group of young men playing a game of baseball.	NONE,group-2 of man-5,group-2 play game-8,game-8 of baseball-10	NONE,man-5:young	3	1
+2359584	Shirtless man kicking up water on top of a surfboard.	NONE,man-2 kick up water-5,water-5 on top of surfboard-10	NONE,man-2:shirtless	2	1
+2359593	a road that has a bunch of people with umbrellas next to it	NONE,road-2 with umbrella-10,umbrella-10 next to road-2	NONE	2	0
+2359594	A woman holding a big bowl of cereal and a cell phone.	NONE,woman-2 hold bowl-6,bowl-6 of cereal-8,bowl-6 of phone-12	NONE,bowl-6:big	3	1
+2359596	Man on cherry picker fixing the wire lines.	NONE,man-1 on picker-4,man-1 fix line-8	NONE,picker-4:cherry	2	1
+2359602	two boats sitting on the shore close to the water	NONE,boat-2 sit on close-7,boat-2 sit to water-10,boat-2' sit on close-7,boat-2' sit to water-10	NONE	4	0
+2359603	A tennis player contorts his body to hold his racket far back on the court.	NONE,player-3 contort body-6,player-3 have body-6,player-3 have racket-10,body-6 hold racket-10,body-6 hold on court-15	NONE	5	0
+2359615	A room filled with bathroom sinks and bath tubs.	NONE,room-2 fill with sink-6,room-2 fill with tub-9	NONE	2	0
+2359616	A plate topped with different kinds of foods on a table.	NONE,plate-2 top with kind-6,plate-2 top on table-11,kind-6 of food-8	NONE,kind-6:different	3	1
+2359618	Several people on skateboards riding between cones on the pavement.	NONE,people-2 on skateboard-4,people-2 ride between cone-7,people-2' on skateboard-4,people-2' ride between cone-7,cone-7 on pavement-10	NONE,people-2:several,people-2':several	5	2
+2359619	A group of Zebras grazing in the grass with a truck in the background.	NONE,group-2 of Zebras-4,group-2 graze in grass-8,group-2 graze with truck-11,truck-11 in background-14	NONE	4	0
+2359624	A cat sitting on top of a seat behind a steering wheel.	NONE,cat-2 sit on top of seat-8,seat-8 behind wheel-12	NONE	2	0
+2359625	A view through a window of a lake.	NONE,view-2 through window-5,view-2 of lake-8	NONE	2	0
+2359630	Snow covered mountains, with people wearing skis and observing.	NONE,Snow-1 cover mountain-3,Snow-1 cover with people-6	NONE	2	0
+2359632	Two hawks flying near a snow covered mountain.	NONE,hawk-2 fly near snow-6,hawk-2 cover mountain-8,hawk-2' fly near snow-6,hawk-2' cover mountain-8	NONE	4	0
+2359634	Skateboarders at a park skating in an empty pool.	NONE,skateboarder-1 at park-4,skateboarder-1 skate in pool-9,skateboarder-1' at park-4,skateboarder-1' skate in pool-9	NONE,pool-9:empty	4	1
+2359636	Two pieces of luggage sitting on the floor next to a stairway.	NONE,piece-2 of luggage-4,piece-2 sit on floor-8,piece-2 sit next to stairway-12,piece-2' of luggage-4,piece-2' sit on floor-8,piece-2' sit next to stairway-12	NONE	6	0
+2359638	A restaurant kitchen with two giant menus sitting above the cooking area.	NONE,kitchen-3 with menu-7,kitchen-3 with menu-7',kitchen-3 sit above area-12	NONE,menu-7:giant,menu-7':giant,area-12:cooking	3	3
+2359645	A herd of elephants standing around a watering hole.	NONE,herd-2 of elephant-4,herd-2 stand around hole-9	NONE	2	0
+2359648	A man looking at a stop sign on a residential street.	NONE,man-2 look at sign-7,sign-7 on street-11	NONE,street-11:residential	2	1
+2359650	A woman's reflection of her taking a picture of a sink and toilet.	NONE,reflection-4 take picture-9,reflection-4 take picture-9,picture-9 of sink-12,picture-9 of toilet-14	NONE,woman-2:reflection	4	1
+2359656	An arrangement of various fruits and vegetables are displayed.	NONE,arrangement-2 of fruit-5,arrangement-2 of vegetable-7	NONE,fruit-5:various	2	1
+2359662	An army jeep with an American Flag sitting at an airport.	NONE,jeep-3 with Flag-7,jeep-3 sit at airport-11	NONE	2	0
+2359666	A herd of elephants walking across a dirt covered field.	NONE,herd-2 of elephant-4,herd-2 cover field-10,elephant-4 walk across dirt-8	NONE	3	0
+2359668	There are three donuts on a white plate	NONE,donut-4 on plate-8,donut-4' on plate-8,donut-4'' on plate-8	NONE,plate-8:white	3	1
+2359675	A man and woman eat pizza directly from the box.	NONE,man-2 eat pizza-6,man-2 eat from box-10,woman-4 eat pizza-6,woman-4 eat from box-10	NONE	4	0
+2359676	A green park bench sitting on the side of a  sidewalk.	NONE,bench-4 sit on side-8,side-8 of sidewalk-11	NONE,bench-4:green	2	1
+2359691	Man stands behind a very large kite inside a building.	NONE,Man-1 stand behind kite-7,kite-7 inside building-10	NONE,kite-7:large	2	1
+2359693	A bathroom with a white toilet next to a walk in shower.	NONE,bathroom-2 with toilet-6,bathroom-2 next to walk-10,walk-10 in shower-12	NONE,toilet-6:white	3	1
+2359695	A truck driving down a road with a group of people behind it.	NONE,truck-2 drive behind truck-2,group-9 of people-11	NONE	2	0
+2359698	A man in a shirt and tie with his hands in his pockets leaning against a wall.	NONE,man-2 in shirt-5,man-2 in tie-7,man-2 have hand-10,man-2 have pocket-13,man-2 lean against wall-17,shirt-5 with hand-10,hand-10 in pocket-13	NONE	7	0
+2359700	Four children in the snow learning to ski.	NONE,child-2 in snow-5,child-2' in snow-5,child-2'' in snow-5,child-2''' in snow-5	NONE	4	0
+2359701	A man holding a box filled with green salad.	NONE,man-2 hold box-5,man-2 fill with salad-9	NONE,salad-9:green	2	1
+2359702	A lot if birds are standing at the beach shore	NONE,bird-4 stand at shore-10,bird-4' stand at shore-10	NONE	2	0
+2359704	A large building has a Glass business logo on it.	NONE,building-3 have logo-8,logo-8 on building-3	NONE,building-3:large	2	1
+2359709	Baseball player practicing his batting near an outfield foul line.	NONE,player-2 have line-10,player-2 practice line-10,batting-5 near outfield-8	NONE,line-10:foul,line-10:batting	3	2
+2359713	A group of friends sitting down at a table sharing a meal.	NONE,group-2 of friend-4,group-2 sit down at table-9	NONE	2	0
+2359719	Two ducks floating together on a body of water.	NONE,duck-2 float on body-7,duck-2' float on body-7,body-7 of water-9	NONE	3	0
+2359720	a couple of horses show their love for each other	NONE,horse-4 have love-7,horse-4 show love-7,horse-4' have love-7,horse-4' show love-7	NONE	4	0
+2359721	A seagull swims toward a rocky shore in a lake.	NONE,seagull-2 swim toward shore-7,shore-7 in lake-10	NONE,shore-7:rocky	2	1
+2359730	Two men and a woman taking pictures with cameras.	NONE,man-2 take picture-7,man-2 take with camera-9,man-2' take picture-7,man-2' take with camera-9	NONE	4	0
+2359731	A door stands in front of a refrigerator with a microwave on top.	NONE,door-2 stand in front of refrigerator-8,door-2 stand with microwave-11,microwave-11 on top-13	NONE	3	0
+2359732	a kitchen filled with signs and equipment everywhere	NONE,kitchen-2 fill with sign-5,kitchen-2 fill with equipment-7	NONE	2	0
+2359734	A woman in pink coat and sunglasses talking on a phone.	NONE,woman-2 in coat-5,woman-2 in sunglass-7,woman-2 talk on phone-11	NONE,coat-5:pink	3	1
+2359735	A pitcher in black looking at the opposing teammate on third base.	NONE,pitcher-2 in black-4,pitcher-2 look at teammate-9,teammate-9 on base-12	NONE,teammate-9:oppose,base-12:third	3	2
+2359736	A person with a small baseball bat on a street.	NONE,person-2 with bat-7,person-2 on street-10	NONE,bat-7:small	2	1
+2359739	A very well cleaned white tiled bathroom in someone's house.	NONE,A-1 clean bathroom-7,A-1 clean in house-11,someone-9 have house-11	NONE,bathroom-7:tiled,bathroom-7:white	3	2
+2359740	Man sitting on a living room with green couches.	NONE,man-1 sit on room-6,room-6 with couch-9	NONE,room-6:live,couch-9:green	2	2
+2359741	A man playing with his two dogs in the snow.	NONE,man-2 have dog-7,man-2 play with dog-7,man-2 have dog-7',man-2 play with dog-7',dog-7 in snow-10,dog-7' in snow-10	NONE	6	0
+2359742	A crowd of people in a metropolitan area at dusk.	NONE,crowd-2 of people-4,crowd-2 at dusk-10,people-4 in area-8	NONE,area-8:metropolitan	3	1
+2359747	Man arranging stuffed bear in a chair watching a TV in a desert.	NONE,arranging-2 stuff bear-4,arranging-2 stuff in chair-7,chair-7 watch tv-10,tv-10 in desert-13	NONE	4	0
+2359748	A statue of a baseball player in the middle of a park.	NONE,statue-2 of player-6,statue-2 in middle-9,middle-9 of park-12	NONE	3	0
+2359752	The truck is driving down the highway toward the mountain.	NONE,truck-2 drive down highway-7,highway-7 toward mountain-10	NONE	2	0
+2359753	A man on a skateboard with a dog on the sidewalk	NONE,man-2 on skateboard-5,man-2 with dog-8,man-2 on sidewalk-11	NONE	3	0
+2359756	A horse grazes in a meadow next to an old fence post.	NONE,horse-2 graze in meadow-6,meadow-6 next to post-12	NONE,post-12:old	2	1
+2359759	A city filled with people, street signs, cars, and buses.	NONE,city-2 fill with people-5,city-2 fill with sign-8,city-2 fill with car-10,city-2 fill with bus-13	NONE	4	0
+2359761	Man man setting up a network inside a business.	NONE,man-2 set up network-6,network-6 inside business-9	NONE	2	0
+2359763	there are several stop signs along side the grass	NONE,sign-5 along side-7,sign-5' along side-7	NONE,sign-5:several,sign-5':several,grass-9:sign	2	3
+2359769	A family of giraffes standing next to a pile of logs.	NONE,family-2 of giraffe-4,family-2 stand to pile-9,pile-9 of logs-11	NONE	3	0
+2359774	A macaroni dish with broccoli, onion and tomato	NONE,dish-3 with broccoli-5,dish-3 with onion-7,dish-3 with tomato-9	NONE,dish-3:macaroni	3	1
+2359776	A row of white urinals mounted to a wall.	NONE,row-2 of urinal-5,row-2 mount to wall-9	NONE,urinal-5:white	2	1
+2359778	Two cats walk on the ledge of the inside of a window	NONE,cat-2 walk on ledge-6,cat-2' walk on ledge-6,ledge-6 of inside-9,inside-9 of window-12	NONE	4	0
+2359781	An elephant walks on dirt in a fenced enclosure with a building and trees.	NONE,elephant-2 walk on dirt-5,elephant-2 walk with building-12,elephant-2 walk with tree-14,dirt-5 in enclosure-9	NONE,enclosure-9:fenced	4	1
+2359785	A plan flying in the air above a mountain.	NONE,plan-2 fly in air-6,air-6 above mountain-9	NONE	2	0
+2359787	A little girl in a public bathroom for kids.	NONE,girl-3 in bathroom-7,girl-3 for kid-9	NONE,girl-3:little,bathroom-7:public	2	2
+2359793	A woman flying a kite on a rocky beach near the shore line.	NONE,woman-2 fly kite-5,woman-2 fly on beach-9,beach-9 near line-13	NONE,beach-9:rocky	3	1
+2359796	Three elephants headed toward a watering hole with trees and brush in the back ground.	NONE,elephant-2 head toward hole-7,elephant-2 head in ground-15,elephant-2' head toward hole-7,elephant-2' head in ground-15,elephant-2'' head toward hole-7,elephant-2'' head in ground-15,hole-7 with tree-9,hole-7 with brush-11	NONE,ground-15:back	8	1
+2359798	An airplane flying in the air during the day.	NONE,airplane-2 fly in air-6,airplane-2 fly during day-9	NONE	2	0
+2359799	A white cat lies down on its side.	NONE,cat-3 have side-8,cat-3 lie down on side-8	NONE,cat-3:white	2	1
+2359800	Goats eating grass on a rocky slope near mountains.	NONE,goat-1 eat grass-3,goat-1 eat on slope-7,goat-1' eat grass-3,goat-1' eat on slope-7,slope-7 near mountain-9	NONE,slope-7:rocky	5	1
+2359804	Man in suit and tie standing next to a woman with glasses.	NONE,man-1 in suit-3,man-1 in tie-5,man-1 stand next to woman-10,man-1 stand with glass-12	NONE	4	0
+2359810	a row of red and blue trucks parked in a parking lot	NONE,row-2 of truck-7,row-2 park in lot-12	NONE,truck-7:red,truck-7:blue	2	2
+2359811	a bunch of bananas hanging from a wire	NONE,banana-4 hang from wire-8,banana-4' hang from wire-8	NONE	2	0
+2359813	a bathroom with two sinks, a cabinet and a bathtub.	NONE,bathroom-2 with sink-5,bathroom-2 with sink-5',bathroom-2 with cabinet-8,bathroom-2 with bathtub-11	NONE	4	0
+2359816	The man is carrying a book bag with two bananas in it.	NONE,man-2 carry bag-7,man-2 carry with banana-10,man-2 carry with banana-10',banana-10 in man-2,banana-10' in man-2	NONE	5	0
+2359818	A motorcycle surrounded by people in a room.	NONE,motorcycle-2 surround by people-5,people-5 in room-8	NONE	2	0
+2359819	A flock of swans swims in a bay.	NONE,flock-2 of swan-4,flock-2 swim in bay-8	NONE	2	0
+2359832	am empty bowl and three empty beer bottles in front of a man	NONE,bottle-8 in front of man-13,bottle-8' in front of man-13,bottle-8'' in front of man-13	NONE,bowl-3:empty,bottle-8:empty,bottle-8':empty,bottle-8'':empty	3	4
+2359835	a pizza on a silver platter with some green peppers on top	NONE,pizza-2 on platter-6,pizza-2 with pepper-10,pizza-2 on top-12	NONE,platter-6:silver,pepper-10:green	3	2
+2359839	a woman with blonde hair posing with rope on a bed	NONE,woman-2 with hair-5,hair-5 pose with rope-8,rope-8 on bed-11	NONE,hair-5:blonde	3	1
+2359840	A man standing on the side of a commuter train.	NONE,man-2 stand on side-6,side-6 of train-10	NONE	2	0
+2359844	a dark room with some kind of vegetables in the window	NONE,room-3 with kind-6,kind-6 of vegetable-8,vegetable-8 in window-11	NONE,room-3:dark	3	1
+2359848	A train traveling into a train station next to a  group of people.	NONE,train-2 travel into station-7,train-2 travel next to group-11,group-11 of people-13	NONE	3	0
+2359853	a toilet with many rolls of toilet paper next to it	NONE,toilet-2 with roll-5,roll-5 of paper-8	NONE,roll-5:many	2	1
+2359854	A batter is taking swing at an incoming pitch in a baseball game	NONE,batter-2 take swing-5,batter-2 take at pitch-9,pitch-9 in game-13	NONE,pitch-9:incoming	3	1
+2359856	A car parked behind a fence next to a red train.	NONE,car-2 park behind fence-6,car-2 park to train-11	NONE,fence-6:next,train-11:red	2	2
+2359857	An old photo of a couple on a horse and buggy.	NONE,photo-3 of couple-6,photo-3 on horse-9,photo-3 on buggy-11	NONE,photo-3:old	3	1
+2359866	close up of two birds on a concrete slab	NONE,bird-5 on slab-9,bird-5' on slab-9	NONE,slab-9:concrete	2	1
+2359867	A red boat on a river with a lit ferry boat in the distance.	NONE,boat-3 on river-6,boat-3 in distance-14,river-6 with boat-11	NONE,boat-3:red,boat-11:lit	3	2
+2359876	A black car driving in snow next to a stop sign.	NONE,car-3 drive in snow-6,car-3 drive next to sign-11	NONE,car-3:black	2	1
+2359878	A plate of fruits containing oranges and bananas.	NONE,plate-2 of fruit-4,plate-2 contain orange-6,plate-2 contain banana-8	NONE	3	0
+2359879	A photo of the building with focus on the clock.	NONE,photo-2 of building-5,photo-2 on clock-10,building-5 with focus-7	NONE	3	0
+2359882	A photo of a woman wheeling her bags in an airport.	NONE,photo-2 of woman-5,photo-2 have bag-8,photo-2 wheel bag-8,photo-2 wheel in airport-11	NONE	4	0
+2359887	A small dog making a sleep face with long brown hair.	NONE,dog-3 make sleep-6,dog-3 face with hair-11	NONE,dog-3:small,hair-11:brown,hair-11:long	2	3
+2359889	A sign warning drivers to look out for Turtles crossing the road.	NONE,sign-2 warn driver-4,Turtles-9 cross road-12	NONE	2	0
+2359890	A group of zebras are crossing a dirt road.	NONE,group-2 of zebra-4,group-2 cross road-9	NONE	2	0
+2359894	A woman with a pink umbrella stands outside a cart.	NONE,woman-2 with umbrella-6,woman-2 stand outside cart-10	NONE,umbrella-6:pink	2	1
+2359896	A giraffe stands near a tree in the wilderness.	NONE,giraffe-2 stand near tree-6,tree-6 in wilderness-9	NONE	2	0
+2359897	a grassy medium between a two way street in a city	NONE,medium-3 between street-8,medium-3 in city-11	NONE,medium-3:grassy	2	1
+2359898	A black refrigerator freezer inside of a kitchen with a table and chairs.	NONE,inside-5 of kitchen-8,inside-5 with table-11,inside-5 with chair-13	NONE,inside-5:black	3	1
+2359904	A hot dog in a bunch and french fries sitting on a plate	NONE,bunch-6 sit on plate-13,fries-9 sit on plate-13,fries-9' sit on plate-13	NONE,dog-3:hot,fries-9:french,fries-9':french	3	3
+2359911	A dog laying on the back of a flatbed truck with a camper.	NONE,dog-2 lay on back-6,back-6 of truck-10,truck-10 with camper-13	NONE,truck-10:flatbed	3	1
+2359913	A glass coffee table with a vase of roses on top.	NONE,table-4 with vase-7,table-4 of rose-9,rose-9 on top-11	NONE	3	0
+2359914	an image of a man walking on the beach with is bird	NONE,image-2 of man-5,man-5 walk with beach-9	NONE,image-2:bird	2	1
+2359915	Two men skiing across a snow covered slope.	NONE,man-2 ski across snow-6,man-2 cover slope-8,man-2' ski across snow-6,man-2' cover slope-8	NONE	4	0
+2359917	a stuffed animal tied to something with a chain on the ground	NONE,animal-3 tie to something-6,animal-3 tie with chain-9,animal-3 tie on ground-12	NONE,animal-3:stuffed	3	1
+2359920	A group of men walking around a  sandy beach near a large passenger jet.	NONE,group-2 of man-4,group-2 walk around beach-9,beach-9 near jet-14	NONE,beach-9:sandy,jet-14:large	3	2
+2359925	A horse drawn carriage has passengers dressed in top hats and coats.	NONE,horse-2 draw carriage-4,horse-2 have passenger-6,passenger-6 dress in hat-10,passenger-6 dress in coat-12	NONE,hat-10:top	4	1
+2359926	Two men are using cellphones while waiting for a train.	NONE,man-2 use cellphone-5,man-2' use cellphone-5'	NONE	2	0
+2359928	A young woman riding a skateboard at a skate park.	NONE,woman-3 ride skateboard-6,woman-3 ride at park-10	NONE,woman-3:young,park-10:skate	2	2
+2359929	An adult skier towing a small child by a ski pole.	NONE,skier-3 tow child-7,skier-3 tow by pole-11	NONE,skier-3:adult,child-7:small,pole-11:ski	2	3
+2359931	Two young boys standing next to each other near a wall.	NONE,boy-3 stand near wall-11,boy-3' stand near wall-11	NONE,boy-3:young,boy-3':young	2	2
+2359933	The window in the bathroom is above the long bathtub.	NONE,window-2 in bathroom-5,window-2 above bathtub-10	NONE,bathtub-10:long	2	1
+2359934	A bridled horse with the sky and grass in the background.	NONE,horse-3 with sky-6,horse-3 with grass-8,horse-3 in background-11	NONE,horse-3:bridled	3	1
+2359935	A bus traveling down a busy city street with old red brick buildings.	NONE,bus-2 travel down street-8,street-8 with building-13	NONE,street-8:busy,building-13:red,building-13:old	2	3
+2359936	Two zebras standing by a log in a grassy field while people in a car watch.	NONE,zebra-2 stand by log-6,zebra-2' stand by log-6,log-6 in field-10,people-12 in car-15,people-12' in car-15	NONE,field-10:grassy,people-12:watch,people-12':watch	5	3
+2359937	A small bathroom with blue carpeting and a sky light.	NONE,bathroom-3 with carpeting-6,bathroom-3 with light-10	NONE,bathroom-3:small,carpeting-6:blue	2	2
+2359940	A man in white and blue wetsuit with a surfboard.	NONE,man-2 in wetsuit-7,man-2 with surfboard-10	NONE,wetsuit-7:white,wetsuit-7:blue	2	2
+2359950	Bicyclists are riding on a trail beside other walkers.	NONE,Bicyclists-1 ride on trail-6,Bicyclists-1 ride beside walker-9,Bicyclists-1' ride on trail-6,Bicyclists-1' ride beside walker-9'	NONE,walker-9:other,walker-9':Bicyclists	4	2
+2359952	A guy does tricks on his skateboard at a skate park that appears to be on a seashore.	NONE,guy-2 do trick-4,guy-2 have skateboard-7,guy-2 do at park-11,trick-4 on skateboard-7	NONE,park-11:skate	4	1
+2359953	A man paddles a surf board along the shore on a calm day.	NONE,man-2 paddle board-6,board-6 along shore-9,shore-9 on day-13	NONE	3	0
+2359957	A man walking on  a beach holding a surfboard.	NONE,man-2 walk on beach-6,beach-6 hold surfboard-9	NONE	2	0
+2359958	A white and blue plate sitting on top of a table next to a knife and fork.	NONE,plate-5 sit on top of table-11,table-11 next to knife-15,table-11 next to fork-17	NONE,plate-5:white,plate-5:blue	3	2
+2359960	A baseball player has just hit the baseball at this game.	NONE,player-3 hit baseball-8,player-3 hit at game-11	NONE	2	0
+2359961	a bathroom in an outhose with a wooden window on the side of it	NONE,bathroom-2 in outhose-5,bathroom-2 with window-9,bathroom-2 on side-12,side-12 of bathroom-2	NONE,window-9:wooden	4	1
+2359963	A picture of two zebras eating at the grass.	NONE,picture-2 of zebra-5,picture-2 of zebra-5',picture-2 eat at grass-9	NONE	3	0
+2359965	a couple of zebras are standing in a green field	NONE,zebra-4 stand in field-10,zebra-4' stand in field-10	NONE,field-10:green	2	1
+2359970	A orange pan sitting on a stove top filled with vegetables.	NONE,pan-3 sit on top-8,pan-3 fill with vegetable-11	NONE,pan-3:orange	2	1
+2359971	a polar bear fully submerged in a small body of water	NONE,bear-3 in body-9,body-9 of water-11	NONE,bear-3:polar,bear-3:submerged,body-9:small	2	3
+2359974	A nighttime parade with a decorated elephant walking in it	NONE,parade-3 with elephant-7,elephant-7 walk in parade-3	NONE,parade-3:nighttime,elephant-7:decorated	2	2
+2359980	Several oranges rest in a bowl and on a table.	NONE,orange-2 rest in bowl-6,orange-2 rest on table-10,orange-2' rest in bowl-6,orange-2' rest on table-10	NONE,orange-2:several,orange-2':several	4	2
+2359988	A woman stepping into a corral near a rustic barn with a young cow.	NONE,woman-2 step into corral-6,corral-6 near barn-10,barn-10 with cow-14	NONE,barn-10:rustic,cow-14:young	3	2
+2359989	Woman with multiple birds standing on pathway outdoors.	NONE,Woman-1 with bird-4,Woman-1 stand on outdoors-8	NONE,bird-4:multiple,outdoors-8:pathway	2	2
+2359990	An elephant in a pool of water near the bank	NONE,elephant-2 in pool-5,elephant-2 near bank-10,pool-5 of water-7	NONE	3	0
+2339406	A white polar bear standing on the edge of a lake.	NONE,bear-4 stand on edge-8,edge-8 of lake-11	NONE,bear-4:polar,bear-4:white	2	2
+2359997	an elephant picks up riders from a platform	NONE,elephant-2 pick up rider-5,rider-5 from platform-8	NONE	2	0
+2359999	A cow standing on a dry grass field near trees.	NONE,cow-2 stand on field-8,field-8 near tree-10	NONE,field-8:dry	2	1
+2360002	A trains with both passenger and freight cars moving along a train track.	NONE,train-2 with car-8,train-2 move along track-13,train-2' with car-8,train-2' move along track-13	NONE	4	0
+2360008	A group of people standing in a parking lot next to a van.	NONE,group-2 of people-4,people-4 stand in lot-9,people-4 next to van-13	NONE	3	0
+2360010	A young person riding a skateboard up the side of a ramp.	NONE,person-3 ride skateboard-6,person-3 ride up side-9,side-9 of ramp-12	NONE,person-3:young	3	1
+2360020	People walking in the city beside buildings and street signs.	NONE,people-1 walk in city-5,people-1 walk beside building-7,people-1 walk beside sign-10,people-1' walk in city-5,people-1' walk beside building-7,people-1' walk beside sign-10	NONE	6	0
+2360021	A sail boat floating across a lake surrounded by forest.	NONE,boat-3 float across lake-7,boat-3 surround by forest-10	NONE,boat-3:sail	2	1
+2360024	An old and new view of a building which has a restaurant on the front.	NONE,view-5 of building-8,restaurant-12 on front-15	NONE,view-5:new,view-5:old	2	2
+2360025	A large propeller airplane on display in a museum.	NONE,airplane-4 on display-6,airplane-4 in museum-9	NONE,airplane-4:large	2	1
+2360026	A guy on a surf board riding a wave.	NONE,guy-2 on board-6,guy-2 ride wave-9	NONE	2	0
+2360027	A girl raring back at a soccer ball on a field.	NONE,girl-2 rare at ball-8,ball-8 on field-11	NONE	2	0
+2360029	A cake with a person cutting into it.	NONE,cake-2 cut into cake-2,cake-2 with person-5	NONE	2	0
+2360031	Blue commuter bus sharing roadway with motorcyclists in urban area.	NONE,bus-3 share roadway-5,bus-3 share with motorcyclist-7,motorcyclist-7 in area-10	NONE,bus-3:blue,area-10:urban	3	2
+2360035	A young woman carrying a surfboard on a wet sandy beach.	NONE,woman-3 carry surfboard-6,surfboard-6 on beach-11	NONE,woman-3:young,beach-11:wet,beach-11:sandy	2	3
+2360046	A stop sign on a post sitting in front of a building.	NONE,sign-3 on post-6,sign-3 sit in front of building-12	NONE	2	0
+2360049	a lady in blue shorts and white shirt swinging at a tennis ball	NONE,lady-2 in shorts-5,lady-2 in shirt-8	NONE,shorts-5:blue,shirt-8:white	2	2
+2360050	S&B train number 3815 coming down the track, country area.	NONE,S&B-1 train number-3,number-3 come down area-11	NONE	2	0
+2360055	A young woman sitting at a table using a smart phone.	NONE,woman-3 sit at table-7,table-7 use phone-11	NONE,woman-3:young,phone-11:smart	2	2
+2360057	A woman flying a kite with her dog over a sandy field.	NONE,woman-2 fly kite-5,woman-2 fly with dog-8,woman-2 have dog-8,dog-8 over field-12	NONE,field-12:sandy	4	1
+2360060	Guy up in the air doing a skateboard trick	NONE,Guy-1 in air-5,air-5 do trick-9	NONE,trick-9:skateboard	2	1
+2360063	A zebra grazing on food behind a metal fence.	NONE,grazing-3 on food-5,grazing-3 behind fence-9	NONE	2	0
+2360065	A man sitting on a top of a green couch.	NONE,man-2 sit on top-6,top-6 of couch-10	NONE,couch-10:green	2	1
+2360066	a couple of people are standing out in the snow	NONE,people-4 stand out in snow-10,people-4' stand out in snow-10	NONE	2	0
+2360077	Man posing in front of a pair of giraffes in background.	NONE,man-1 pose in front of giraffe-9,giraffe-9 in background-11	NONE	2	0
+2360081	a man is sitting with a laptop box on him	NONE,man-2 sit with box-8,box-8 on man-2	NONE,box-8:laptop	2	1
+2360088	A succession of skiers descend down a snowy slope.	NONE,succession-2 of skier-4,succession-2 descend down slope-9	NONE,slope-9:snowy	2	1
+2360089	A den with a couch, ottomans, chairs, a desk, lamps and a table.	NONE,den-2 with couch-5,den-2 with ottoman-7,den-2 with chair-9,den-2 with desk-12,den-2 with lamp-14,den-2 with table-17	NONE	6	0
+2360090	Five men standing with backpacks and a police officer looking at them.	NONE,man-2 stand with backpack-5,man-2 stand with officer-9,man-2' stand with backpack-5,man-2' stand with officer-9,man-2'' stand with backpack-5,man-2'' stand with officer-9,man-2''' stand with backpack-5,man-2''' stand with officer-9,man-2'''' stand with backpack-5,man-2'''' stand with officer-9	NONE	10	0
+2360093	A very cute small boy holding some food in his hand.	NONE,holding-6 have hand-11,food-8 in hand-11	NONE,holding-6:small,holding-6:cute	2	2
+2360096	A young man with a black hat and a baseball glove.	NONE,man-3 with hat-7,man-3 with glove-11	NONE,man-3:young,hat-7:black	2	2
+2360108	A bicycle with a covered cart in the front	NONE,bicycle-2 with cart-6,cart-6 in front-9	NONE,cart-6:cover	2	1
+2360111	Four male tennis players pose on the court with tennis rackets and a ball.	NONE,player-4 pose on court-8,player-4' pose on court-8,player-4'' pose on court-8,player-4''' pose on court-8,court-8 with racket-11,court-8 with ball-14	NONE,player-4:male,player-4':male,player-4'':male,player-4''':male	6	4
+2360112	A large jetliner flying over a grass covered field.	NONE,jetliner-3 fly over grass-7,jetliner-3 cover field-9	NONE,jetliner-3:large	2	1
+2360113	The small piece of cake has dark writing on the icing.	NONE,piece-3 of cake-5,piece-3 have writing-8,writing-8 on icing-11	NONE,piece-3:small,writing-8:dark	3	2
+2360114	People are sitting at the beach surrounded by tiki umbrellas.	NONE,people-1 sit at beach-6,people-1' sit at beach-6,beach-6 surround by umbrella-10	NONE,umbrella-10:tiki	3	1
+2360115	A living room with a coffee table, chair, and a tv.	NONE,room-3 with table-7,room-3 with chair-9,room-3 with tv-13	NONE,room-3:live	3	1
+2360117	A man on a surfboard in the water.	NONE,man-2 on surfboard-5,man-2 in water-8	NONE	2	0
+2360119	A man tying the strings of a kite.	NONE,man-2 tie string-5,string-5 of kite-8	NONE	2	0
+2360121	A man walking down a  street in front of a cow.	NONE,man-2 walk down street-6,street-6 in front of cow-11	NONE	2	0
+2360124	A white polar bar chewing on it's hand.	NONE,bar-4 chew on hand-9,bar-4 have hand-9	NONE,bar-4:polar,bar-4:white	2	2
+2360125	A woman on a bed with wheels in middle of a street.	NONE,woman-2 on bed-5,woman-2 of street-12,bed-5 with wheel-7,wheel-7 in middle-9	NONE	4	0
+2360134	A man wearing a blue shirt and white shorts playing tennis.	NONE,man-2 wear shirt-6,man-2 wear playing-10,man-2 wear tennis-11	NONE,shirt-6:blue,playing-10:white	3	2
+2360138	Black and white photograph of a man on skateboard.	NONE,photograph-4 of man-7,photograph-4 on skateboard-9	NONE,photograph-4:white,photograph-4:black	2	2
+2360139	Yellow van with a canopy in the back on some brick pavers.	NONE,van-2 with canopy-5,canopy-5 in back-8,back-8 on brick-11	NONE,van-2:paver	3	1
+2360142	A baseball player wearing a leather glove standing in the dirt.	NONE,player-3 wear standing-8,standing-8 in dirt-11	NONE	2	0
+2360151	A group of men sitting around a wooden table.	NONE,group-2 of man-4,group-2 sit around table-9	NONE,table-9:wooden	2	1
+2360156	A decorated table covered with plates of food and vegetables.	NONE,table-3 cover with plate-6,plate-6 of food-8,plate-6 of vegetable-10	NONE,table-3:decorate	3	1
+2360166	A girl is hitting the tennis ball during a match.	NONE,girl-2 hit ball-7,girl-2 hit during match-10	NONE	2	0
+2360168	A large bed sitting in a bedroom next to a book shelf.	NONE,bed-3 sit in bedroom-7,bed-3 sit next to shelf-12	NONE,bed-3:large	2	1
+2360169	a big clock at the top of a stadium	NONE,clock-3 at top-6,top-6 of stadium-9	NONE,clock-3:big	2	1
+2360172	A person on a racing motorcycle making a sharp left turn.	NONE,person-2 on motorcycle-6,motorcycle-6 make left-10	NONE,person-2:turn,motorcycle-6:race,left-10:sharp	2	3
+2360174	A group of men on horses at a watering hole.	NONE,group-2 of man-4,man-4 on horse-6,horse-6 at watering-9	NONE,group-2:hole	3	1
+2360179	Unmanned boats with masts moored together on calm water.	NONE,boat-2 with mast-4,boat-2 moor on water-9,boat-2' with mast-4,boat-2' moor on water-9	NONE,boat-2:unmanned,boat-2':unmanned	4	2
+2360185	a truck with signs on it parked in a green field with tents and flags lining the field.	NONE,truck-2 with sign-4,truck-2 park in field-11,sign-4 on truck-2,field-11 with tent-13,field-11 with flag-15	NONE,field-11:green	5	1
+2360188	OLD TIME RAILROAD CABOOSE SITTING ON TRACK, WITH TWO PEOPLE INSIDE	NONE,TIME-2 railroad SITTING-5,TIME-2 railroad with INSIDE-12,SITTING-5 on TRACK-7	NONE	3	0
+2360191	A red and yellow bus sits on the back of a flatbed truck, driving down the highway.	NONE,bus-5 sit on back-9,back-9 of truck-13	NONE,bus-5:red,bus-5:yellow,truck-13:flatbed	2	3
+2360193	a photo of a meter in black and white.	NONE,photo-2 of meter-5,photo-2 in black-7,photo-2 in white-9	NONE	3	0
+2360195	Many different signs cover a post next to a bus stop.	NONE,sign-3 cover post-6,sign-3 cover next to stop-11,sign-3' cover post-6,sign-3' cover next to stop-11	NONE,sign-3:many,sign-3:different,sign-3':many,sign-3':different	4	4
+2360199	A parking meter with garland on it near a curb and a parked car.	NONE,meter-3 on meter-3,meter-3 with garland-5,meter-3 near curb-10,meter-3 near car-14	NONE,car-14:parked	4	1
+2360202	A man wearing an Italy shirt is standing in the street.	NONE,man-2 wear shirt-6,man-2 stand in street-11	NONE	2	0
+2360206	A couple riding on the back of a horse drawn carriage.	NONE,couple-2 ride on back-6,couple-2 draw carriage-11,back-6 of horse-9	NONE	3	0
+2360208	A lamp sitting next to a red vase filled with flowers.	NONE,lamp-2 sit next to vase-8,vase-8 fill with flower-11	NONE,vase-8:red	2	1
+2360215	a clock the a weather vein on the top of it	NONE,vein-6 on top-9,top-9 of clock-2	NONE	2	0
+2360221	Dog jumps over a woman to catch a frisbee in a dog show.	NONE,Dog-1 jump over woman-5,woman-5 catch frisbee-9,frisbee-9 in show-13	NONE	3	0
+2360222	A small car is pulling a man on a bicycle.	NONE,car-3 pull man-7,man-7 on bicycle-10	NONE,car-3:small	2	1
+2360224	A home computer and mouse on a desk in a room.	NONE,computer-3 on desk-8,computer-3 in room-11	NONE	2	0
+2360226	Two people with some luggage by a big train.	NONE,people-2 with some-4,people-2 luggage by train-9,people-2' with some-4,people-2' luggage by train-9	NONE,train-9:big	4	1
+2360229	The tower of the building has a clock displayed.	NONE,tower-2 of building-5,tower-2 have clock-8	NONE	2	0
+2360234	Three people sitting on a sofa playing video games.	NONE,people-2 sit on sofa-6,people-2' sit on sofa-6,people-2'' sit on sofa-6,sofa-6 play game-9	NONE,game-9:video	4	1
+2360237	a black handled pair of scissors laying on something.	NONE,pair-4 of scissors-6,scissors-6 lay on something-9	NONE	2	0
+2360241	Small bathroom with toilet and sink connected to each other.	NONE,bathroom-2 with toilet-4,bathroom-2 with sink-6	NONE,bathroom-2:small,bathroom-2:connect	2	2
+2360242	A older man sitting on a bench holding a cart with a sign warning people of the return of Jesus Christ.	NONE,man-3 sit on bench-7,bench-7 hold cart-10,bench-7 hold with sign-13,sign-13 warn people-15,people-15 of return-18,return-18 of Christ-21	NONE,man-3:older	6	1
+2360245	A person on a blue snow board on a metal stand.	NONE,person-2 on board-7,board-7 on metal-10	NONE,person-2:stand,board-7:blue	2	2
+2360247	A man on an inverted bicycle  riding down the street	NONE,man-2 on bicycle-6,bicycle-6 ride down street-10	NONE,bicycle-6:inverted	2	1
+2360251	A city street filled with lots of traffic line with tall buildings.	NONE,street-3 fill with line-9,street-3 fill with building-12	NONE,building-12:tall	2	1
+2360254	Three persons are skiing on snow clad mountains.	NONE,person-2 ski on mountain-8,person-2' ski on mountain-8',person-2'' ski on mountain-8''	NONE	3	0
+2360260	A herd of sheep standing alongside of a lake surrounded by mountains.	NONE,herd-2 of alongside-6,herd-2 surround by mountain-12,alongside-6 of lake-9	NONE	3	0
+2360265	A man in black jacket walking on beach with a clock tower in the distance.	NONE,man-2 in jacket-5,man-2 walk on beach-8,man-2 walk with tower-12,tower-12 in distance-15	NONE,jacket-5:black	4	1
+2360266	a man in a colorful wetsuit riding a wave	NONE,man-2 in wetsuit-6,wetsuit-6 ride wave-9	NONE,wetsuit-6:colorful	2	1
+2360272	A living room filled with furniture and a TV.	NONE,room-3 fill with furniture-6,room-3 fill with tv-9	NONE	2	0
+2360273	A woman in a bikini sitting on a towel on the beach.	NONE,woman-2 in bikini-5,woman-2 sit on towel-9,towel-9 on beach-12	NONE	3	0
+2360274	A woman sitting in front of a laptop computer on a desk.	NONE,woman-2 sit in front of computer-9,computer-9 on desk-12	NONE,computer-9:laptop	2	1
+2360276	A family of elephants walking across a dirt field.	NONE,family-2 of elephant-4,family-2 walk across field-9	NONE	2	0
+2360280	A rock sitting on top of a boulder with a stop sign painted on it.	NONE,rock-2 paint on rock-2,rock-2 sit on top of boulder-8,boulder-8 with sign-12	NONE	3	0
+2360284	Skaters take advantage of the new skate park	NONE,skater-1 take advantage-3,skater-1' take advantage-3,advantage-3 of park-8	NONE,park-8:new	3	1
+2360286	A IMAGE OF A BATHROOM WITH A TOILET IN IT	NONE,image-2 in image-2,image-2 of BATHROOM-5,image-2 with toilet-8	NONE	3	0
+2360291	A picture of the head of a brown cow wearing a halter.	NONE,picture-2 of head-5,picture-2 wear halter-12,head-5 of cow-9	NONE,cow-9:brown	3	1
+2360295	A clock hanging from the ceiling in a room.	NONE,clock-2 hang from ceiling-6,ceiling-6 in room-9	NONE	2	0
+2360300	a lincoln airport police truck parked in the back of a building with lots of windows	NONE,truck-5 park in back-9,truck-5 park with window-16,back-9 of building-12	NONE,truck-5:lincoln	3	1
+2360305	Two benches sit in front of a large store.	NONE,bench-2 sit in front of store-9,bench-2' sit in front of store-9	NONE,store-9:large	2	1
+2360308	A view of a motorcycle from behind. The person taking the picture appears to be on a bike as well.	NONE,view-2 of motorcycle-5,view-2 from behind-7	NONE	2	0
+2360314	An adorable dog walking along a sandy beach next to the ocean.	NONE,dog-3 walk along beach-8,dog-3 walk next to ocean-12	NONE,dog-3:adorable,beach-8:sandy	2	2
+2360316	a group of men working the kitchen behind a counter top	NONE,group-2 of man-4,man-4 work kitchen-7,kitchen-7 behind top-11	NONE,top-11:counter	3	1
+2360320	a group of stuffed teddy bears in a display case	NONE,group-2 of teddy-5,group-2 bear in case-10	NONE,teddy-5:stuffed	2	1
+2360323	A person riding a snowboard down a snow covered slope.	NONE,person-2 ride snowboard-5,person-2 cover slope-10	NONE	2	0
+2360338	a number of small boats in body of water	NONE,number-2 in body-7,number-2 of water-9	NONE,boat-5:small,boat-5':small	2	2
+2360347	A herd of elephants walking into a large body of water.	NONE,herd-2 of elephant-4,herd-2 walk into body-9,body-9 of water-11	NONE,body-9:large	3	1
+2360348	A standing toilet in a bathroom stall next to a trash can.	NONE,toilet-3 in stall-7,toilet-3 can next to trash-11	NONE	2	0
+2360350	A man standing in the middle of the room, with clutter all around.	NONE,standing-3 in middle-6,middle-6 of room-9,middle-6 with clutter-12	NONE	3	0
+2360352	A church spire with a lit up clock in a snowy evening.	NONE,spire-3 light up clock-8,clock-8 in evening-12	NONE,evening-12:snowy	2	1
+2360355	Several laptop computers and phones on a desk.	NONE,computer-3 on desk-8,computer-3' on desk-8	NONE,computer-3:several,computer-3':several	2	2
+2360358	Two men sitting on a couch playing games on Nintendo Wii.	NONE,man-2 sit on couch-6,man-2' sit on couch-6,couch-6 play game-8,couch-6 play on Wii-11	NONE	4	0
+2360362	Lower body shot of man in dark cloths, walking away in cross walk area, holding skate board.	NONE,body-2 shoot of man-5,body-2 shoot in cloth-8	NONE,body-2:lower,cloth-8:dark,area-15:cross,board-19:skate,board-19:hold	2	5
+2360364	A black and white photo of a woman hitting a tennis ball.	NONE,photo-5 of woman-8,photo-5 hit ball-12	NONE,photo-5:white,photo-5:black	2	2
+2360367	Close up of a coin operated parking meter with a car parked behind it.	NONE,Close-1 operate meter-8,Close-1 operate with car-11,car-11 park behind Close-1	NONE	3	0
+2360368	A picture of a person standing by a bicycle.	NONE,picture-2 of person-5,picture-2 stand by bicycle-9	NONE	2	0
+2360369	Toilet with a black lid and rolls of toilet tissue in a bathroom	NONE,roll-7 of tissue-10,tissue-10 in bathroom-13	NONE,lid-5:black	2	1
+2360375	Cattle grazing in a grassy field filled with trees.	NONE,cattle-1 graze in field-6,cattle-1' graze in field-6,field-6 fill with tree-9	NONE,field-6:grassy	3	1
+2360377	A doll standing next to a vase filled with flowers and plants.	NONE,doll-2 stand next to vase-7,vase-7 fill with flower-10,vase-7 fill with plant-12	NONE	3	0
+2360382	a woman in a top hat sits on a horse	NONE,woman-2 in hat-6,woman-2 sit on horse-10	NONE,hat-6:top	2	1
+2360389	A young boy in pajamas holding up a camera.	NONE,boy-3 in pajamas-5,boy-3 hold up camera-9	NONE,boy-3:young	2	1
+2360391	Two men standing next to each other at a bar having a drink.	NONE,man-2 stand at bar-10,man-2' stand at bar-10,bar-10 have drink-13	NONE	3	0
+2360400	The young boy is eating his donut and watching tv.	NONE,boy-3 eat donut-7,boy-3 have donut-7,boy-3 watch tv-10	NONE,boy-3:young	3	1
+2360404	a small statue under the shadow of a fruit tree	NONE,statue-3 under shadow-6,shadow-6 of tree-10	NONE,statue-3:small	2	1
+2360405	A black bird flying over a body of water.	NONE,bird-3 fly over body-7,body-7 of water-9	NONE,bird-3:black	2	1
+2360406	two men standing by a display of military items	NONE,standing-3 by display-6,display-6 of item-9	NONE,item-9:military	2	1
+2360409	A kid playing a game of frisbee with his dog in the snow.	NONE,kid-2 play game-5,kid-2 have dog-10,kid-2 play with dog-10,game-5 of frisbee-7,dog-10 in snow-13	NONE	5	0
+2360410	A cooler with several bottles of S. Pellegrino sparkling water.	NONE,cooler-2 with bottle-5,cooler-2 of water-10	NONE,bottle-5:several,water-10:sparkling	2	2
+2360414	a desk with an electronic device a cell phone and a ipod on it	NONE,desk-2 with device-6,ipod-12 on desk-2	NONE,device-6:electronic	2	1
+2360417	A woman holding a child next to a wooden fence.	NONE,woman-2 hold child-5,woman-2 hold next to fence-10	NONE,fence-10:wooden	2	1
+2360419	A large plane with people alighting at the airport	NONE,plane-3 with people-5,people-5 alight at airport-9	NONE,plane-3:large	2	1
+2360424	Large white clock sitting on the side of an old theater building.	NONE,clock-3 sit on side-7,side-7 of building-12	NONE,clock-3:large,clock-3:white,building-12:old	2	3
+2360426	Ornate clock on face of large block building.	NONE,clock-2 on face-4,clock-2 of building-8	NONE,clock-2:ornate,building-8:large	2	2
+2360436	A truck with a dog sticking its head out the back window in front of a building.	NONE,truck-2 with dog-5,truck-2 have head-8,truck-2 stick head-8,truck-2 stick out window-12,window-12 in front of building-17	NONE,window-12:back	5	1
+2360440	three brown bears are cooling off in the water	NONE,bear-3 cool off in water-9,bear-3' cool off in water-9,bear-3'' cool off in water-9	NONE,bear-3:brown,bear-3':brown,bear-3'':brown	3	3
+2360443	Three dogs running around a field with a woman holding a frisbee.	NONE,dog-2 run around field-6,dog-2 run around with woman-9,dog-2' run around field-6,dog-2' run around with woman-9,dog-2'' run around field-6,dog-2'' run around with woman-9,woman-9 hold frisbee-12	NONE	7	0
+2360444	A food truck parks next to a busy street as two taxi cabs pass it by.	NONE,park-4 pass street-9,park-4 pass next to street-9,park-4' pass street-9,park-4' pass next to street-9,street-9 as cab-13,street-9 as cab-13'	NONE,street-9:busy	6	1
+2360451	Someone playing tennis on the tennis court with their racket	NONE,playing-2 have racket-10,tennis-3 on court-7,court-7 with racket-10	NONE	3	0
+2360456	A surfer is riding a wave with his hand in the water.	NONE,surfer-2 ride wave-6,surfer-2 have hand-9,surfer-2 ride with hand-9,hand-9 in water-12	NONE	4	0
+2360461	Top of a grandfather clock with a mouse perched on top.	NONE,Top-1 of clock-5,Top-1 perch on top-11,clock-5 with mouse-8	NONE	3	0
+2360466	Red double decker buses are in a parking lot.	NONE,bus-4 in lot-9,bus-4' in lot-9	NONE,bus-4:red,bus-4:double,bus-4':red,bus-4':double	2	4
+2360467	Two vehicles driving down the road near a building.	NONE,vehicle-2 drive down road-6,vehicle-2' drive down road-6,road-6 near building-9	NONE	3	0
+2360469	A train traveling next to a small country town and a small red house.	NONE,train-2 travel to town-9,train-2 travel to house-14	NONE,town-9:small,house-14:small,house-14:red	2	3
+2360473	A microwave oven on a dock near the water.	NONE,microwave-2 oven on dock-6,dock-6 near water-9	NONE	2	0
+2360476	A cat laying on a bed next to a remote control.	NONE,cat-2 lay on bed-6,cat-2 lay next to control-11	NONE,control-11:remote	2	1
+2360477	A kitchen with a white tile wall and a chrome counter with a built in oven.	NONE,kitchen-2 with wall-7,kitchen-2 with chrome-10,kitchen-2 counter with oven-16	NONE,wall-7:white,oven-16:build	3	2
+2360478	A baby looking at two parrots on a table.	NONE,baby-2 look at parrot-6,baby-2 look at parrot-6',parrot-6 on table-9,parrot-6' on table-9	NONE	4	0
+2360483	A person takes a photo of the side mirror on a bus.	NONE,person-2 take photo-5,photo-5 of mirror-9,mirror-9 on bus-12	NONE	3	0
+2360484	a conveyer belt full of doughnuts rolling down the machine	NONE,belt-3 of doughnut-6,doughnut-6 roll down machine-10	NONE	2	0
+2360486	Odd red fire hydrant with an Asian lady standing next to it.	NONE,fire-3 hydrant with lady-8,lady-8 stand to fire-3	NONE,fire-3:red,lady-8:asian	2	2
+2360488	A photo of a dirty bathroom with a sink and toilet.	NONE,photo-2 of bathroom-6,photo-2 with sink-9,photo-2 with toilet-11	NONE,bathroom-6:dirty	3	1
+2360489	A blurry photo shows men sitting in car seats playing Wii at a party.	NONE,photo-3 show man-5,man-5 sit in seat-9	NONE,photo-3:blurry	2	1
+2360491	A man swimming in a pool of blue water.	NONE,swimming-3 in pool-6,swimming-3 of water-9	NONE,water-9:blue	2	1
+2360494	A young boy standing in front of an open fridge.	NONE,standing-4 in front-6,standing-4 of fridge-10	NONE,standing-4:young,fridge-10:open	2	2
+2360495	Man flying a kite from a roof top in an urban area.	NONE,man-1 fly kite-4,man-1 fly from top-8,top-8 in area-12	NONE,area-12:urban	3	1
+2360496	A glass table with a laptop computer on top of it.	NONE,table-3 of table-3,table-3 with computer-7,computer-7 on top-9	NONE,computer-7:laptop	3	1
+2360498	Always put enough change in the parking meter.	NONE,Always-1 put change-4,Always-1 put in meter-8	NONE,change-4:enough	2	1
+2360508	Two large birds flying over a beach next to water.	NONE,bird-3 fly over beach-7,bird-3 fly next to water-10,bird-3' fly over beach-7,bird-3' fly next to water-10	NONE,bird-3:large,bird-3':large	4	2
+2360510	two man sit at a table in a restaurant	NONE,man-2 sit at table-6,table-6 in restaurant-9	NONE	2	0
+2360511	Three elephants make their way down a hill into a reservoir.	NONE,elephant-2 have way-5,elephant-2 make way-5,elephant-2' have way-5,elephant-2' make way-5,elephant-2'' have way-5,elephant-2'' make way-5	NONE	6	0
+2360512	A bunch of boats along a market filled with various goods.	NONE,boat-4 along market-7,boat-4 fill with goods-11,boat-4' along goods-11',boat-4' fill with goods-11'	NONE,goods-11:various,goods-11':boat	4	2
+2360515	A  room filled with long tables topped with desktop computer.	NONE,room-2 fill with table-6,room-2 top with computer-10	NONE,table-6:long,computer-10:desktop	2	2
+2360517	a tray in a corner of a room with buckets	NONE,tray-2 in corner-5,corner-5 of room-8,room-8 with bucket-10	NONE	3	0
+2360522	A owman is posing next ot wine bottles at a bar.	NONE,owman-2 pose bottle-8,owman-2 pose at bar-11	NONE,bottle-8:next	2	1
+2360525	A living room with a lit fireplace in front of a couch.	NONE,room-3 with fireplace-7,fireplace-7 in front of couch-12	NONE,room-3:live,fireplace-7:lit	2	2
+2360526	people standing outside a building with clocks built into the side of it	NONE,people-1 stand outside building-5,people-1 with clock-7,people-1' stand outside building-5,people-1' with clock-7,clock-7 build into side-11,side-11 of building-5	NONE	6	0
+2360528	A man holding a white surfboard standing in the ocean.	NONE,man-2 hold standing-7,man-2 hold in ocean-10	NONE,standing-7:white	2	1
+2360531	A white bowl filled with banana slices and oatmeal.	NONE,bowl-3 fill with slice-7,bowl-3 fill with oatmeal-9	NONE,bowl-3:white	2	1
+2360536	A herd of zebra standing on a green grass covered field.	NONE,herd-2 of standing-5,herd-2 cover field-11,standing-5 on grass-9	NONE,grass-9:green	3	1
+2360537	A tray filled with croissants with hotdogs in the middle	NONE,tray-2 fill with croissant-5,croissant-5 with hotdog-7,hotdog-7 in middle-10	NONE	3	0
+2360541	A man sleeping on top of a green bench next to a forest.	NONE,man-2 sleep on top of bench-9,man-2 sleep next to forest-13	NONE,bench-9:green	2	1
+2360545	A woman swings a racket inside of a tennis machine.	NONE,woman-2 swing inside-6,inside-6 of machine-10	NONE	2	0
+2360550	The traffic light and street sign are on a pole on the sidewalk.	NONE,light-3 on pole-10,sign-6 on pole-10,pole-10 on sidewalk-13	NONE	3	0
+2360556	A boy standing in front of a skateboard.	NONE,standing-3 in front-5,standing-3 of skateboard-8	NONE	2	0
+2360558	A mother and child standing in front of a group of elephants.	NONE,standing-5 in front-7,standing-5 of group-10,group-10 of elephant-12	NONE	3	0
+2360560	A man walking down the road with an elephant.	NONE,man-2 walk down road-6,road-6 with elephant-9	NONE	2	0
+2360566	Two girls playing soccer while the rest of the team watches.	NONE,girl-2 play soccer-4,girl-2' play soccer-4,rest-7 of team-10	NONE,rest-7:watch	3	1
+2339425	A sidewalk and doughnut shop with a bike leaning against the building	NONE,shop-5 with bike-8,bike-8 lean against building-12	NONE	2	0
+2360570	Black and white photograph of a cow in a field.	NONE,photograph-4 of cow-7,photograph-4 in field-10	NONE,photograph-4:white,photograph-4:black	2	2
+2360572	A bus parked on the side of a street next to a  tree.	NONE,bus-2 park on side-6,bus-2 park to tree-13,side-6 of street-9	NONE,street-9:next	3	1
+2360575	A large kitchen with a center island topped with plates of food.	NONE,kitchen-3 with island-7,kitchen-3 top with plate-10,plate-10 of food-12	NONE,kitchen-3:large	3	1
+2360576	Two bananas sitting on a floor next to a pile of pennies.	NONE,banana-2 sit on floor-6,banana-2 sit to pile-10,banana-2' sit on floor-6,banana-2' sit to pile-10,pile-10 of penny-12	NONE,floor-6:next	5	1
+2360578	A woman in stockings looks at herself in the mirror on the bed.	NONE,woman-2 look at woman-2,woman-2 in stocking-4,woman-2 look in mirror-10,mirror-10 on bed-13	NONE	4	0
+2360586	A group of jockeys racing out of a gate at a horse track.	NONE,group-2 of jockey-4,group-2 of gate-9,group-2 at track-13	NONE	3	0
+2360589	A model train on a play set with a track.	NONE,model-2 train on play-6,play-6 set with track-10	NONE	2	0
+2360593	A man jumping a horse over an obstacle.	NONE,man-2 jump horse-5,horse-5 over obstacle-8	NONE	2	0
+2360599	A red extra long bus driving down a stone covered walkway.	NONE,bus-5 drive down stone-9,bus-5 cover walkway-11	NONE,bus-5:red,bus-5:extra,bus-5:long	2	3
+2360604	There are no people outside the building on the street corner.	NONE,people-4 outside building-7,people-4' outside building-7,building-7 on corner-11	NONE	3	0
+2360605	A bathroom with an enclosed shower door next to a toilet.	NONE,bathroom-2 with door-7,bathroom-2 next to toilet-11	NONE,door-7:enclosed	2	1
+2360613	Two people looking up a kites flying in the sky.	NONE,people-2 look up kite-6,people-2' look up kite-6,kite-6 fly in sky-10	NONE	3	0
+2360615	A black cat standing inside of a piece of luggage.	NONE,cat-3 stand of piece-8,piece-8 of luggage-10	NONE,cat-3:black	2	1
+2360619	A cat in a room with a rug and a backpack.	NONE,cat-2 in room-5,cat-2 with rug-8,cat-2 with backpack-11	NONE	3	0
+2360622	A city street with lots of cars and buildings.	NONE,street-3 with lot-5,street-3 of car-7,street-3 of building-9	NONE	3	0
+2360623	Parking signs mounted on top of a yellow rail.	NONE,sign-2 mount on top of rail-9,sign-2' mount on top of rail-9	NONE,sign-2:park,sign-2':park,rail-9:yellow	2	3
+2360624	A wooden area on a ship with lots of food.	NONE,area-3 on ship-6,area-3 with food-10	NONE,area-3:wooden	2	1
+2360625	A motorcycle parked in a parking lot next to a car.	NONE,motorcycle-2 park in lot-7,motorcycle-2 park next to car-11	NONE	2	0
+2360627	there are two zebras eating on a little bit of loose grass	NONE,zebra-4 eat on grass-12,zebra-4' eat on grass-12	NONE,grass-12:loose	2	1
+2360630	A man riding a snowboard down a snow covered slope.	NONE,man-2 ride snowboard-5,man-2 cover slope-10	NONE	2	0
+2360634	A few men walking through a market place.	NONE,man-3 walk through place-8,man-3' walk through place-8	NONE,man-3:few,man-3':few	2	2
+2360636	A woman that is sitting on a bed near a phone and lamp.	NONE,bed-8 near phone-11,bed-8 near lamp-13	NONE	2	0
+2360637	Girl in orange and blue getting ready to hit a ball.	NONE,Girl-1 in orange-3,Girl-1 in blue-5	NONE	2	0
+2360639	A child in a red jacket with a frisbee on his head	NONE,child-2 in jacket-6,child-2 with frisbee-9,child-2 have head-12,child-2 on head-12	NONE,jacket-6:red	4	1
+2360642	A large man is making his way down a path on a skateboard.	NONE,man-3 have way-7,man-3 make way-7,man-3 make on skateboard-13	NONE,man-3:large	3	1
+2360643	A group of people walking down a street.	NONE,group-2 of people-4,group-2 walk down street-8	NONE	2	0
+2360647	A dog looking at the pizza in front.	NONE,dog-2 look at pizza-6,pizza-6 in front-8	NONE	2	0
+2360649	cars wait at red light at an intersection by mountains	NONE,car-1 wait at light-5,car-1 wait by mountain-10,car-1' wait at light-5,car-1' wait by mountain-10',light-5 at intersection-8	NONE,light-5:red	5	1
+2360656	two images of a double fault in a tennis game	NONE,image-2 of fault-6,image-2' of fault-6,fault-6 in game-10	NONE,fault-6:double	3	1
+2360658	A  street filled with cars next to a line up of street light.	NONE,street-2 fill with car-5,street-2 fill next to line-9	NONE	2	0
+2360660	A person in orange jacket doing trick on a snowboard.	NONE,person-2 in jacket-5,person-2 do trick-7,person-2 do on snowboard-10	NONE,jacket-5:orange	3	1
+2360662	Sheep grazing in a rough field with short grass.	NONE,grazing-2 in field-6,grazing-2 with grass-9	NONE,grazing-2:sheep,field-6:rough,grass-9:short	2	3
+2360663	A woman standing in a park with a paper cutout boat.	NONE,woman-2 stand in park-6,park-6 with boat-11	NONE	2	0
+2360665	there are several men sitting at a table siting pizza	NONE,man-4 sit at pizza-10,man-4' sit at pizza-10	NONE,man-4:several,man-4':several,pizza-10:site	2	3
+2360667	a man with a brown suit, sitting at a table with microphone, listening.	NONE,man-2 with suit-6,man-2 sit at table-11,table-11 with microphone-13	NONE,suit-6:brown	3	1
+2360669	A quesadilla sitting on top of a counter covered in cheese.	NONE,quesadilla-2 sit on top of counter-8,quesadilla-2 cover in cheese-11	NONE	2	0
+2360670	A man in a suit sits at a table.	NONE,man-2 in suit-5,man-2 sit at table-9	NONE	2	0
+2360676	A man riding on the back of a horse next to two elephants.	NONE,man-2 ride on back-6,back-6 of horse-9,horse-9 next to elephant-13,horse-9 next to elephant-13'	NONE	4	0
+2360677	A giraffe walks the grasslands by himself at sunset.	NONE,giraffe-2 walk by giraffe-2,giraffe-2 walk grassland-5,giraffe-2 walk at sunset-9	NONE	3	0
+2360684	Scene of a walled in territory that looks great.	NONE,Scene-1 of walled-4,walled-4 in territory-6	NONE	2	0
+2360695	A public bathroom stall with a toilet and trashcan.	NONE,stall-4 with toilet-7,stall-4 with trashcan-9	NONE,stall-4:public	2	1
+2360698	A colorful carnival with many people attending it.	NONE,carnival-3 attend carnival-3,carnival-3 with people-6	NONE,carnival-3:colorful,people-6:many	2	2
+2360699	A pizza topped with globs of white cheese.	NONE,pizza-2 top with glob-5,glob-5 of cheese-8	NONE,cheese-8:white	2	1
+2360700	A man sitting on a bench with his tennis racket getting ready to play a match.	NONE,man-2 sit on bench-6,man-2 have racket-10,bench-6 with racket-10	NONE	3	0
+2360701	A baby bundled up in blankets on the bed.	NONE,baby-2 bundle up in blanket-6,blanket-6 on bed-9	NONE	2	0
+2360704	The truck carrying bundles of logs passes a park.	NONE,truck-2 carry bundle-4,truck-2 pass park-9,bundle-4 of logs-6	NONE	3	0
+2360705	A woman in a yellow jacket standing against a concrete wall.	NONE,woman-2 in standing-7,woman-2 against wall-11	NONE,standing-7:yellow,wall-11:concrete	2	2
+2360706	Elephants are in a long line with people on top of them.	NONE,elephant-1 in line-6,elephant-1' in line-6',line-6 with people-8,line-6' with people-8',people-8 on top of line-6,people-8' on top of elephant-1'	NONE,line-6:long,line-6':long	6	2
+2360708	A black bear holding branches in hand next to a tree.	NONE,bear-3 hold branch-5,bear-3 hold next to tree-11,branch-5 in hand-7	NONE,bear-3:black	3	1
+2360710	The inside of a warehouse like structure that has a round clock with roman numerals on it hanging from the ceiling.	NONE,inside-2 of warehouse-5,inside-2 like structure-7,inside-2 hang from ceiling-21,clock-12 with numeral-15,numeral-15 hang from ceiling-21	NONE	5	0
+2360715	Plane getting ready for takeoff on the runway at airport.	NONE,Plane-1 get on runway-8,runway-8 at airport-10	NONE	2	0
+2360722	a large tower with a clock in the middle of town with cars parked along the street	NONE,tower-3 with clock-6,tower-3 with car-13,clock-6 in middle-9,middle-9 of town-11,car-13 park along street-17	NONE,tower-3:large	5	1
+2360723	Benches on a paved deck overlooking a waterway	NONE,bench-1 on deck-5,bench-1' on deck-5,deck-5 overlook waterway-8	NONE,deck-5:paved	3	1
+2360724	a opened book and half of a mask sit on a floor	NONE,half-5 of mask-8,half-5 sit on floor-12	NONE,book-3:open	2	1
+2360727	A beautiful young lady eating a candy apple on an amusement park ride.	NONE,lady-4 eat apple-8,lady-4 eat on ride-13	NONE,lady-4:beautiful,lady-4:young	2	2
+2360730	A giraffe stands in the grass near an ostrich.	NONE,giraffe-2 stand in grass-6,grass-6 near ostrich-9	NONE	2	0
+2360731	A young girl sits inside of a luggage bag.	NONE,girl-3 sit inside-5,inside-5 of bag-9	NONE,girl-3:young,bag-9:luggage	2	2
+2360733	Street Lights and a clock light up the night sky.	NONE,light-2 light up sky-10,light-2' light up sky-10,clock-5 light up sky-10	NONE	3	0
+2360736	Iced carrot cake on a table with odd type of cola.	NONE,cake-3 on table-6,cake-3 of cola-11,table-6 with type-9	NONE,cake-3:iced,type-9:odd	3	2
+2360741	A row of motorcycles parked in front of a building.	NONE,row-2 of motorcycle-4,row-2 park in front of building-10	NONE	2	0
+2360742	A young boy sitting at a table with a donut and bottle of juice.	NONE,boy-3 sit at table-7,table-7 with donut-10,table-7 with bottle-12,donut-10 of juice-14	NONE,boy-3:young	4	1
+2360748	A man talking on a cell phone in his car.	NONE,man-2 talk on phone-7,man-2 have car-10,phone-7 in car-10	NONE	3	0
+2360749	Two brown street signs sitting on a wooden pole.	NONE,sign-4 sit on pole-9,sign-4' sit on pole-9	NONE,sign-4:brown,sign-4':brown,pole-9:wooden	2	3
+2360757	A picture of a person brushing her teeth.	NONE,picture-2 of person-5,picture-2 brush tooth-8,picture-2 have tooth-8	NONE	3	0
+2360759	A lady looks out onto the city from behind a giant clock.	NONE,lady-2 look out onto city-7,lady-2 look out behind clock-12	NONE,clock-12:giant	2	1
+2360760	A young man swinging a baseball bat on a baseball field.	NONE,man-3 swing bat-7,man-3 swing on field-11	NONE,man-3:young	2	1
+2360764	A kitchen filled with wooden cabinets and a white refrigerator.	NONE,kitchen-2 fill with cabinet-6,kitchen-2 fill with refrigerator-10	NONE,cabinet-6:wooden,refrigerator-10:white	2	2
+2360765	A woman in a blue shirt standing in a living room holding a game controller.	NONE,woman-2 in standing-7,standing-7 in room-11,room-11 hold controller-15	NONE,standing-7:blue,room-11:live	3	2
+2360766	A bowl of donuts and gallon jugs of apple cider.	NONE,bowl-2 of donut-4,bowl-2 of jug-7,bowl-2 of cider-10	NONE	3	0
+2360776	A woman and her child sitting nest to a man on a park bench.	NONE,woman-2 have child-5,woman-2 sit nest-7,woman-2 sit to man-10,man-10 on bench-14	NONE	4	0
+2360780	A large vase filled with white roses sitting on a table next to a mirror.	NONE,vase-3 fill with rose-7,rose-7 sit on table-11,rose-7 sit next to mirror-15	NONE,vase-3:large,rose-7:white	3	2
+2360788	A row of statues lined up next to a building.	NONE,row-2 of statue-4,row-2 line to building-10	NONE	2	0
+2360790	A toilet in a stall with remote control buttons.	NONE,toilet-2 in stall-5,toilet-2 with button-9	NONE,button-9:remote	2	1
+2360791	A group of people with remotes in a room.	NONE,group-2 of people-4,group-2 in room-9,people-4 with remote-6	NONE	3	0
+2360796	A group of three people holding ski poles on top of a ski slope.	NONE,group-2 of people-5,group-2 of people-5',group-2 of people-5'',group-2 hold pole-8,group-2 hold on top of slope-14	NONE,pole-8:ski,slope-14:ski	5	2
+2360798	A view of the living room of a house.	NONE,view-2 of room-6,room-6 of house-9	NONE,room-6:live	2	1
+2360807	A picture of a person walking down the road.	NONE,picture-2 of person-5,picture-2 walk down road-9	NONE	2	0
+2360808	Cooked broccoli and cauliflower covered with creamy cheese.	NONE,broccoli-2 cover with cheese-8,cauliflower-4 cover with cheese-8	NONE,broccoli-2:cooked,cheese-8:creamy	2	2
+2360814	The meal with broccoli and rice has lemon on the plate.	NONE,meal-2 with broccoli-4,meal-2 with rice-6,meal-2 lemon on plate-11	NONE	3	0
+2360815	A group of children with school bags looking out a window	NONE,group-2 of child-4,bag-7 look out window-11,bag-7' look out window-11	NONE	3	0
+2360816	A line of people are riding bicycles on the street.	NONE,line-2 of people-4,line-2 ride bicycle-7,line-2 ride on street-10	NONE	3	0
+2360817	A cat looking concerned standing in a doorway of a bathroom.	NONE,cat-2 look standing-5,cat-2 look in doorway-8,doorway-8 of bathroom-11	NONE,standing-5:concerned	3	1
+2360818	A person has some sandwiches on their lap.	NONE,person-2 have sandwich-5,person-2 have lap-8,sandwich-5 on lap-8	NONE	3	0
+2360819	A group of people enjoying a day at the beach.	NONE,group-2 of people-4,group-2 enjoy tmod day-7,group-2 enjoy at beach-10	NONE	3	0
+2360826	An old barn in the background with yellow bus stop sign in the foreground.	NONE,barn-3 in background-6,barn-3 stop sign-11,background-6 with bus-9,sign-11 in foreground-14	NONE,barn-3:old,bus-9:yellow	4	2
+2360829	A baseball player hitting a ball with  a bat.	NONE,player-3 hit ball-6,player-3 hit with bat-9	NONE	2	0
+2360830	A large airplane in front of another plane sitting in an airport.	NONE,airplane-3 in front of plane-8,airplane-3 sit in airport-12	NONE,airplane-3:large	2	1
+2360832	A man tosses a Frisbee across the beach.	NONE,man-2 toss Frisbee-5,Frisbee-5 across beach-8	NONE	2	0
+2360835	A man flying into the air on top of a skateboard ramp.	NONE,man-2 fly into air-6,air-6 on top of ramp-12	NONE,ramp-12:skateboard	2	1
+2360838	A plate of cut food with a fork on a table.	NONE,plate-2 of food-5,plate-2 with fork-8,fork-8 on table-11	NONE	3	0
+2360843	A tower with a clock that has a blue sky in the background.	NONE,tower-2 with clock-5,sky-10 in background-13	NONE,sky-10:blue	2	1
+2360844	A large, old country house with sheep grazing in the yard	NONE,house-6 with grazing-9,grazing-9 in yard-12	NONE,country-5:large,country-5:old	2	2
+2360846	A residential kitchen with wood cabinets and flooring and a large window.	NONE,kitchen-3 with cabinet-6,kitchen-3 with flooring-8,kitchen-3 with window-12	NONE,kitchen-3:residential,window-12:large	3	2
+2360848	A giraffe standing in a forest covered in grass and trees.	NONE,standing-3 in forest-6,standing-3 cover in grass-9,standing-3 cover in tree-11	NONE	3	0
+2360854	A bus driving down a road next to a brown bear.	NONE,bus-2 drive down road-6,road-6 next to bear-11	NONE,bear-11:brown	2	1
+2360859	A bathroom with a toilet and a sink next to a tub.	NONE,bathroom-2 with toilet-5,bathroom-2 with sink-8,bathroom-2 next to tub-12	NONE	3	0
+2360861	A woman riding skis down a snow covered slope.	NONE,woman-2 ride ski-4,woman-2 cover slope-9	NONE	2	0
+2360862	A black bear walking through a tree filled forest.	NONE,bear-3 walk through tree-7,bear-3 fill forest-9	NONE,bear-3:black	2	1
+2360865	A woman with a funny smirk holds cake on a plate and wears a blue sweatshirt.	NONE,woman-2 with smirk-6,woman-2 hold cake-8,woman-2 hold on plate-11,woman-2 wear sweatshirt-16	NONE,smirk-6:funny,sweatshirt-16:blue	4	2
+2360870	The woman in uniform is using a sword to cut a cake.	NONE,woman-2 in uniform-4,woman-2 use sword-8,sword-8 cut cake-12	NONE	3	0
+2360874	Potatoes sitting underneath a bunch of bananas.	NONE,potato-1 sit underneath banana-7,potato-1' sit underneath banana-7	NONE	2	0
+2360876	A couple of knights riding horses on a green ground.	NONE,couple-2 ride horse-6,couple-2 ride on ground-10	NONE,ground-10:green	2	1
+2360877	A person standing next to a white bus in a parking lot.	NONE,person-2 stand next to bus-8,person-2 stand in lot-12	NONE,bus-8:white	2	1
+2360878	two giraffes and an elk in the brush	NONE,giraffe-2 in brush-8,giraffe-2' in brush-8	NONE	2	0
+2360882	Commuter train stopped on tracks at red light, green light further up the track.	NONE,train-2 stop on track-5,train-2 stop up track-15,track-5 at light-8	NONE,train-2:commuter,light-8:red,light-11:green	3	3
+2360900	A room with various pictures on it and an unkept bed is shown.	NONE,room-2 with picture-5,picture-5 on room-2,picture-5 on bed-11	NONE,picture-5:various,bed-11:unkept	3	2
+2360903	A Wii box sits on a desk by the wall.	NONE,box-3 sit on desk-7,box-3 sit by wall-10	NONE	2	0
+2360904	A room filled with tables of unripe bananas.	NONE,room-2 fill with table-5,table-5 of banana-8	NONE,banana-8:unripe	2	1
+2360905	A person dressed as a giraffe carrying a bullhorn.	NONE,person-2 dress as giraffe-6,giraffe-6 carry bullhorn-9	NONE	2	0
+2360906	A group of people walking down a city street.	NONE,group-2 of people-4,group-2 walk down street-9	NONE	2	0
+2360909	A baseball player holding a bat near home plate.	NONE,player-3 hold bat-6,bat-6 near plate-9	NONE	2	0
+2360912	A large kite with a strange face on it	NONE,kite-3 with face-7,face-7 on kite-3	NONE,kite-3:large,face-7:strange	2	2
+2360916	Three broken toilets are on the side of the road one of them is shattered into many pieces.	NONE,toilet-3 on side-7,toilet-3' on side-7,toilet-3'' on side-7,side-7 of road-10	NONE,toilet-3:broken,toilet-3':broken,toilet-3'':broken,piece-18:many	4	4
+2360917	A sandwich with lettuce and tomatoes sits on a box in a park.	NONE,sandwich-2 with lettuce-4,sandwich-2 with tomato-6,sandwich-2 sit on box-10,box-10 in park-13	NONE	4	0
+2360919	A man with a bald head wearing a pair of glases.	NONE,man-2 with head-6,man-2 wear glase-11	NONE,head-6:bald	2	1
+2360922	A gray cat lying on a desk near a telephone.	NONE,cat-3 lie on desk-7,desk-7 near telephone-10	NONE,cat-3:gray	2	1
+2360923	A person riding a snow board on a snow covered slope.	NONE,person-2 ride board-6,person-2 ride on snow-9,person-2 cover slope-11	NONE	3	0
+2360925	Roadway signs on post on sidewalk of large urban city.	NONE,sign-2 on post-4,sign-2 on sidewalk-6,sign-2 of city-10,sign-2' on post-4,sign-2' on sidewalk-6,sign-2' of city-10	NONE,sign-2:roadway,sign-2':roadway,city-10:large,city-10:urban	6	4
+2360926	A young boy holding up a kite over a dirty road.	NONE,boy-3 hold up kite-7,kite-7 over road-11	NONE,boy-3:young,road-11:dirty	2	2
+2360927	A kitten in a bathroom pulling toilet paper from a roll.	NONE,kitten-2 in bathroom-5,kitten-2 pull paper-8,kitten-2 pull from roll-11	NONE	3	0
+2360930	Two giraffes on grass between trees and bushes.	NONE,giraffe-2 on grass-4,giraffe-2 between tree-6,giraffe-2 between bush-8,giraffe-2' on grass-4,giraffe-2' between tree-6,giraffe-2' between bush-8	NONE	6	0
+2360932	A white bed set with seven soft pillows.	NONE,bed-3 set with pillow-8,bed-3 set with pillow-8',bed-3 set with pillow-8'',bed-3 set with pillow-8''',bed-3 set with pillow-8'''',bed-3 set with pillow-8''''',bed-3 set with pillow-8''''''	NONE,bed-3:white,pillow-8:soft,pillow-8':soft,pillow-8'':soft,pillow-8''':soft,pillow-8'''':soft,pillow-8''''':soft,pillow-8'''''':soft	7	8
+2360935	A pair of laptops with mouses sitting on tv trays.	NONE,pair-2 sit on tray-10,laptop-4 with mouse-6,laptop-4' with mouse-6	NONE	3	0
+2360937	A man is jumping on a ski board across some snow.	NONE,man-2 jump on board-8,board-8 across snow-11	NONE,board-8:ski	2	1
+2360938	a gray bird is walking around a white and blue boat and water	NONE,bird-3 walk around boat-11,bird-3 walk around water-13	NONE,bird-3:gray,boat-11:white,boat-11:blue	2	3
+2360942	The group of people are flying their kites in the field.	NONE,group-2 of people-4,group-2 fly kite-8,group-2 have kite-8,group-2 fly in field-11	NONE	4	0
+2360943	A man and a woman open a pizza box.	NONE,man-2 open box-9,woman-5 open box-9	NONE	2	0
+2360946	The fire hydrant next to the vegetation and trees.	NONE,fire-2 hydrant to vegetation-7,fire-2 hydrant to tree-9	NONE	2	0
+2360947	Two people standing on a snow covered road next to an adorable brown dog.	NONE,people-2 stand on snow-6,people-2 cover road-8,people-2 cover to dog-14,people-2' stand on snow-6,people-2' cover road-8,people-2' cover to dog-14	NONE,road-8:next,dog-14:brown,dog-14:adorable	6	3
+2360958	A boy taking a picture of himself in mirror.	NONE,boy-2 take picture-5,boy-2 take in mirror-9,picture-5 of boy-2	NONE	3	0
+2360959	A man rides a silver motorcycle down the street in town.	NONE,man-2 ride motorcycle-6,man-2 ride down street-9,man-2 ride in town-11	NONE,motorcycle-6:silver	3	1
+2360962	A living room area with some couches and a television	NONE,area-4 with couch-7,area-4 with television-10	NONE	2	0
+2360964	A hipster drinking a bottle of water while wearing a skull tie.	NONE,hipster-2 drink bottle-5,bottle-5 of water-7	NONE	2	0
+2360965	A group of people sitting at tables eating pizza.	NONE,group-2 of people-4,group-2 sit at table-7,table-7 eat pizza-9	NONE	3	0
+2360966	Many children are posing together outside of the building window.	NONE,child-2 pose of window-10,child-2' pose of window-10	NONE,child-2:many,child-2':many	2	2
+2360967	a cake with pineapples and cherries on the top of it.	NONE,cake-2 with pineapple-4,cake-2 with cherry-6,cake-2 on top-9,top-9 of cake-2	NONE	4	0
+2360968	A factory floor with people wearing business attire exchanging cards.	NONE,floor-3 with people-5,floor-3 wear attire-8	NONE	2	0
+2360970	A pan with a pizza on it with a spoon and a pizza cutter.	NONE,pan-2 with pizza-5,pan-2 with spoon-10,pan-2 with cutter-14,pizza-5 on pan-2	NONE	4	0
+2360971	A golfer has his golf club up in the hitting position.	NONE,golfer-2 have club-6,golfer-2 have club-6	NONE,position-11:hit	2	1
+2360972	A group of fighter jets flying in formation.	NONE,group-2 of jet-5,group-2 fly in formation-8	NONE	2	0
+2360974	Some colorful umbrellas somewhere in a shaded area during a sunny day.	NONE,umbrella-3 in area-8,umbrella-3 during day-12,umbrella-3' in area-8,umbrella-3' during day-12	NONE,umbrella-3:colorful,umbrella-3':colorful,area-8:shaded,day-12:sunny	4	4
+2360975	a man jumps very high over a snow-covered ramp with his snowboard	NONE,man-2 have snowboard-12,ramp-9 with snowboard-12	NONE,man-2:jump,ramp-9:snowcovered	2	2
+2360976	An elephant in the wild walking by a house.	NONE,elephant-2 in walking-6,elephant-2 by house-9	NONE,walking-6:wild	2	1
+2360978	Series of different signs hanging in front of buildings on a city street.	NONE,Series-1 of sign-4,Series-1 hang in front of building-9,building-9 on street-13	NONE,sign-4:different	3	1
+2360982	A woman standing on a tennis court reaching for a tennis ball,	NONE,standing-3 on court-7,standing-3 reach for ball-12	NONE	2	0
+2360985	A living room with hard wood floors with a computer on a  desk.	NONE,room-3 with floor-7,floor-7 with computer-10,computer-10 on desk-13	NONE,room-3:live,floor-7:hard	3	2
+2360989	restroom with blue bath tub and orange walls	NONE,restroom-1 with tub-5,restroom-1 with wall-8	NONE,tub-5:blue	2	1
+2360990	A man with a surfboard is walking along the beach.	NONE,man-2 with surfboard-5,man-2 walk along beach-10	NONE	2	0
+2360994	A man standing in front of an elephant hands two children something	NONE,standing-3 in front-5,standing-3 of elephant-8	NONE,something-12:hand	2	1
+2360995	A young man standing next to a wall with a bird painted on it.	NONE,man-3 paint on man-3,man-3 stand next to wall-8,man-3 stand with bird-11	NONE,man-3:young	3	1
+2360996	A child eating out of a bowl with a small skateboard in front of him.	NONE,child-2 eat out of bowl-7,child-2 eat out with skateboard-11,skateboard-11 in front of child-2	NONE,skateboard-11:small	3	1
+2360997	A kitchen view of a dining table with a bowl with bananas.	NONE,view-3 of table-7,view-3 with bowl-10,bowl-10 with banana-12	NONE	3	0
+2360999	A woman holding a tennis racquet on a tennis court.	NONE,woman-2 hold racquet-6,woman-2 hold on court-10	NONE	2	0
+2361002	A white toilet sitting in a restroom next to a sink.	NONE,toilet-3 sit in restroom-7,toilet-3 sit next to sink-11	NONE,toilet-3:white	2	1
+2361003	A  herd of elephants cooling off in the water	NONE,herd-2 of elephant-4,elephant-4 cool off in water-9	NONE	2	0
+2361004	A young man with red hair kicking a soccer ball.	NONE,man-3 with hair-6,man-3 kick ball-10	NONE,man-3:young,hair-6:red	2	2
+2361005	The clock is near the roof of the church building.	NONE,clock-2 near roof-6,roof-6 of building-10	NONE	2	0
+2361007	A tennis player on a clay surface awaits his opponent's serve.	NONE,player-3 on surface-7,player-3 have opponent-10,player-3 await serve-12,opponent-10 have serve-12	NONE	4	0
+2361011	A girl using a child's laptop computer in a class room.	NONE,girl-2 use computer-8,child-5 have computer-8,computer-8 in room-12	NONE,computer-8:laptop	3	1
+2361017	A plate with lots of food on top of it.	NONE,plate-2 of plate-2,plate-2 with food-6,plate-2 on top-8	NONE	3	0
+2361018	A zebra eats grass with another zebra beside them and a third zebra nearby.	NONE,zebra-2 eat beside zebra-2,zebra-2 eat grass-4,zebra-2 eat with zebra-7,zebra-2 eat beside zebra-13	NONE,zebra-13:third	4	1
+2361019	A group of colorful umbrellas flying in a sky above a city.	NONE,group-2 of umbrella-5,group-2 fly in sky-9,sky-9 above city-12	NONE,umbrella-5:colorful	3	1
+2361020	A black bear is sniffing at the bark of a tree.	NONE,bear-3 sniff at bark-8,bark-8 of tree-11	NONE,bear-3:black	2	1
+2361022	Two cows grazing on grass in a field by a house.	NONE,cow-2 graze on grass-5,cow-2 graze by house-11,cow-2' graze on grass-5,cow-2' graze by house-11,grass-5 in field-8	NONE	5	0
+2361023	This an unclear picture of a boy standing up on a snowboard.	NONE,this-1 stand up on snowboard-12,picture-4 of boy-7	NONE,picture-4:unclear	2	1
+2361024	A kitchen sink and part of a stove with a doorway leading into an adjacent room	NONE,sink-3 of stove-8,sink-3 with doorway-11,doorway-11 lead into room-16	NONE,room-16:adjacent	3	1
+2361027	A coffee cup with a lid on a table next to a keyboard.	NONE,cup-3 with lid-6,cup-3 next to keyboard-13,lid-6 on table-9	NONE	3	0
+2361030	A man standing over a table topped with plates of food.	NONE,standing-3 over table-6,standing-3 top with plate-9,plate-9 of food-11	NONE	3	0
+2361032	A pile of pancakes sitting on top of a white plate.	NONE,pile-2 of pancake-4,pile-2 sit on top of plate-11	NONE,plate-11:white	2	1
+2361033	A parking lot with a car, three buses, and a semi.	NONE,lot-3 with car-6,lot-3 with bus-9,lot-3 with bus-9',lot-3 with bus-9'',lot-3 with semi-13	NONE	5	0
+2361036	A white bus next to a train station at night.	NONE,bus-3 next to station-8,station-8 at night-10	NONE,bus-3:white	2	1
+2361040	A large bathroom with an enclosed toilet and a large sink.	NONE,bathroom-3 with toilet-7,bathroom-3 with sink-11	NONE,bathroom-3:large,toilet-7:enclose,sink-11:large	2	3
+2361054	A wooden desk topped with two desktop computers.	NONE,desk-3 top with computer-8,desk-3 top with computer-8'	NONE,desk-3:wooden,computer-8:desktop,computer-8':desktop	2	3
+2361060	A crowd of people walking along a street.	NONE,crowd-2 of people-4,crowd-2 walk along street-8	NONE	2	0
+2361063	A purse sits on a counter in a kitchen.	NONE,purse-2 sit on counter-6,counter-6 in kitchen-9	NONE	2	0
+2361066	A tennis player waving to fans in the stands.	NONE,player-3 wave to fan-6,fan-6 in stand-9	NONE	2	0
+2361071	A man hitting a tennis ball with a racquet.	NONE,man-2 hit ball-6,man-2 hit with racquet-9	NONE	2	0
+2361073	Men in a park with frisbee, with trees, portable toilets, fence, bags, and other people in background.	NONE,man-1 in park-4,man-1 in background-22,man-1' in park-4,man-1' in background-22,park-4 with frisbee-6,park-4 with tree-9,park-4 with toilet-12,park-4 with fence-14,park-4 with bag-16,park-4 with people-20	NONE,toilet-12:portable,people-20:other	10	2
+2361074	The ballplayer waits in the batter's box, watching the umpire defend his call.	NONE,ballplayer-2 wait in box-8,ballplayer-2 have call-15,batter-6 have box-8,umpire-12 defend call-15	NONE	4	0
+2361075	A tennis player slides through the dirt for a hit	NONE,player-3 slide through dirt-7,dirt-7 for hit-10	NONE	2	0
+2361087	A white plate topped with food next to a fork and drink.	NONE,plate-3 top with food-6,plate-3 top to fork-10,plate-3 top to drink-12	NONE,plate-3:white,food-6:next	3	2
+2361088	a group of kids holding tennis rackets pose for a picture	NONE,group-2 of kid-4,group-2 pose for picture-11,kid-4 hold racket-7	NONE	3	0
+2361089	A city street at night illuminated by street lights.	NONE,street-3 at night-5,street-3 illuminate by light-9	NONE	2	0
+2361090	A woman holding up a cup of coffee in an office.	NONE,woman-2 hold up cup-6,cup-6 of coffee-8,coffee-8 in office-11	NONE	3	0
+2361095	A man on a skateboard jumping onto a concrete bench.	NONE,man-2 on skateboard-5,man-2 jump onto bench-10	NONE,bench-10:concrete	2	1
+2337751	A trash can covered in an umbrella between two roads.	NONE,trash-2 cover in umbrella-7,umbrella-7 between road-10,umbrella-7 between road-10'	NONE	3	0
+2361101	An old fashioned room with twin beds, couch, tv, lamps and other older looking furniture.	NONE,room-4 with bed-7,room-4 with couch-9,room-4 with tv-11,room-4 with lamp-13,room-4 with older-16,room-4 look furniture-18	NONE,room-4:fashioned,room-4:old,bed-7:twin,older-16:other	6	4
+2361105	A slice of pizza on a plate slathered in melted cheese.	NONE,slice-2 of pizza-4,slice-2 slather in cheese-11,pizza-4 on plate-7	NONE,cheese-11:melted	3	1
+2361107	View of a hotel room with a bathroom and bedroom.	NONE,View-1 of room-5,View-1 with bathroom-8,View-1 with bedroom-10	NONE	3	0
+2361108	A toilet has been turned on it's side out in a yard.	NONE,toilet-2 have side-9,side-9 in yard-13	NONE	2	0
+2361109	A man driving a farm vehicle with a dog on it following sheep.	NONE,man-2 drive vehicle-6,man-2 drive with dog-9,dog-9 on man-2,dog-9 following sheep-13	NONE	4	0
+2361111	A woman in a hat and winter coat is in an airport with two suitcases.	NONE,woman-2 in coat-8,woman-2 in airport-12,airport-12 with suitcase-15,airport-12 with suitcase-15'	NONE	4	0
+2361115	a person with a bat near many tvs	NONE,person-2 with bat-5,bat-5 near tvs-8	NONE,tvs-8:many	2	1
+2361116	A person holding ski poles standing on a snow covered slope.	NONE,person-2 hold pole-5,person-2 cover slope-11,pole-5 stand on snow-9	NONE,pole-5:ski	3	1
+2361120	A red and white bowl contain meat and pieces of broccoli.	NONE,bowl-5 contain meat-7,bowl-5 contain piece-9,meat-7 of broccoli-11	NONE,bowl-5:red,bowl-5:white	3	2
+2361121	A young lady riding a skateboard past orange traffic cones.	NONE,lady-3 ride skateboard-6,lady-3 ride past cone-10	NONE,lady-3:young,cone-10:orange	2	2
+2361128	A person laying on a beach next to a  white surfboard.	NONE,person-2 lay on beach-6,person-2 lay next to surfboard-11	NONE,surfboard-11:white	2	1
+2361129	A black hog eating hay as a curious cat looks on.	NONE,hog-3 eat hay-5,hog-3 eat as cat-9	NONE,hog-3:black,hog-3:look,cat-9:curious	2	3
+2361131	A man standing on top of a sandy beach with a surfboard.	NONE,man-2 stand on top of beach-9,beach-9 with surfboard-12	NONE,beach-9:sandy	2	1
+2361133	A surfer on a surfboard riding a wave.	NONE,surfer-2 on surfboard-5,surfer-2 ride wave-8	NONE	2	0
+2361134	A baseball player hitting a ball with his bat.	NONE,player-3 hit ball-6,player-3 have bat-9,player-3 hit with bat-9	NONE	3	0
+2361137	A living room filled with furniture and  large window.	NONE,room-3 fill with furniture-6,room-3 fill with window-9	NONE,window-9:large	2	1
+2361139	The girl is holding onto two strings attached to a kite in the sky.	NONE,girl-2 hold onto string-7,girl-2 hold onto string-7',string-7 attach to kite-11,string-7' attach to kite-11,kite-11 in sky-14	NONE	5	0
+2361142	A man standing on a red boat in the water.	NONE,man-2 stand on boat-7,boat-7 in water-10	NONE,boat-7:red	2	1
+2361146	three zebras walking across a dirt road near bushes	NONE,walking-3 across road-7,road-7 near bushes-9	NONE	2	0
+2361147	Airplane attendants are standing underneath the wing of the plane.	NONE,attendant-2 stand underneath wing-7,attendant-2' stand underneath wing-7,wing-7 of plane-10	NONE,attendant-2:airplane,attendant-2':airplane	3	2
+2361150	a couple of people are walking around on a busy street	NONE,people-4 walk around on street-11,people-4' walk around on street-11	NONE,street-11:busy	2	1
+2361153	A sink with cups and towel next to it	NONE,sink-2 with cup-4,sink-2 with towel-6	NONE	2	0
+2361154	A person holding a large pair of silver scissors in their hand.	NONE,person-2 hold scissors-9,person-2 have hand-12,scissors-9 in hand-12	NONE,scissors-9:silver	3	1
+2361156	Two horses grazing on grass in the sun	NONE,grazing-3 on grass-5,grass-5 in sun-8	NONE	2	0
+2361158	A group of people skiing in a ski race on snow covered ground.	NONE,group-2 of people-4,group-2 cover ground-13,people-4 ski in race-9,race-9 on snow-11	NONE,race-9:ski	4	1
+2361160	Here of zebras on side of a dirt road in their natural environment.	NONE,zebra-3 on side-5,zebra-3 have environment-13	NONE,environment-13:natural	2	1
+2361161	Front view of a blue and white jet airliner on runway.	NONE,Front-1 view of airliner-9,airliner-9 on runway-11	NONE,airliner-9:blue,airliner-9:white	2	2
+2361168	There is a stop sign with a factory in the distance.	NONE,sign-5 with factory-8,factory-8 in distance-11	NONE	2	0
+2361170	One bear observes visitors at the zoo, while another bear sleeps.	NONE,bear-2 observe visitor-4,visitor-4 at zoo-7	NONE,bear-11:sleep	2	1
+2361171	An alley way with several pieces of discarded furnuiture and a teddy bear hanging from a clothes line.	NONE,way-3 with piece-6,piece-6 of furnuiture-9,piece-6 of teddy-12	NONE,way-3:bear,piece-6:several,furnuiture-9:discard	3	3
+2361173	Some people gathered at a very big table with a big cake.	NONE,people-2 gather at table-8,people-2' gather at table-8,table-8 with cake-12	NONE,table-8:big,cake-12:big	3	2
+2361180	Several people walking on a sidewalk, with one man holding an umbrella.	NONE,people-2 walk on sidewalk-6,people-2 walk with man-10,people-2' walk on sidewalk-6,people-2' walk with man-10,man-10 hold umbrella-13	NONE,people-2:several,people-2':several	5	2
+2361189	A 787 Jet Airplane sitting on a runway at an airport.	NONE,Airplane-4 sit on runway-8,runway-8 at airport-11	NONE	2	0
+2361190	a train on a track near many trees	NONE,train-2 on track-5,track-5 near tree-8	NONE,tree-8:many	2	1
+2361193	The city bus drives down the street with a motorcycle passing it on the right.	NONE,bus-3 drive down street-7,bus-3 drive down with motorcycle-10,motorcycle-10 pass bus-3,motorcycle-10 pass on right-15	NONE	4	0
+2361195	A herd of sheep sleeping on top of a grassy nook.	NONE,herd-2 of sheep-4,herd-2 sleep on top of nook-11	NONE,nook-11:grassy	2	1
+2361198	a black and yellow trains engine pulling its cars	NONE,engine-6 have car-9,engine-6 pull car-9	NONE,engine-6:yellow	2	1
+2361204	A couple of businessmen walk passed a group of pedestrians with umbrellas on the wet sidewalk of a city street.	NONE,group-8 of pedestrian-10,umbrella-12 on sidewalk-16,sidewalk-16 of street-20	NONE,businessman-4:walk,businessman-4':walk,sidewalk-16:wet	3	3
+2361209	Two men sitting at a table with a basket of pastry.	NONE,man-2 sit at table-6,man-2' sit at table-6,table-6 with basket-9,basket-9 of pastry-11	NONE	4	0
+2361210	A group of firefighters and police officers in the middle of a crosswalk.	NONE,group-2 of firefighter-4,group-2 of officer-7,group-2 in middle-10,middle-10 of crosswalk-13	NONE	4	0
+2361212	a person sliceing bacon with a couple of doughnuts sitting on a cutting board	NONE,bacon-4 with doughnut-9,doughnut-9 sit on board-14	NONE,bacon-4:slicee,board-14:cut	2	2
+2361213	A bus pulls up to a group of people and a sidewalk.	NONE,bus-2 pull up to group-7,group-7 of people-9,group-7 of sidewalk-12	NONE	3	0
+2361219	a woman is working on someones hair at a salon	NONE,woman-2 work on hair-7,woman-2 work at salon-10	NONE,hair-7:someones	2	1
+2361221	A horse drawn carriage riding in front of old English buildings.	NONE,horse-2 draw carriage-4,carriage-4 ride in front of building-11	NONE,building-11:old,building-11:english	2	2
+2361223	three vases with some flowers in it flourishing	NONE,vase-2 with flower-5,vase-2' with flower-5,vase-2'' with flower-5	NONE	3	0
+2361225	Adult preparing to catch flying disc in open area near trees and water.	NONE,disc-6 in area-9,area-9 near tree-11,area-9 near water-13	NONE,disc-6:fly,area-9:open	3	2
+2361231	A woman holding a knife by some birthday cakes.	NONE,woman-2 hold knife-5,woman-2 hold by birthday-8	NONE,woman-2:cake	2	1
+2361234	A group of young people playing with frisbee on field.	NONE,group-2 of people-5,group-2 play with frisbee-8,frisbee-8 on field-10	NONE,people-5:young	3	1
+2361236	A close up of the bank sign with a clock on top.	NONE,close-2 sign with clock-10,clock-10 on top-12	NONE	2	0
+2361239	A giraffe lifts its head up after drinking water.	NONE,giraffe-2 have head-5,giraffe-2 lift up head-5,giraffe-2 lift up after water-9	NONE	3	0
+2361243	A black and white cat sleeping on top of a tv with a fish on it.	NONE,cat-5 sleep on top of tv-11,cat-5 sleep with fish-14,fish-14 on cat-5	NONE,cat-5:white,cat-5:black	3	2
+2361244	A group of zebras are eating the shrubs off the dirt.	NONE,group-2 of zebra-4,group-2 eat shrub-8,group-2 eat off dirt-11	NONE	3	0
+2361245	A man on a skateboard in front of a camera that has been set up.	NONE,man-2 on skateboard-5,skateboard-5 in front of camera-10	NONE	2	0
+2361248	A group of people are in the snow on skis.	NONE,group-2 of people-4,group-2 in snow-8,snow-8 on ski-10	NONE	3	0
+2361250	A city made out of stone brick with large arches.	NONE,city-2 make out of brick-7,city-2 make out with arch-10	NONE,arch-10:large	2	1
+2361251	A car driving down a road next to a street sign.	NONE,car-2 drive down road-6,road-6 next to sign-11	NONE	2	0
+2361257	A chandelier, made of baseballs and bats, hangs from a metal roof.	NONE,chandelier-2 make of baseball-6,chandelier-2 make of bat-8,chandelier-2 hang from roof-14	NONE	3	0
+2361263	A giraffe grazing from tree with brick wall in background.	NONE,giraffe-2 graze from tree-5,giraffe-2 graze with wall-8,wall-8 in background-10	NONE	3	0
+2361265	Photo of a man riding an old styled bicycle near what appears to be the Golden Gate Bridge.	NONE,Photo-1 of man-4,man-4 ride bicycle-9,bicycle-9 near what-11	NONE,Photo-1:appear,bicycle-9:old,bicycle-9:styled	3	3
+2361266	A white sink mounted to a green wall in a bathroom.	NONE,sink-3 mount to wall-8,sink-3 mount in bathroom-11	NONE,sink-3:white,wall-8:green	2	2
+2361268	People waiting at a buffet line to grab their food.	NONE,people-1 wait at line-6,people-1 have food-10,people-1' wait at line-6,people-1' have food-10	NONE	4	0
+2361274	A living area with a fireplace, television and atlas on wall.	NONE,area-3 with fireplace-6,area-3 with television-8,area-3 with atla-10,fireplace-6 on wall-12	NONE,area-3:live	4	1
+2361279	A group of men sitting in front of laptop computers.	NONE,group-2 of man-4,group-2 sit in front of computer-10	NONE,computer-10:laptop	2	1
+2361280	A fighter jet on display with old buildings in the background.	NONE,jet-3 on display-5,jet-3 with building-8,jet-3 in background-11	NONE,building-8:old	3	1
+2361281	A pizza sitting on top of a cardboard box on a yellow cloth.	NONE,pizza-2 sit on top of box-9,pizza-2 sit on cloth-13	NONE,cloth-13:yellow	2	1
+2361282	A bus driving down a street in front of a cross walk.	NONE,bus-2 drive down street-6,street-6 in front of cross-11	NONE,bus-2:walk	2	1
+2361283	A para surfer on a sunny day on some smooth water.	NONE,para-2 surfer on day-7,day-7 on water-11	NONE,day-7:sunny,water-11:smooth	2	2
+2361291	A large family room with furniture and a fireplace.	NONE,room-4 with furniture-6,room-4 with fireplace-9	NONE,room-4:large	2	1
+2361292	A scooter with a bag on it parked next to a pasture with two cows in it.	NONE,scooter-2 with bag-5,scooter-2 park next to pasture-12,scooter-2 park with cow-15,scooter-2 park with cow-15',bag-5 on scooter-2,cow-15 in scooter-2,cow-15' in scooter-2	NONE	7	0
+2361301	A woman lays in her bed with two cats.	NONE,woman-2 have bed-6,woman-2 lay in bed-6,woman-2 lay with cat-9,woman-2 lay with cat-9'	NONE	4	0
+2361304	A sign up on a post at an intersection in a city.	NONE,A-1 sign up on post-6,post-6 at intersection-9,intersection-9 in city-12	NONE	3	0
+2361305	A young woman sitting indian style on top of a bench.	NONE,woman-3 sit style-6,woman-3 sit on top of bench-11	NONE,woman-3:young	2	1
+2361312	A street with brick lined buildings, British flags and a clock tower.	NONE,street-2 with brick-4,street-2 line building-6,street-2 line flag-9,street-2 line tower-13	NONE,flag-9:british	4	1
+2361314	A white plate topped with meat, mac and cheese and a bun.	NONE,plate-3 top with meat-6,plate-3 top with mac-8,plate-3 top with cheese-10,plate-3 top with bun-13	NONE,plate-3:white	4	1
+2361315	A platter of food including side dishes and greens.	NONE,platter-2 of food-4,food-4 including dish-7,food-4 including green-9	NONE	3	0
+2361317	A vase with a painted of a man and a horse on the side of it.	NONE,vase-2 with painted-5,vase-2 on side-14,painted-5 of man-8,painted-5 of horse-11,side-14 of vase-2	NONE	5	0
+2361319	A bed in a bedroom with lots of wooden chairs.	NONE,bed-2 in bedroom-5,bed-2 with chair-10	NONE,chair-10:wooden	2	1
+2361322	A man riding a horse drawn carriage on a race track.	NONE,man-2 ride horse-5,man-2 draw carriage-7,carriage-7 on track-11	NONE	3	0
+2361325	A person skis with mountains in the background.	NONE,person-2 ski with mountain-5,mountain-5 in background-8	NONE	2	0
+2361326	Two burritos on a plate with a spoon next to a pack of cigarettes.	NONE,burrito-2 on plate-5,burrito-2 next to pack-12,burrito-2' on plate-5,burrito-2' next to pack-12,plate-5 with spoon-8,pack-12 of cigarette-14	NONE	6	0
+2361335	a bunch of people are standing under some pink umbrellas	NONE,people-4 stand under umbrella-10,people-4' stand under umbrella-10'	NONE,umbrella-10:pink,umbrella-10':people	2	2
+2361336	A white plate topped with eggs and potatoes	NONE,plate-3 top with egg-6,plate-3 top with potato-8	NONE,plate-3:white	2	1
+2361340	A pepperoni pizza is on a plate with a fork and spoon.	NONE,pizza-3 on plate-7,plate-7 with fork-10,plate-7 with spoon-12	NONE	3	0
+2361343	A train travels through the mountains on its tracks.	NONE,train-2 travel through mountain-6,train-2 have track-9,mountain-6 on track-9	NONE	3	0
+2361345	two little girls in white holding two umbrellas.	NONE,girl-3 in umbrella-8,girl-3' in umbrella-8	NONE,girl-3:little,girl-3':little,umbrella-8:hold	2	3
+2361347	A group of baseball players standing around a field.	NONE,group-2 of player-5,group-2 stand around field-9	NONE	2	0
+2361348	A man sits on a wooden bench next to a sign.	NONE,man-2 sit on bench-7,bench-7 next to sign-11	NONE,bench-7:wooden	2	1
+2361349	A young man kicking around a soccer ball on a field.	NONE,man-3 kick around ball-8,ball-8 on field-11	NONE,man-3:young	2	1
+2361357	A cake with white flowers on top of it.	NONE,cake-2 of cake-2,cake-2 with flower-5,cake-2 on top-7	NONE,flower-5:white	3	1
+2361359	A pool next to a dock lined with lots of boats.	NONE,pool-2 line next to dock-6,pool-2 line with boat-11	NONE	2	0
+2361361	A plate topped with a cut in half sandwich and an omelet.	NONE,plate-2 top with cut-6,plate-2 top in sandwich-9,plate-2 top in omelet-12	NONE	3	0
+2361362	A garbage man is working down a street with his red garbage truck.	NONE,man-3 work down street-8,man-3 have truck-13,street-8 with truck-13	NONE,truck-13:red	3	1
+2361364	A bike leans on a wooden fence on a hill.	NONE,bike-2 lean on fence-7,fence-7 on hill-10	NONE,fence-7:wooden	2	1
+2361371	A man in a shirt and tie sitting on a white chair next to a lamp.	NONE,man-2 in shirt-5,man-2 in tie-7,shirt-5 sit on chair-12,shirt-5 next to lamp-16	NONE,chair-12:white	4	1
+2361374	A clipboard on a table with several wine glasses	NONE,clipboard-2 on table-5,table-5 with glass-9	NONE,glass-9:several	2	1
+2361375	A man and a woman behind the counter of a restaurant.	NONE,woman-5 behind counter-8,woman-5 of restaurant-11	NONE	2	0
+2361380	A woman standing in a living room holding a Wii controller next to a man.	NONE,woman-2 stand in room-7,room-7 hold controller-11,room-7 hold next to man-15	NONE,room-7:live	3	1
+2361383	A stamp with a dog in the frame looking out to the water.	NONE,stamp-2 with dog-5,stamp-2 look out to water-13,dog-5 in frame-8	NONE	3	0
+2361384	A black cup with a toothbrush in it next to a white cup with two toothbrushes in it.	NONE,cup-3 with toothbrush-6,cup-3 next to cup-13,toothbrush-6 in cup-3,cup-13 with toothbrush-16,cup-13 with toothbrush-16',toothbrush-16 in cup-3,toothbrush-16' in cup-3	NONE,cup-3:black,cup-13:white	7	2
+2361390	A group of three men riding motorcycles on a wet road.	NONE,group-2 of man-5,group-2 of man-5',group-2 of man-5'',group-2 ride motorcycle-7,group-2 ride on road-11	NONE,road-11:wet	5	1
+2361391	A small dog laying on a bed next to a laptop computer.	NONE,dog-3 lay on bed-7,dog-3 lay next to computer-12	NONE,dog-3:small,computer-12:laptop	2	2
+2361396	A cat sits on a bench next to another bench.	NONE,cat-2 sit on bench-6,bench-6 next to bench-10	NONE	2	0
+2361400	A man riding a skateboard into the air.	NONE,man-2 ride skateboard-5,man-2 ride into air-8	NONE	2	0
+2361401	A giraffe at a zoo enjoying the day	NONE,giraffe-2 at zoo-5,zoo-5 enjoy tmod day-8	NONE	2	0
+2361402	There is woman standing in the living room in front of a blue couch.	NONE,standing-4 in room-8,room-8 in front of couch-14	NONE,room-8:live,couch-14:blue	2	2
+2361403	A sandwich filled with meat on top of a plate.	NONE,sandwich-2 fill with meat-5,sandwich-2 fill on top of plate-10	NONE	2	0
+2361404	A couple of women playing a game with remote controllers.	NONE,couple-2 play game-7,couple-2 play with controller-10	NONE,controller-10:remote	2	1
+2361405	A black plate with apples, spinach and a sandwich.	NONE,plate-3 with apple-5,plate-3 with spinach-7,plate-3 with sandwich-10	NONE,plate-3:black	3	1
+2361411	A group of people in skis on snowy hill next to a lodge.	NONE,group-2 of people-4,group-2 next to lodge-13,people-4 in ski-6,ski-6 on hill-9	NONE,hill-9:snowy	4	1
+2361415	Black and white photo of a family with a dog and females holding tennis rackets.	NONE,photo-4 of family-7,photo-4 hold racket-15,family-7 with dog-10,family-7 with female-12	NONE,photo-4:white,photo-4:black	4	2
+2361416	a very large bathroom with a shower and a sink	NONE,bathroom-4 with shower-7,bathroom-4 with sink-10	NONE,bathroom-4:large	2	1
+2361418	Zebra standing in area with colorful plants growing nearby.	NONE,Zebra-1 stand in area-4,Zebra-1 stand with plant-7	NONE,plant-7:colorful	2	1
+2361420	A man sitting at a table with a laptop and an open book.	NONE,man-2 sit at table-6,table-6 with laptop-9,table-6 with book-13	NONE,book-13:open	3	1
+2361421	An orange sitting in a red bowl with a light upon it.	NONE,orange-2 sit upon orange-2,orange-2 sit in bowl-7,bowl-7 with light-10	NONE,bowl-7:red	3	1
+2361425	A pizza sitting on top of a table with olives, sausage and cheese.	NONE,pizza-2 sit on top of table-8,table-8 with olive-10,table-8 with sausage-12,table-8 with cheese-14	NONE	4	0
+2361431	four people standing up playing nintendo wii in a large room	NONE,people-2 stand up wii-7,people-2 stand up in room-11,people-2' stand up wii-7,people-2' stand up in room-11,people-2'' stand up wii-7,people-2'' stand up in room-11,people-2''' stand up wii-7,people-2''' stand up in room-11	NONE,wii-7:play,room-11:large	8	2
+2361432	Several people stand in a large room in this image.	NONE,people-2 stand in room-7,people-2' stand in room-7,room-7 in image-10	NONE,people-2:several,people-2':several,room-7:large	3	3
+2361433	A small purple teddy bear complete with a matching purple bow around his neck.	NONE,teddy-4 have neck-14,bow-11 around neck-14	NONE,teddy-4:small,teddy-4:purple,teddy-4:bear,bow-11:match,bow-11:purple	2	5
+2361436	Two small airplanes parked on a lush green field.	NONE,airplane-3 park on field-9,airplane-3' park on field-9	NONE,airplane-3:small,airplane-3':small,field-9:green,field-9:lush	2	4
+2361437	A herd of cattle standing on top of a lush green hill.	NONE,herd-2 of cattle-4,herd-2 stand on top of hill-12	NONE,hill-12:green,hill-12:lush	2	2
+2361438	A close up of several pikes locked on a gate.	NONE,close-2 of pike-6,close-2 lock on gate-10	NONE,pike-6:several	2	1
+2361439	The Phillips 66 clocks is in front of some posters.	NONE,clocks-4 in front of poster-10,clocks-4 in front of poster-10'	NONE	2	0
+2361440	A snowboarder flies through air as he comes down the mountain.	NONE,snowboarder-2 fly through air-5,snowboarder-2 come down mountain-11	NONE	2	0
+2361442	The street sign is above the other side of a stop sign.	NONE,sign-3 above side-8,side-8 of sign-12	NONE,side-8:other	2	1
+2361443	A girl in a pink snowsuit skiing on a ski slope.	NONE,girl-2 in skiing-7,girl-2 on slope-11	NONE,skiing-7:pink,slope-11:ski	2	2
+2361448	A young man holding a tennis racquet on a court.	NONE,man-3 hold racquet-7,man-3 hold on court-10	NONE,man-3:young	2	1
+2361453	The airplane flew across the blue skies and over the expensive beachside resort.	NONE,airplane-2 fly across sky-7,airplane-2 fly over resort-13	NONE,sky-7:blue,resort-13:expensive	2	2
+2361454	A man stands on a tennis court in dress clothes.	NONE,man-2 stand on court-7,court-7 in clothes-10	NONE	2	0
+2361455	Two white buses traveling past each other on a road.	NONE,bus-3 travel on road-10,bus-3' travel on road-10	NONE,bus-3:white,bus-3':white	2	2
+2361458	A kitchen with tiled walls and a large window.	NONE,kitchen-2 with wall-5,kitchen-2 with window-9	NONE,wall-5:tiled,window-9:large	2	2
+2361462	a number of animals in a field of grass near one another	NONE,animal-4 in field-7,animal-4' in field-7,field-7 of grass-9,grass-9 near one-11	NONE	4	0
+2361463	A girl poses in front of an elephant in a walled enclosure	NONE,girl-2 pose in front of elephant-8,elephant-8 in enclosure-12	NONE,enclosure-12:walled	2	1
+2361466	A sign in the grass next to the sidewalk in the shadows.	NONE,sign-2 in grass-5,sign-2 next to sidewalk-9,sidewalk-9 in shadow-12	NONE	3	0
+2361467	Two pizzas sitting on pizza pans on a oven.	NONE,pizza-2 sit on pizza-5,pizza-2 pan on oven-9,pizza-2' sit on pizza-5,pizza-2' pan on oven-9	NONE	4	0
+2361469	Father holding child while elephant stands in front of them.	NONE,child-3 stand in front of child-3,child-3 while elephant-5	NONE,child-3:hold	2	1
+2361472	A traffic light sitting in a room next to a young man.	NONE,light-3 sit in room-7,light-3 sit next to man-12	NONE,man-12:young	2	1
+2361474	A plate topped with a pizza with an egg on top of it.	NONE,plate-2 top on top of plate-2,plate-2 top with pizza-6,pizza-6 with egg-9	NONE	3	0
+2361479	A white clock tower next to a brown building at night.	NONE,clock-3 tower next to building-9,clock-3 tower at night-11	NONE,clock-3:white,building-9:brown	2	2
+2361480	A person on  a skate board in mid air by a rail.	NONE,person-2 on board-6,person-2 by rail-12,board-6 in air-9	NONE,board-6:skate,air-9:mid	3	2
+2361481	Two Clydesdale are pulling a single man across a fielded area.	NONE,clydesdale-2 pull man-7,clydesdale-2 pull across area-11	NONE,man-7:single,area-11:fielded	2	2
+2361482	A man with a funny hat on a big pretty horse.	NONE,man-2 with hat-6,man-2 on horse-11	NONE,hat-6:funny,horse-11:big,horse-11:pretty	2	3
+2361486	A very large crowd of people with a person in a horse mask.	NONE,crowd-4 of people-6,crowd-4 in mask-13,people-6 with person-9	NONE,crowd-4:large	3	1
+2361487	A pair of men dressed in civil war outfits riding horses.	NONE,man-4 dress in outfit-9,man-4' dress in outfit-9'	NONE,outfit-9:civil,outfit-9':man	2	2
+2361505	A young woman is vigorously brushing her teeth.	NONE,woman-3 brush tooth-8,woman-3 have tooth-8	NONE,woman-3:young	2	1
+2361506	A man eating a hot dog on top of a plate.	NONE,man-2 eat dog-6,man-2 eat on top of plate-11	NONE,dog-6:hot	2	1
+2361510	a pair of shoes and fabric strewn across a wooden floor.	NONE,pair-2 of fabric-6,shoe-4 strew across floor-11,shoe-4' strew across floor-11	NONE,floor-11:wooden	3	1
+2343821	A motorcycle parked in a courtyard in front of a small restaurant.	NONE,motorcycle-2 park in courtyard-6,motorcycle-2 park in front of restaurant-12	NONE,restaurant-12:small	2	1
+2361513	A woman with a racket stands on a court.	NONE,woman-2 with racket-5,woman-2 stand on court-9	NONE	2	0
+2361514	A man performing a trick frisbee catch under his leg	NONE,man-2 perform frisbee-6,man-2 catch under leg-10,man-2 have leg-10	NONE	3	0
+2361521	A group of police officers riding horses in a street.	NONE,group-2 of officer-5,group-2 ride horse-7,horse-7 in street-10	NONE	3	0
+2361522	An image of the beach devoid of activity.	NONE,image-2 of devoid-6,image-2 of activity-8	NONE	2	0
+2361524	A man riding a wave on top of a surfboard.	NONE,man-2 ride wave-5,man-2 ride on top of surfboard-10	NONE	2	0
+2361529	Woman and her dog tends to the herd of sheep	NONE,Woman-1 have dog-4,Woman-1 tend to herd-8,dog-4 tend to herd-8,herd-8 of sheep-10	NONE	4	0
+2361531	An old man standing in front of a field with grazing sheep.	NONE,standing-4 in front-6,standing-4 of field-9,field-9 with sheep-12	NONE,standing-4:old	3	1
+2361533	A traffic light sitting next to a tree near a sign.	NONE,light-3 sit to tree-8,tree-8 near sign-11	NONE	2	0
+2361534	Two woman leaning against a wall wearing baby slings.	NONE,woman-2 lean against wall-6,wall-6 wear sling-9	NONE	2	0
+2361535	Two little birds perched next to a  vase with flowers.	NONE,bird-3 perch next to vase-8,bird-3 perch with flower-10,bird-3' perch next to vase-8,bird-3' perch with flower-10'	NONE,bird-3:little,bird-3':flower	4	2
+2361536	Two cows sitting on a beach next to a boat.	NONE,cow-2 sit on beach-6,cow-2 sit next to boat-10,cow-2' sit on beach-6,cow-2' sit next to boat-10	NONE	4	0
+2361537	A street containing various cars and lampposts at night.	NONE,street-2 contain car-5,street-2 contain lamppost-7,street-2 contain at night-9	NONE,car-5:various	3	1
+2361547	A person is browsing Facebook on their phone in a restaurant.	NONE,person-2 browse Facebook-5,person-2 have phone-8,Facebook-5 on phone-8,phone-8 in restaurant-11	NONE	4	0
+2361549	This zoo exhibit is home to a large group of girrafes	NONE,exhibit-3 to group-9,group-9 of girrafe-11	NONE,group-9:large	2	1
+2361553	a table with a line of different kind of dressed hot dogs.	NONE,table-2 with line-5,table-2 of dog-12,line-5 of kind-8	NONE,kind-8:different,dog-12:dressed,dog-12:hot	3	3
+2361554	A gold and white cat is sitting on a chair.	NONE,gold-2 sit on chair-10,cat-5 sit on chair-10	NONE,cat-5:white	2	1
+2361560	A small child rolls on a skateboard on his stomach.	NONE,child-3 roll on skateboard-7,child-3 have stomach-10,skateboard-7 on stomach-10	NONE,child-3:small	3	1
+2361563	A yellow fire hydrant in a weedy, poorly maintained area.	NONE,hydrant-4 in weedy-7,hydrant-4 maintain area-11	NONE,hydrant-4:yellow	2	1
+2361567	Two zebras graze next to a creek.	NONE,zebra-2 graze to creek-7,zebra-2' graze to creek-7	NONE	2	0
+2361576	A dog sitting under a seat next to men's feet.	NONE,dog-2 sit under seat-6,dog-2 sit next to foot-11,man-9 have foot-11	NONE	3	0
+2361577	A man holding a pair of headphones in his left hand.	NONE,man-2 hold headphone-7,man-2 have hand-11,headphone-7 in hand-11	NONE,hand-11:left	3	1
+2361578	A squirrel eating seeds on a platform in a garden	NONE,seed-4 on platform-7,platform-7 in garden-10	NONE,eating-3:squirrel	2	1
+2361580	Two people in a field playing with a white frisbee.	NONE,people-2 in field-5,people-2 play with frisbee-10,people-2' in field-5,people-2' play with frisbee-10	NONE,frisbee-10:white	4	1
+2361585	A plane has its wings folded up towards the body.	NONE,plane-2 have wing-5,plane-2 have wing-5,wing-5 fold up towards body-10	NONE	3	0
+2361589	A beautiful woman holding a tennis ball and racquet.	NONE,woman-3 hold ball-7,woman-3 hold racquet-9	NONE,woman-3:beautiful	2	1
+2361591	An elephant crosses a dirt road in front of a white truck.	NONE,elephant-2 cross road-6,elephant-2 cross in front of truck-12	NONE,truck-12:white	2	1
+2361594	A man riding a skateboard through a park.	NONE,man-2 ride skateboard-5,man-2 ride through park-8	NONE	2	0
+2361595	A busy bicycle path near a parking lot in a large city.	NONE,path-4 near lot-8,path-4 in city-12	NONE,path-4:busy,city-12:large	2	2
+2361596	Several elephants gathered together near a puddle of mud.	NONE,elephant-2 gather near puddle-7,elephant-2' gather near puddle-7,puddle-7 of mud-9	NONE,elephant-2:several,elephant-2':several	3	2
+2361600	A person riding some skis down a hill covered in snow.	NONE,person-2 ride ski-5,person-2 cover in snow-11	NONE	2	0
+2361602	The cows are standing in a foggy field.	NONE,cow-2 stand in field-8,cow-2' stand in field-8	NONE,field-8:foggy	2	1
+2361607	The person stands on the surfboard on a small wave.	NONE,person-2 stand on surfboard-6,surfboard-6 on wave-10	NONE,wave-10:small	2	1
+2361615	Woman holding umbrella walking on paved roadway next to wall.	NONE,umbrella-3 walk on roadway-7,umbrella-3 walk next to wall-10	NONE,roadway-7:paved	2	1
+2361623	a white and black bear is eating in its pen	NONE,bear-5 eat in pen-10,bear-5 have pen-10	NONE,bear-5:white,bear-5:black	2	2
+2361624	Two large grey elephants fighting in a river.	NONE,elephant-4 fight in river-8,elephant-4' fight in river-8	NONE,elephant-4:large,elephant-4:grey,elephant-4':large,elephant-4':grey	2	4
+2361631	Five motorcycles making a turn on a motorcycle racing track.	NONE,motorcycle-2 make turn-5,motorcycle-2' make turn-5,motorcycle-2'' make turn-5,motorcycle-2''' make turn-5,motorcycle-2'''' make turn-5,turn-5 on track-10	NONE,track-10:race	6	1
+2361632	A red bus on street next to buildings.	NONE,bus-3 on street-5,bus-3 next to building-8	NONE,bus-3:red	2	1
+2361634	A group of people riding on the backs of horses.	NONE,group-2 of people-4,group-2 ride on back-8,back-8 of horse-10	NONE	3	0
+2361635	A large cake sitting in the middle of a table surrounded by pictures in frames.	NONE,cake-3 sit in middle-7,cake-3 surround by picture-13,middle-7 of table-10,picture-13 in frame-15	NONE,cake-3:large	4	1
+2361637	The back end of some motor bikes on a street.	NONE,end-3 of bike-7,end-3 on street-10	NONE,end-3:back	2	1
+2361638	A monument with a clock on each side by a body of water.	NONE,monument-2 with clock-5,monument-2 by body-11,clock-5 on side-8,body-11 of water-13	NONE	4	0
+2361643	a close up of a giraffes head with a wooden wall in the background	NONE,head-7 with wall-11,wall-11 in background-14	NONE,head-7:giraffes,wall-11:wooden	2	2
+2361649	Birds are standing in a row on a wooden railing.	NONE,Birds-1 stand in row-6,row-6 on railing-10	NONE,railing-10:wooden	2	1
+2361651	A group of people riding on the back of motor bikes.	NONE,group-2 of people-4,group-2 ride on back-8,back-8 of bike-11	NONE	3	0
+2361652	Sign on the side of the road welcoming people to Arizona and another sign warning of road work ahead.	NONE,Sign-1 on side-4,side-4 of road-7,road-7 welcome people-9,road-7 welcome warning-15,people-9 to Arizona-11,warning-15 of road-17	NONE,Sign-1:work	6	1
+2361660	A man standing in a room holding his right arm up.	NONE,man-2 stand in room-6,man-2 have arm-10,room-6 hold up arm-10	NONE,arm-10:right	3	1
+2361666	A woman stuffing her face with a hot dog.	NONE,woman-2 have face-5,woman-2 stuff face-5,woman-2 stuff with dog-9	NONE,dog-9:hot	3	1
+2361671	A woman holding a tennis racquet behind her back.	NONE,woman-2 hold racquet-6,woman-2 have back-9,woman-2 hold behind back-9	NONE	3	0
+2361677	A woman sits under the shade of an umbrella at the beach.	NONE,woman-2 sit under shade-6,shade-6 of umbrella-9,umbrella-9 at beach-12	NONE	3	0
+2361679	A couple of green street signs mounted above a pole.	NONE,sign-6 mount above pole-10,sign-6' mount above pole-10	NONE,sign-6:green,sign-6':green	2	2
+2361680	A picture of a stop sign and a stoplight.	NONE,picture-2 of sign-6,picture-2 of stoplight-9	NONE	2	0
+2361681	A bunch of boats gathered in a lake.	NONE,boat-4 gather in lake-8,boat-4' gather in lake-8	NONE	2	0
+2361682	People are flying their kites in the sky.	NONE,people-1 fly kite-5,people-1 have kite-5,people-1 have kite-5',people-1 fly in sky-8,people-1' fly kite-5',people-1' fly in sky-8	NONE	6	0
+2361683	A truck driving down a street next to two brick houses.	NONE,truck-2 drive down street-6,street-6 next to house-11,street-6 next to house-11'	NONE	3	0
+2361686	A group of people playing baseball on a field.	NONE,group-2 of people-4,group-2 play baseball-6,group-2 play on field-9	NONE	3	0
+2361687	Two men on a field together playing ultimate frisbee.	NONE,man-2 on field-5,man-2 play frisbee-9,man-2' on field-5,man-2' play frisbee-9	NONE,frisbee-9:ultimate	4	1
+2361688	A television playing on a desk in a room with colorful art on the walls	NONE,playing-3 on desk-6,playing-3 with art-12,playing-3 on wall-15,desk-6 in room-9	NONE,art-12:colorful	4	1
+2361692	4 different colored sea horses flying with 4 birds.	NONE,horse-5 fly with bird-9,horse-5 fly with bird-9',horse-5 fly with bird-9'',horse-5 fly with bird-9''',horse-5' fly with bird-9,horse-5' fly with bird-9',horse-5' fly with bird-9'',horse-5' fly with bird-9''',horse-5'' fly with bird-9,horse-5'' fly with bird-9',horse-5'' fly with bird-9'',horse-5'' fly with bird-9''',horse-5''' fly with bird-9,horse-5''' fly with bird-9',horse-5''' fly with bird-9'',horse-5''' fly with bird-9'''	NONE,horse-5:colored,horse-5:different,horse-5':colored,horse-5':different,horse-5'':colored,horse-5'':different,horse-5''':colored,horse-5''':different	16	8
+2361693	A dimly lit bathroom with a row of sinks	NONE,bathroom-4 with row-7,row-7 of sink-9	NONE,bathroom-4:lit	2	1
+2361695	A child riding a skateboard through a ramp park.	NONE,child-2 ride skateboard-5,child-2 ride through park-9	NONE	2	0
+2361698	A group of men who are standing behind a banner that has various flags on it.	NONE,group-2 of man-4,flag-14 on group-2	NONE,flag-14:various	2	1
+2361699	A red and blue fire hydrant sitting on a patch of grass next to a small road.	NONE,patch-10 of grass-12,grass-12 next to road-17	NONE,fire-5:hydrant,fire-5:red,fire-5:blue,road-17:small	2	4
+2361704	An man taking a picture of a sink through a mirror.	NONE,man-2 take picture-5,man-2 take through mirror-11,picture-5 of sink-8	NONE	3	0
+2361707	The two rams are walking on the mountain together	NONE,ram-3 walk on mountain-8,ram-3' walk on mountain-8	NONE	2	0
+2361710	The tennis player is extending his reach to hit the racket.	NONE,player-3 extend reach-7,player-3 have reach-7,reach-7 hit racket-11	NONE	3	0
+2361714	some young men in suits and ties standing together	NONE,man-3 in suit-5,man-3 in tie-7,man-3' in suit-5,man-3' in tie-7	NONE,man-3:young,man-3':young	4	2
+2361715	Bird perched atop the back of a park bench.	NONE,Bird-1 perch atop back-5,back-5 of bench-9	NONE	2	0
+2361718	Two men on a sofa holding laptops next to table.	NONE,man-2 on sofa-5,man-2 hold laptop-7,man-2 hold next to table-10,man-2' on sofa-5,man-2' hold laptop-7,man-2' hold next to table-10	NONE	6	0
+2361726	Woman wearing a black coat holding up a red cellphone.	NONE,Woman-1 wear coat-5,coat-5 hold up cellphone-10	NONE,coat-5:black,cellphone-10:red	2	2
+2361731	a man undoes the knot on his tie	NONE,man-2 undo knot-5,man-2 have tie-8,knot-5 on tie-8	NONE	3	0
+2361732	Two men posing with a radio communication device.	NONE,man-2 pose with device-8,man-2' pose with device-8	NONE	2	0
+2361735	A refrigeration unit with half-empty gallons of milk and orange juice.	NONE,unit-3 with gallon-6,gallon-6 of milk-8,gallon-6 of orange-10	NONE,unit-3:juice,gallon-6:halfempty	3	2
+2361736	A black boy playing tennis at a tennis court.	NONE,boy-3 play tennis-5,boy-3 play at court-9	NONE,boy-3:black	2	1
+2361741	A man with a visor and sunglasses on a grass field and holding a frisbee in both hands.	NONE,man-2 with visor-5,man-2 with sunglass-7,sunglass-7 on field-11,sunglass-7 on hold-13,frisbee-15 in hand-18	NONE	5	0
+2361743	A plastic drinking can with flowers in it at a desk	NONE,drinking-3 can with flower-6,flower-6 in drinking-3,flower-6 at desk-11	NONE,drinking-3:plastic	3	1
+2361744	A boat sitting on water next to a red bench.	NONE,boat-2 sit on water-5,boat-2 sit next to bench-10	NONE,bench-10:red	2	1
+2361746	A woman riding a skateboard down a sidewalk in front of a building.	NONE,woman-2 ride skateboard-5,woman-2 ride in front of building-13	NONE	2	0
+2361750	A large brown bison standing in a field next to a mountain.	NONE,standing-5 in field-8,standing-5 next to mountain-12	NONE,standing-5:large,standing-5:brown	2	2
+2361751	A fire pit in the middle of a kitchen counter.	NONE,pit-3 in middle-6,middle-6 of kitchen-9	NONE,pit-3:counter	2	1
+2361752	A red do not enter sign sitting on the side of a road.	NONE,red-2 enter sign-6,sign-6 sit on side-10,side-10 of road-13	NONE	3	0
+2361754	A group of men are standing in the back of a pick up truck.	NONE,group-2 of man-4,group-2 stand in back-9,group-2 stand up truck-14,back-9 of pick-12	NONE	4	0
+2361755	A person doing a trick on a snowboard over a hill.	NONE,person-2 do trick-5,person-2 do on snowboard-8,snowboard-8 over hill-11	NONE	3	0
+2361758	A person is riding a motorcycle as part of some kind of performance.	NONE,person-2 ride motorcycle-6,person-2 ride as part-8,part-8 of kind-11,kind-11 of performance-13	NONE	4	0
+2361759	A basic looking kitchen with oak cabinets.	NONE,basic-2 look kitchen-4,basic-2 look with cabinet-7	NONE	2	0
+2361764	A baseball player swinging a ball at a bat.	NONE,player-3 swing ball-6,player-3 swing at bat-9	NONE	2	0
+2361765	A large white clock tower with steeple overlooking city.	NONE,tower-5 with steeple-7,tower-5 overlook city-9	NONE,tower-5:large,tower-5:white	2	2
+2361766	Two elephants walking through a lush green field.	NONE,elephant-2 walk through field-8,elephant-2' walk through field-8	NONE,field-8:green,field-8:lush	2	2
+2361767	A kid is standing on a tennis court with a racket.	NONE,kid-2 stand on court-8,court-8 with racket-11	NONE	2	0
+2361772	Two people in lab coats are doing something they pulled up on their laptop.	NONE,people-2 in coat-5,people-2 do something-8,people-2 have laptop-14,people-2 pull up on laptop-14,people-2' in coat-5,people-2' do something-8,people-2' have laptop-14,people-2' pull up on laptop-14	NONE	8	0
+2361773	A sandy beach covered in lawn chairs and umbrellas.	NONE,beach-3 cover in chair-7,beach-3 cover in umbrella-9	NONE,beach-3:sandy	2	1
+2361776	The train engine with a long string of cars proceeds down the track by the verdant meadow.	NONE,engine-3 with car-9,engine-3 proceed down track-13,engine-3 proceed down by meadow-17	NONE,meadow-17:verdant	3	1
+2361777	There are people who are getting their food.	NONE,people-3 have food-8,people-3' have food-8	NONE	2	0
+2361782	Several train cars going in different directions at a depot.	NONE,car-3 go in direction-7,car-3 go at depot-10,car-3' go in direction-7,car-3' go at depot-10	NONE,car-3:several,car-3':several,direction-7:different	4	3
+2361784	A herd of horses standing on top of a dirt field.	NONE,herd-2 of horse-4,herd-2 stand on top of field-11	NONE	2	0
+2361787	A person jumping a horse over a box.	NONE,person-2 jump horse-5,horse-5 over box-8	NONE	2	0
+2361790	A toilet with a control panel on the side.	NONE,toilet-2 with panel-6,toilet-2 on side-9	NONE	2	0
+2361792	some black and white cattle on a road and in a field	NONE,cattle-5 on road-8,cattle-5' in field-12	NONE,cattle-5:white,cattle-5:black	2	2
+2361793	A canal going through a city filled with boats.	NONE,canal-2 go through city-6,canal-2 fill with boat-9	NONE	2	0
+2361795	Three people posing with a tennis racket for the camera.	NONE,people-2 pose with racket-7,people-2' pose with racket-7,people-2'' pose with racket-7,racket-7 for camera-10	NONE	4	0
+2361797	A major league baseball player just smacked the laces off of that ball.	NONE,player-5 smack off lace-9,player-5 smack off of ball-13	NONE,player-5:major	2	1
+2361798	there is a baby sitting on a chair with a stuffed bear	NONE,baby-4 sit on chair-8,chair-8 with bear-12	NONE,bear-12:stuffed	2	1
+2361799	A statue of a large brown bear tearing off a cars door.	NONE,statue-2 of bear-7,statue-2 tear off door-12	NONE,bear-7:large,bear-7:brown	2	2
+2361805	a building with a pole and some street signs	NONE,building-2 with pole-5,building-2 with sign-9	NONE	2	0
+2361807	Guy and a girl playing video games at a party.	NONE,Guy-1 play game-7,Guy-1 play at party-10	NONE,game-7:video	2	1
+2361817	A person standing in front of a large body of water as the sun sets.	NONE,standing-3 in front of body-9,body-9 of water-11,water-11 as sun-14	NONE,standing-3:set,body-9:large	3	2
+2361818	A group of people standing in the snow with boards.	NONE,group-2 of people-4,group-2 stand in snow-8,snow-8 with board-10	NONE	3	0
+2361819	A small piece of nutty cake on a plate	NONE,piece-3 of cake-6,cake-6 on plate-9	NONE,piece-3:small,cake-6:nutty	2	2
+2361823	A carved wooden elephant next to a book.	NONE,A-1 carve elephant-4,A-1 carve next to book-8	NONE,elephant-4:wooden	2	1
+2361833	A cow grazing on a steep hill in a mountain range.	NONE,grazing-3 on hill-7,hill-7 in mountain-10	NONE,grazing-3:range,hill-7:steep	2	2
+2361834	A little girl holding a white frisbee next to a play ground.	NONE,girl-3 hold frisbee-7,girl-3 hold next to ground-12	NONE,girl-3:little,frisbee-7:white	2	2
+2361836	A man hits a tennis ball with something other than a racket	NONE,man-2 hit ball-6,man-2 hit with something-8,something-8 than racket-12	NONE,something-8:other	3	1
+2361839	A boat floating on top of a river next to a forest.	NONE,boat-2 float on top of river-8,river-8 next to forest-12	NONE	2	0
+2361841	Two skate boards sitting side by side next to each other on a floor.	NONE,board-3 sit side-5,board-3 sit by side-7,board-3 sit on floor-14,board-3' sit side-5,board-3' sit by side-7,board-3' sit on floor-14	NONE,board-3:skate,board-3':skate	6	2
+2361843	A man riding a snowboard through the air on the side of a mountain.	NONE,man-2 ride snowboard-5,man-2 ride through air-8,air-8 on side-11,side-11 of mountain-14	NONE	4	0
+2361844	Yellow and red floral arrangement displayed in bathroom.	NONE,Yellow-1 display in bathroom-8,arrangement-5 display in bathroom-8	NONE,arrangement-5:red,arrangement-5:floral	2	2
+2361846	a lone black and white cow standing on a large field of grass	NONE,standing-7 on field-11,standing-7 of grass-13	NONE,standing-7:white,standing-7:lone,standing-7:black,field-11:large	2	4
+2361848	Multiple people doing tricks on skateboards next to barrier.	NONE,people-2 do trick-4,people-2' do trick-4,trick-4 on skateboard-6,skateboard-6 next to barrier-9	NONE,people-2:multiple,people-2':multiple	4	2
+2361850	A herd of zebra standing next to each other in a lush green field.	NONE,herd-2 of zebra-4,herd-2 stand in field-14	NONE,field-14:green,field-14:lush	2	2
+2361855	Two toilets are in a restroom with a vanity with dual sinks.	NONE,toilet-2 in restroom-6,toilet-2' in restroom-6,restroom-6 with vanity-9,vanity-9 with sink-12	NONE,sink-12:dual	4	1
+2361856	A woman is walking down the street with a handbag and a cell phone.	NONE,woman-2 walk down street-7,street-7 with handbag-10,street-7 with phone-14	NONE	3	0
+2361861	A clock mounted above a door entrance with windows.	NONE,clock-2 mount above entrance-7,clock-2 mount with window-9	NONE	2	0
+2361862	A large sign hanging on the side of a metal structure.	NONE,sign-3 hang on side-7,side-7 of structure-11	NONE,sign-3:large	2	1
+2361863	A boy is sitting on the grass with a frisbee.	NONE,boy-2 sit on grass-7,grass-7 with frisbee-10	NONE	2	0
+2361865	Two men sitting on a bench in baseball uniforms.	NONE,man-2 sit on bench-6,man-2' sit on bench-6,bench-6 in uniform-9	NONE	3	0
+2361866	Six people in a boat rowing on a body of water.	NONE,people-2 in rowing-6,people-2 on body-9,people-2' in rowing-6,people-2' on body-9,people-2'' in rowing-6,people-2'' on body-9,people-2''' in rowing-6,people-2''' on body-9,people-2'''' in rowing-6,people-2'''' on body-9,people-2''''' in rowing-6,people-2''''' on body-9,body-9 of water-11	NONE	13	0
+2361867	Two small dogs on a sidewalk near a bicycle.	NONE,dog-3 on sidewalk-6,dog-3 near bicycle-9,dog-3' on sidewalk-6,dog-3' near bicycle-9	NONE,dog-3:small,dog-3':small	4	2
+2361869	A man is doing a trick on a skateboard.	NONE,man-2 do trick-6,trick-6 on skateboard-9	NONE	2	0
+2361870	A zebra is running into a group of wildebeests.	NONE,zebra-2 run into group-7,group-7 of wildebeest-9	NONE	2	0
+2361880	A guy holding a white umbrella and light on the beach at night.	NONE,guy-2 hold umbrella-6,guy-2 hold light-8,umbrella-6 on beach-11,beach-11 at night-13	NONE,umbrella-6:white	4	1
+2361883	The man, the young girl, and dog are on the surfboard.	NONE,man-2 on surfboard-13,girl-6 on surfboard-13,dog-9 on surfboard-13	NONE,girl-6:young	3	1
+2361886	A delicious view of some healthy food set in a plate.	NONE,view-3 of food-7,view-3 set in plate-11	NONE,view-3:delicious,food-7:healthy	2	2
+2361887	there are many people boarding a large plane	NONE,people-4 board plane-8,people-4' board plane-8	NONE,people-4:many,people-4':many,plane-8:large	2	3
+2361891	A woman holds an umbrella at in indoor train station.	NONE,woman-2 hold umbrella-5,woman-2 hold in station-10	NONE,station-10:indoor	2	1
+2361899	a policeman on a motorcycle and some orange cones	NONE,policeman-2 on motorcycle-5,policeman-2 on cone-9	NONE,cone-9:orange	2	1
+2361902	A woman has a boogie board and there is another woman behind her.	NONE,woman-2 have board-6,woman-11 behind woman-2	NONE,board-6:boogie	2	1
+2361903	A wooden table topped with slices of toast, soup and OJ>	NONE,table-3 top with slice-6,slice-6 of >-13	NONE,table-3:wooden	2	1
+2361905	An elephant standing over another elephant with its trunk over its head.	NONE,elephant-2 stand over elephant-6,elephant-2 have trunk-9,elephant-2 have head-12,elephant-6 with trunk-9,trunk-9 over head-12	NONE	5	0
+2361907	A man wearing a red shirt reaching for a ball with a tennis racket.	NONE,man-2 wear shirt-6,shirt-6 reach for ball-10,ball-10 with racket-14	NONE,shirt-6:red	3	1
+2361910	A bunch of elephants are standing in a field.	NONE,elephant-4 stand in field-9,elephant-4' stand in field-9	NONE	2	0
+2361911	A woman leaning on a silver microwave next to shelf.	NONE,woman-2 lean on microwave-7,woman-2 lean next to shelf-10	NONE,microwave-7:silver	2	1
+2361917	A row of doughnuts being passed through a fryer.	NONE,row-2 of doughnut-4,row-2 pass through fryer-9	NONE	2	0
+2361921	Commercial logging transport truck on dirt road near forest.	NONE,truck-4 on road-7,road-7 near forest-9	NONE,truck-4:commercial,truck-4:log	2	2
+2361922	a close up of some bright colorful kites above the beach	NONE,kite-8 above beach-11,kite-8' above beach-11	NONE,kite-8:bright,kite-8:colorful,kite-8':bright,kite-8':colorful	2	4
+2361923	The motorcyclists are on a charity ride through the town.	NONE,motorcyclist-2 on ride-7,motorcyclist-2' on ride-7,ride-7 through town-10	NONE	3	0
+2361927	Two brown bears swimming together in green water.	NONE,bear-3 swim in water-8,bear-3' swim in water-8	NONE,bear-3:brown,bear-3':brown,water-8:green	2	3
+2361930	Man in a blue jacket with a dog on his shoulders.	NONE,man-1 in jacket-5,man-1 with dog-8,man-1 have shoulder-11,dog-8 on shoulder-11	NONE,jacket-5:blue	4	1
+2361933	Different assortment of noodles and vegetables sitting in a pot and tray.	NONE,assortment-2 of noodle-4,assortment-2 of vegetable-6,assortment-2 sit in pot-10,assortment-2 sit in tray-12	NONE,assortment-2:different	4	1
+2361941	a train on a train track at a train station	NONE,train-2 on train-5,train-2 track at station-10	NONE	2	0
+2361942	Two trains sit side by side on the rusty rails.	NONE,train-2 sit side-4,train-2 sit by side-6,train-2' sit side-4,train-2' sit by side-6,side-6 on rail-10	NONE,rail-10:rusty	5	1
+2361945	a bed room with a bed with a canopy	NONE,room-3 with bed-6,room-3 with canopy-9	NONE	2	0
+2361946	A living room filled with furniture and a small TV.	NONE,room-3 fill with furniture-6,room-3 fill with tv-10	NONE,tv-10:small	2	1
+2361949	A red train traveling down train tracks in a city.	NONE,train-3 travel down train-6,train-3 track in city-10	NONE,train-3:red	2	1
+2361951	A train traveling along a loading platform at a train station.	NONE,train-2 travel along platform-7,platform-7 at station-11	NONE	2	0
+2361955	A large body of water with a boat on it.	NONE,body-3 of water-5,body-3 with boat-8,boat-8 on body-3	NONE,body-3:large	3	1
+2361956	Farmer's market style display of carrots, celery, egg plants and squash.	NONE,Farmer-1 have style-4,style-4 display of carrot-7,style-4 display of celery-9,style-4 display of plant-12,style-4 display of squash-14	NONE	5	0
+2361969	Black and white photograph of a horse below a window in a stable.	NONE,photograph-4 of horse-7,photograph-4 in stable-13,horse-7 below window-10	NONE,photograph-4:white,photograph-4:black	3	2
+2361970	Two credit cards cut in half underneath a pair of scissors.	NONE,card-3 cut in half-6,card-3 cut underneath scissors-11,card-3' cut in half-6,card-3' cut underneath scissors-11	NONE	4	0
+2361974	A MAN AND CHILD ARE AT THE WATERS EDGE WITH A SURFBOARD	NONE,MAN-2 at EDGE-9,MAN-2 at with SURFBOARD-12,CHILD-4 at EDGE-9,CHILD-4 at with SURFBOARD-12	NONE	4	0
+2361975	A group of people standing around a table with a cake.	NONE,group-2 of people-4,group-2 stand around table-8,table-8 with cake-11	NONE	3	0
+2361986	A set of wooden lawn furniture sitting on the ground.	NONE,set-2 of furniture-6,set-2 sit on ground-10	NONE,furniture-6:wooden	2	1
+2361987	A large bird flying over the water at sunset.	NONE,bird-3 fly over water-7,water-7 at sunset-9	NONE,bird-3:large	2	1
+2361989	People snowboarding down a hill in the mountains.	NONE,people-1 snowboard down hill-5,people-1' snowboard down hill-5,hill-5 in mountain-8	NONE	3	0
+2361996	A row of park benches with flower beds hanging next to them.	NONE,row-2 hang to row-2,row-2 of bench-5,bench-5 with bed-8	NONE	3	0
+2362003	A room with white walls and bright lights.	NONE,room-2 with wall-5,room-2 with light-8	NONE,wall-5:white,light-8:bright	2	2
+2362004	A tennis player holding his racket on the court.	NONE,player-3 have racket-6,player-3 hold racket-6,player-3 hold on court-9	NONE	3	0
+2362007	A group of men holding a long hose next to a boat.	NONE,group-2 of man-4,group-2 hold hose-8,group-2 hold next to boat-12	NONE,hose-8:long	3	1
+2362008	Two giraffes are standing next to each other by trees.	NONE,giraffe-2 stand by tree-10,giraffe-2' stand by tree-10'	NONE	2	0
+2362009	A household bathroom with vanity sink, toilet and tub and shower.	NONE,bathroom-3 with sink-6,bathroom-3 with toilet-8,bathroom-3 with shower-12	NONE	3	0
+2362011	Two lounge chairs beneath an umbrella on the sand at the beach	NONE,chair-3 beneath umbrella-6,chair-3 on sand-9,chair-3 at beach-12,chair-3' beneath umbrella-6,chair-3' on sand-9,chair-3' at beach-12	NONE	6	0
+2362016	The train is going down the tracks by the church.	NONE,train-2 go down track-7,train-2 go down by church-10	NONE	2	0
+2362018	this is a sculpture of a seal with a hat	NONE,sculpture-4 of seal-7,seal-7 with hat-10	NONE	2	0
+2362026	A baby brushing it's teeth with a toothbrush.	NONE,baby-2 brush baby-2,tooth-6 with toothbrush-9,tooth-6' with toothbrush-9	NONE,baby-2:tooth	3	1
+2362028	A pile of food sitting on top of a white plate.	NONE,pile-2 of food-4,pile-2 sit on top of plate-11	NONE,plate-11:white	2	1
+2362029	A passenger jet airplane taking off with mountains in the background.	NONE,airplane-4 take off with mountain-8,mountain-8 in background-11	NONE	2	0
+2362030	A man on a court swinging a racket at a ball.	NONE,man-2 on court-5,man-2 swing racket-8,man-2 swing at ball-11	NONE	3	0
+2362031	A black crow standing on a rock with its mouth open	NONE,standing-4 on rock-7,standing-4 have mouth-10,rock-7 with mouth-10	NONE,standing-4:black	3	1
+2362034	horses are eating grass in a big field	NONE,horse-1 eat grass-4,horse-1' eat grass-4,grass-4 in field-8	NONE,field-8:big	3	1
+2362040	A woman riding a surfboard in a bikini bottom on a wave.	NONE,woman-2 ride surfboard-5,woman-2 ride in bottom-9,bottom-9 on wave-12	NONE	3	0
+2362041	Many people bike through the streets at night.	NONE,people-2 bike through street-6,people-2 bike at night-8,people-2' bike through street-6',people-2' bike at night-8	NONE,people-2:many,people-2':street	4	2
+2362045	A plate with a mushroom and vegetables sitting on a table.	NONE,plate-2 with mushroom-5,plate-2 with vegetable-7,plate-2 sit on table-11	NONE	3	0
+2362046	A partially eaten sandwich with steak and onions.	NONE,A-1 eat sandwich-4,A-1 eat with steak-6,A-1 eat with onion-8	NONE	3	0
+2362049	A large green plant with snow on it's leaves.	NONE,plant-4 with snow-6,snow-6 on plant-4	NONE,plant-4:green,plant-4:large,plant-4:leaf	2	3
+2362054	A cluttered desk with a laptop and discs sitting on it.	NONE,desk-3 sit on desk-3,desk-3 with laptop-6,desk-3 with disc-8	NONE,desk-3:cluttered	3	1
+2362056	a man on a motor bike jumps over a hill	NONE,man-2 on bike-6,man-2 jump over hill-10	NONE	2	0
+2362059	A truck carrying a smaller truck on a road.	NONE,truck-2 carry truck-6,truck-2 carry on road-9	NONE,truck-6:smaller	2	1
+2362062	this is a woman hilding a racket in a game	NONE,woman-4 hild racket-7,racket-7 in game-10	NONE	2	0
+2362064	A shirtless guy stands on a skateboard, while another person sits on it.	NONE,guy-3 stand on skateboard-7,person-11 sit on guy-3	NONE	2	0
+2362065	A bathroom with a paper dispenser, toilet roll and garbage bin.	NONE,bathroom-2 with dispenser-6,bathroom-2 with roll-9,bathroom-2 with garbage-11	NONE,bathroom-2:bin	3	1
+2362071	a woman is standing near a curb by a car	NONE,woman-2 stand near curb-7,woman-2 stand by car-10	NONE	2	0
+2362072	A man and woman that are sitting on a bench.	NONE,man-2 sit on bench-10,woman-4 sit on bench-10	NONE	2	0
+2362073	A black bear crossing a forest lined street.	NONE,bear-3 cross forest-6,bear-3 line street-8	NONE,bear-3:black	2	1
+2362074	A person riding a horse on top of a lush green field.	NONE,person-2 ride horse-5,person-2 ride on top of field-12	NONE,field-12:green,field-12:lush	2	2
+2362075	The man is on a horse pointing his finger.	NONE,man-2 on horse-6,horse-6 have finger-9,horse-6 point finger-9	NONE	3	0
+2362076	a couple of trains are sitting on some tracks	NONE,train-4 sit on track-9,train-4' sit on track-9'	NONE	2	0
+2362079	A group of people sitting at a table together.	NONE,group-2 of people-4,group-2 sit at table-8	NONE	2	0
+2362080	A bunch of glasses of wine sitting in front of a camera.	NONE,bunch-2 sit in front of camera-12,glass-4 of wine-6,glass-4' of wine-6	NONE	3	0
+2362085	A group of men in wheelchairs play tennis in a tennis court.	NONE,group-2 of man-4,group-2 play tennis-8,man-4 in wheelchair-6,tennis-8 in court-12	NONE	4	0
+2362086	a croissant on a plate near a beverage on a table	NONE,croissant-2 on plate-5,plate-5 near beverage-8,beverage-8 on table-11	NONE	3	0
+2362088	A rusted out old train sitting on the side of a road.	NONE,A-1 rust out train-5,train-5 sit on side-9,side-9 of road-12	NONE,train-5:old	3	1
+2362092	People take brownies and oreos off of plates.	NONE,people-1 take off brownie-3,people-1 take off oreo-5,people-1 take off of plate-8,people-1' take off brownie-3',people-1' take off oreo-5,people-1' take off of plate-8	NONE	6	0
+2362094	A white toilet with it's seat up in a bathroom.	NONE,toilet-3 have seat-7,toilet-3 with seat-7	NONE,toilet-3:white	2	1
+2362100	A street sign next to a building with a white heart in a second story window.	NONE,street-2 sign next to building-7,street-2 sign with heart-11,heart-11 in window-16	NONE,heart-11:white,window-16:second	3	2
+2362101	A man in black shirt playing a game with a Nintendo Wii controller.	NONE,man-2 in shirt-5,man-2 play game-8,man-2 play with controller-13	NONE,shirt-5:black	3	1
+2362107	a woman tosses a frisbee in a public park	NONE,woman-2 toss frisbee-5,frisbee-5 in park-9	NONE,park-9:public	2	1
+2362109	Large clock tower overlooking a busy street during the day.	NONE,tower-3 overlook street-7,tower-3 overlook during day-10	NONE,tower-3:large,street-7:busy	2	2
+2362111	a man that is standing up with a cord in his hand	NONE,man-2 have hand-12,man-2 in hand-12	NONE	2	0
+2362116	A stop sign on the corner of W Waveland Ave.	NONE,sign-3 on corner-6,corner-6 of Ave.-10	NONE	2	0
+2362118	Many different types of small boats on the water.	NONE,type-3 of boat-6,type-3 on water-9,type-3' of boat-6,type-3' on water-9	NONE,type-3:many,type-3:different,type-3':many,type-3':different,boat-6:small	4	5
+2362119	A boy in red shirt grinding a skateboard on a stair.	NONE,boy-2 in shirt-5,boy-2 grind skateboard-8,skateboard-8 on stair-11	NONE,shirt-5:red	3	1
+2362121	A work space in a home under a couple of windows.	NONE,space-3 in home-6,space-3 of window-11,home-6 under couple-9	NONE	3	0
+2362123	A pottery vase filled with flowers and leaves.	NONE,vase-3 fill with flower-6,vase-3 fill with leaf-8	NONE	2	0
+2362125	a man with a white shirt is being fed food by someone else	NONE,man-2 with shirt-6,someone-12 feed man-2	NONE,shirt-6:white	2	1
+2362131	there is a an washing his foot in a toilet	NONE,a-4 wash foot-7,a-4 wash in toilet-10	NONE	2	0
+2362144	A young man on a skate board in a big court yard.	NONE,man-3 on board-7,man-3 in yard-12	NONE,man-3:young,board-7:skate,yard-12:big	2	3
+2362157	An elephant is walking around his exhibit at the zoo	NONE,elephant-2 have exhibit-7,elephant-2 walk around exhibit-7,elephant-2 walk at zoo-10	NONE	3	0
+2362158	A table with food in the middle of a garden setting.	NONE,table-2 with food-4,table-2 in middle-7,middle-7 of setting-11	NONE	3	0
+2362159	A hot dog sitting on top of an orange tray next to a pile of fries.	NONE,dog-3 sit on top of tray-10,dog-3 sit next to pile-14,pile-14 of fries-16	NONE,dog-3:hot,tray-10:orange	3	2
+2362165	A large living room with yellow curtains and couches	NONE,room-4 with curtain-7,room-4 with couch-9	NONE,living-3:large,curtain-7:yellow	2	2
+2362167	Three dishes of food on a green surface.	NONE,dish-2 of food-4,dish-2 on surface-8,dish-2' of food-4,dish-2' on surface-8,dish-2'' of food-4,dish-2'' on surface-8	NONE,surface-8:green	6	1
+2362168	A person wearing a tie posing for a photo.	NONE,person-2 wear tie-5,tie-5 pose for photo-9	NONE	2	0
+2362169	there is a woman sitting on the stairs talking on the phone	NONE,woman-4 sit on stair-8,stair-8 talk on phone-12	NONE	2	0
+2362171	an image of a tennis player holding a tennis racket	NONE,image-2 of player-6,player-6 hold racket-10	NONE	2	0
+2362172	a lamppost during the day with two street sign	NONE,lamppost-2 during day-5,lamppost-2 with sign-9	NONE	2	0
+2362173	A lady is in the hospital and sitting in a chair smiling.	NONE,lady-2 in hospital-6,lady-2 sit in chair-11	NONE	2	0
+2362176	A giraffe standing underneath a beautiful rainbow in a cloudy sky..	NONE,giraffe-2 stand underneath rainbow-7,rainbow-7 in sky-11	NONE,rainbow-7:beautiful,sky-11:cloudy	2	2
+2362179	A cat sleeping on top of a birdcage with a bird in it.	NONE,cat-2 sleep on top of birdcage-8,cat-2 sleep with bird-11,bird-11 in cat-2	NONE	3	0
+2362181	Orange slices, onion slices, and pieces of bologna frying in a pan.	NONE,piece-8 of frying-11,frying-11 in pan-14	NONE	2	0
+2362182	A man riding a bike next to a red stop sign.	NONE,man-2 ride bike-5,man-2 ride next to sign-11	NONE,sign-11:red	2	1
+2362184	A man slicing pizza behind the counter of a food place.	NONE,man-2 slice pizza-4,man-2 slice behind counter-7,counter-7 of place-11	NONE	3	0
+2362189	Large television screen on top of an entertainment center in living room.	NONE,television-2 screen on top of center-9,screen-3 on top of center-9,center-9 in room-12	NONE,television-2:large,room-12:live	3	2
+2362193	2 smiling men ring a gong in unison.	NONE,man-3 ring gong-6,man-3' ring gong-6,gong-6 in unison-8	NONE	3	0
+2362200	A military air craft flies in the sky with landing gear down.	NONE,craft-4 fly in sky-8,sky-8 with gear-11	NONE,craft-4:military	2	1
+2362201	A group of people standing on top of a beach near the ocean.	NONE,group-2 of people-4,group-2 stand on top of beach-10,beach-10 near ocean-13	NONE	3	0
+2362203	A man standing over a cake next to a little boy.	NONE,standing-3 over cake-6,standing-3 next to boy-11	NONE,boy-11:little	2	1
+2362214	Top view of an orange with the to sliced off.	NONE,view-2 of orange-5,orange-5 with the-7	NONE,view-2:top	2	1
+2362215	The Big Ben clock tower towering over the city of London	NONE,towering-6 over city-9,city-9 of London-11	NONE	2	0
+2362217	A pier with several boats in the water.	NONE,pier-2 with boat-5,pier-2 in water-8	NONE,boat-5:several	2	1
+2362218	A tennis player jumps into the air while holding his racquet.	NONE,player-3 jump into air-7,player-3 have racquet-11	NONE	2	0
+2362219	A cook is in a kitchen looking at an aluminum pan.	NONE,cook-2 in kitchen-6,kitchen-6 look at pan-11	NONE	2	0
+2362220	a smal bench holds a teddy bear and an embroidered pillow	NONE,bench-3 hold bear-7,bench-3 hold pillow-11	NONE,bench-3:smal,bear-7:teddy,pillow-11:embroidered	2	3
+2362227	A baseball player with a bat in his hands on a field.	NONE,player-3 with bat-6,player-3 have hand-9,player-3 on field-12,bat-6 in hand-9	NONE	4	0
+2362229	A young man in black jersey sitting on field with a soccer ball.	NONE,man-3 in jersey-6,man-3 sit on field-9,man-3 sit with ball-13	NONE,man-3:young,jersey-6:black	3	2
+2362232	Two horses with blazes on their faces nuzzling each other.	NONE,horse-2 with blaze-4,horse-2' with blaze-4,blaze-4 on horse-2,blaze-4 on horse-2'	NONE,horse-2:face,horse-2':face	4	2
+2362235	A plate with hash browns, bacon, sausage, eggs and tomato next to coffee, milk and orange juice.	NONE,plate-2 with brown-5,plate-2 with bacon-7,plate-2 with sausage-9,plate-2 with egg-11,plate-2 with tomato-13,plate-2 next to coffee-16,plate-2 next to milk-18,plate-2 next to orange-20	NONE,plate-2:juice,brown-5:hash	8	2
+2362237	A train is traveling down the tracks in a deserted area.	NONE,train-2 travel down track-7,track-7 in area-11	NONE,area-11:deserted	2	1
+2362238	A man surfing in the ocean with a sail boat behind him.	NONE,man-2 surf in ocean-6,ocean-6 with boat-10,boat-10 behind man-2	NONE,boat-10:sail	3	1
+2362242	a fancy light brown building  with statues bells and a white clock	NONE,building-5 with bell-8,building-5 with clock-12	NONE,light-3:fancy,building-5:brown,clock-12:white	2	3
+2362246	People on boats crowded in the water of a harbor.	NONE,people-1 on boat-3,people-1 crowd in water-7,people-1' on boat-3,people-1' crowd in water-7,water-7 of harbor-10	NONE	5	0
+2362248	A group of people walking around a flock of birds.	NONE,group-2 of people-4,group-2 walk around flock-8,flock-8 of bird-10	NONE	3	0
+2362252	A man sitting on a surfboard looking at the ocean.	NONE,man-2 sit on surfboard-6,surfboard-6 look at ocean-10	NONE	2	0
+2362253	A bird flying under a large jetliner in a cloudy blue sky.	NONE,bird-2 fly under jetliner-7,jetliner-7 in sky-12	NONE,jetliner-7:large,sky-12:cloudy,sky-12:blue	2	3
+2362254	A cat laying on top of a suitcase laying on the floor.	NONE,cat-2 lay on top of suitcase-8,suitcase-8 lay on floor-12	NONE	2	0
+2362255	a person in a kitchen looking at their cell phone	NONE,person-2 in kitchen-5,person-2 have phone-10,kitchen-5 look at phone-10	NONE	3	0
+2362260	Red Light at a street intersection with people present on the corner	NONE,Light-2 at intersection-6,intersection-6 with people-8	NONE	2	0
+2362266	A person riding down a flight of stairs near a forest.	NONE,person-2 ride down flight-6,flight-6 of stair-8,stair-8 near forest-11	NONE	3	0
+2362272	A man doing a trick on his skateboard on a skate ramp.	NONE,man-2 do trick-5,man-2 do on skateboard-8,man-2 have skateboard-8,skateboard-8 on ramp-12	NONE,ramp-12:skate	4	1
+2362274	A cat laying on top of a bed next to a window.	NONE,cat-2 lay on top of bed-8,bed-8 next to window-12	NONE	2	0
+2362276	Several teddy bears lined up with hearts and bow ties on them.	NONE,bear-3 bow on bear-3,bear-3 line up with heart-7,bear-3 bow tie-10,bear-3' line up with heart-7',bear-3'' bow tie-10'	NONE,bear-3:several,bear-3':heart,bear-3'':tie	5	3
+2362280	Three boats ridding in choppy waves with a city in the background.	NONE,boat-2 rid in wave-6,boat-2 rid with city-9,boat-2' rid in wave-6,boat-2' rid with city-9,boat-2'' rid in wave-6,boat-2'' rid with city-9,city-9 in background-12	NONE,wave-6:choppy	7	1
+2362281	A woman standing in a kitchen with a smile on her face.	NONE,woman-2 stand in kitchen-6,woman-2 have face-12,kitchen-6 with smile-9,smile-9 on face-12	NONE	4	0
+2362282	The man is swinging at the tennis ball with a racquet.	NONE,man-2 swing at ball-8,ball-8 with racquet-11	NONE	2	0
+2362283	A man sitting on top of a pole next to a fire hydrant.	NONE,man-2 sit on top of pole-8,pole-8 next to hydrant-13	NONE	2	0
+2362293	A computer desk topped with a laptop next to a computer monitor.	NONE,desk-3 top with laptop-7,desk-3 top to monitor-12	NONE,laptop-7:next	2	1
+2362296	A white bath tub with soaps and a candle sitting on top of it.	NONE,bath-3 tub with soap-6,bath-3 tub with candle-9,candle-9 sit on top of bath-3	NONE,bath-3:white	3	1
+2362297	A brown horse laying in a field of lush vegetation.	NONE,horse-3 lay in field-7,field-7 of vegetation-10	NONE,horse-3:brown,vegetation-10:lush	2	2
+2362306	A cat laying in a window sill next to a high up window.	NONE,cat-2 lay in window-6,cat-2 sill to window-13	NONE,window-13:high	2	1
+2362313	A ballplayer on deck practicing for his turn at bat	NONE,ballplayer-2 on practicing-5,ballplayer-2 for turn-8,ballplayer-2 have turn-8,ballplayer-2 at bat-10	NONE	4	0
+2362321	A long row of nice looking chairs in the sand.	NONE,row-3 look chair-7,row-3 look in sand-10	NONE,row-3:long	2	1
+2362326	An adult polar bear with a carrot in it's mouth.	NONE,bear-4 with carrot-7,carrot-7 in it-9	NONE,bear-4:polar,bear-4:mouth,bear-4:adult	2	3
+2362328	a clock tower in the middle of a paved area in a park	NONE,tower-3 in middle-6,middle-6 of area-10,area-10 in park-13	NONE,area-10:paved	3	1
+2362331	A man riding a wave on top of a surfboard.	NONE,man-2 ride wave-5,man-2 ride on top of surfboard-10	NONE	2	0
+2362332	A man with a scarf on his head standing in a big grass field.	NONE,man-2 with scarf-5,man-2 have standing-9,man-2 in field-14,scarf-5 on standing-9	NONE,field-14:big	4	1

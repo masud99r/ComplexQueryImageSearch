@@ -1,0 +1,1000 @@
+2359298	Decorated cake sitting on a plate atop a box.	NONE-cake:sit on:NONE-plate,decorated-cake:sit on:NONE-plate,NONE-plate:atop:NONE-box
+2337451	A woman riding a wave on top of a blue surfboard.	NONE-woman:ride:NONE-wave,NONE-woman:ride on top of:NONE-surfboard,NONE-woman:ride on top of:blue-surfboard
+2359301	A beautiful young woman hitting a tennis ball with a racquet.	NONE-woman:hit:NONE-ball,beautiful-woman:hit:NONE-ball,young-woman:hit:NONE-ball,NONE-woman:hit with:NONE-racquet,beautiful-woman:hit with:NONE-racquet,young-woman:hit with:NONE-racquet
+2359308	Men and their prom dates line up for a photo	NONE-man:have:NONE-prom,NONE-man:date up:NONE-line,NONE-man:date up for:NONE-photo,NONE-man:have:NONE-prom,NONE-man:date up:NONE-line,NONE-man:date up for:NONE-photo,NONE-prom:date up:NONE-line,NONE-prom:date up for:NONE-photo
+2359310	two trains passing each other on train tracks	NONE-train:pass on:NONE-train,track-train:pass on:NONE-train,NONE-train:pass on:NONE-train,track-train:pass on:NONE-train
+2359314	there is a man and a woman sitting on a bench, the man is on the phone	NONE-woman:sit on:NONE-bench,NONE-man:on:NONE-phone
+2359322	A bird on top of a rock in the ocean.	NONE-bird:on:NONE-top,NONE-bird:of:NONE-rock,NONE-rock:in:NONE-ocean
+2359324	A tennis player dives for an incoming ball on the court.	NONE-player:dive for:NONE-ball,NONE-player:dive for:incoming-ball,NONE-ball:on:NONE-court,incoming-ball:on:NONE-court
+2359326	Three zebras eating hay from bales inside a barn-like structure.	NONE-zebra:eat:NONE-hay,NONE-zebra:eat from:NONE-bale,NONE-zebra:eat:NONE-hay,NONE-zebra:eat from:NONE-bale,NONE-zebra:eat:NONE-hay,NONE-zebra:eat from:NONE-bale,NONE-bale:inside:NONE-structure,NONE-bale:inside:barnlike-structure
+2359327	A large blue boat sailing on top of water.	NONE-sailing:on:NONE-top,large-sailing:on:NONE-top,blue-sailing:on:NONE-top,NONE-sailing:of:NONE-water,large-sailing:of:NONE-water,blue-sailing:of:NONE-water
+2359328	A man holding a hotdog in one hand while he talks to a woman.	NONE-man:hold:NONE-hotdog,NONE-man:talk to:NONE-woman,NONE-hotdog:in:NONE-hand
+2359333	A couch topped with all sorts of electronics devices.	NONE-couch:top with:NONE-sort,NONE-sort:of:NONE-device
+2339384	a male skateboarder in a white shirt doing a trick	NONE-skateboarder:in:NONE-shirt,NONE-skateboarder:in:white-shirt,male-skateboarder:in:NONE-shirt,male-skateboarder:in:white-shirt,NONE-shirt:do:NONE-trick,white-shirt:do:NONE-trick
+2359337	A clock tower with lots of strange art pieces.	NONE-tower:with:NONE-lot,NONE-tower:of:NONE-piece,NONE-tower:of:strange-piece
+2359339	A bathroom with tan walls and fake tiled flooring.	NONE-bathroom:with:NONE-wall,NONE-bathroom:with:NONE-flooring,NONE-bathroom:with:tiled-flooring,NONE-bathroom:with:fake-flooring
+2359349	A dog eating a heart shaped doggie birthday cake off a plate.	NONE-dog:eat:NONE-heart,NONE-dog:shape:NONE-cake,NONE-dog:shape:doggie-cake,NONE-dog:shape off:NONE-plate
+2359351	A cat standing on the edge of a sink drink water.	NONE-standing:on:NONE-edge,NONE-standing:drink:NONE-water,NONE-edge:of:NONE-sink
+2359354	A city alongside the water with a bridge.	NONE-city:alongside:NONE-water,NONE-city:with:NONE-bridge
+2359355	A group of people in a bar playing Wii	NONE-group:of:NONE-people,NONE-people:in:NONE-wii,NONE-people:in:play-wii
+2359356	A woman's face sitting in front of an oven that has a pan of food in it.	NONE-woman:in:NONE-face,NONE-face:sit in front of:NONE-oven,NONE-pan:of:NONE-food,NONE-food:in:NONE-face
+2359358	A group of people standing in the rain under some umbrella's.	NONE-group:of:NONE-people,NONE-people:stand in:NONE-rain,NONE-rain:under:NONE-umbrella
+2359361	a view of a bathroom area with a white long flusher and window behind it	NONE-view:behind:NONE-view,NONE-view:of:NONE-area,NONE-view:with:NONE-flusher,NONE-view:with:white-flusher,NONE-view:with:long-flusher,NONE-view:with:NONE-window
+2359362	A pole with street sign boards showing directions.	NONE-pole:with:NONE-board,NONE-pole:show:NONE-direction
+2359363	a man surfing a small wave on part of a river	NONE-wave:on:NONE-part,small-wave:on:NONE-part,NONE-part:of:NONE-river
+2359364	A cat sitting on top of the hood of a car.	NONE-cat:sit on top of:NONE-hood,NONE-hood:of:NONE-car
+2359365	Three woman and a man all sitting at a table on their cell phones.	NONE-woman:have:NONE-phone,all-woman:have:NONE-phone,NONE-table:on:NONE-phone
+2359373	A parking meter sitting on the side of a sidewalk.	NONE-meter:sit on:NONE-side,NONE-side:of:NONE-sidewalk
+2359375	A man riding on top of a skateboard into the air.	NONE-man:ride on top of:NONE-skateboard,NONE-man:ride into:NONE-air
+2359380	A green pool with at least 20 different stop lights on it.	NONE-pool:with:NONE-light,NONE-pool:with:different-light,green-pool:with:NONE-light,green-pool:with:different-light,NONE-light:on:NONE-pool,NONE-light:on:green-pool,different-light:on:NONE-pool,different-light:on:green-pool
+2359386	A man in a hat is talking on a cell phone.	NONE-man:in:NONE-hat,NONE-man:talk on:NONE-phone
+2359389	A pizza sitting on top of a metal pan covered in cheese.	NONE-pizza:sit on top of:NONE-pan,NONE-pizza:cover in:NONE-cheese
+2359391	A bathroom with a broken window and white walls.	NONE-bathroom:with:NONE-window,NONE-bathroom:with:broken-window,NONE-bathroom:with:NONE-wall,NONE-bathroom:with:white-wall
+2359392	A bathroom showing the mirror, sink, and toilet.	NONE-bathroom:show:NONE-mirror,NONE-bathroom:show:NONE-sink,NONE-bathroom:show:NONE-toilet
+2359395	A bathroom under fine maintenance, with decorative pieces all around	NONE-bathroom:under:NONE-maintenance,NONE-bathroom:under:fine-maintenance,NONE-bathroom:with:NONE-piece,NONE-bathroom:with:decorative-piece
+2359396	A surfer emerging from the waves in a black wet suit holding his surfboard.	NONE-surfer:emerge from:NONE-wave,NONE-surfer:have:NONE-surfboard,NONE-wave:in:NONE-suit,NONE-wave:in:wet-suit,NONE-wave:in:black-suit
+2359397	Several men running while one man running towards a frisbee.	NONE-man:run while:NONE-man,several-man:run while:NONE-man,NONE-man:run while:NONE-man,several-man:run while:NONE-man,NONE-man:run towards:NONE-frisbee
+2359400	A horse raises its tail while standing next to a pile of hay.	NONE-horse:have:NONE-tail,NONE-horse:raise:NONE-tail,NONE-pile:of:NONE-hay
+2359402	two benches, a small statue and some street signs stand between a street curb and the brick facade of a large building.	NONE-bench:stand between:NONE-curb,NONE-bench:stand between:NONE-facade,NONE-bench:stand between:NONE-curb,NONE-bench:stand between:NONE-facade,NONE-statue:stand between:NONE-curb,small-statue:stand between:NONE-curb,NONE-statue:stand between:NONE-facade,small-statue:stand between:NONE-facade,NONE-sign:stand between:NONE-curb,NONE-sign:stand between:NONE-facade,NONE-sign:stand between:NONE-curb,NONE-sign:stand between:NONE-facade,NONE-facade:of:NONE-building,NONE-facade:of:large-building
+2359404	A man tossing a frisbee to a brown dog.	NONE-man:toss:NONE-frisbee,NONE-man:toss to:NONE-dog,NONE-man:toss to:brown-dog
+2359408	The baseball batter checks his stance by pointing his bat at the plate.	NONE-batter:check:NONE-stance,NONE-batter:have:NONE-stance,NONE-batter:have:NONE-bat
+2359410	A row of white teddy bears on shelf next to DVDs.	NONE-row:of:NONE-teddy,NONE-row:of:white-teddy,NONE-row:bear on:NONE-shelf,NONE-shelf:next to:NONE-DVDs
+2359411	Two people are sitting beside one another working on their laptops.	NONE-people:have:NONE-laptop,sit-people:have:NONE-laptop,NONE-people:have:NONE-laptop,sit-people:have:NONE-laptop
+2359412	A group of people sitting around a dinner table.	NONE-group:of:NONE-people,NONE-group:sit around:NONE-table
+2359415	a person with a base guitar is on a laptop	NONE-person:with:NONE-guitar,NONE-person:on:NONE-laptop
+2359418	A bathroom with metal trash can urinals and a dummy in a skirt inside of it.	NONE-bathroom:with:NONE-trash,urinal-bathroom:with:NONE-trash,NONE-dummy:in:NONE-inside,NONE-inside:of:NONE-bathroom,NONE-inside:of:urinal-bathroom
+2359423	Several people are at the skate park and one kid is getting some air.	NONE-people:at:NONE-park,NONE-people:at:skate-park,several-people:at:NONE-park,several-people:at:skate-park,NONE-people:at:NONE-park,NONE-people:at:skate-park,several-people:at:NONE-park,several-people:at:skate-park,NONE-kid:get:NONE-air
+2359431	A man standing next to a motorcycle on a road.	NONE-man:stand next to:NONE-motorcycle,NONE-man:stand on:NONE-road
+2359433	Pizza and fries are on a table and a woman has a candled cake and some strawberries.	NONE-Pizza:on:NONE-table,NONE-fries:on:NONE-table,NONE-woman:have:NONE-cake,NONE-woman:have:candled-cake,NONE-woman:have:NONE-strawberry
+2359436	A lawn chair with a colorful umbrella over it.	NONE-chair:over:NONE-chair,NONE-chair:with:NONE-umbrella,NONE-chair:with:colorful-umbrella
+2359437	A person grabbing a slice of pizza from a pizza box.	NONE-person:grab:NONE-slice,NONE-person:grab from:NONE-box,NONE-slice:of:NONE-pizza
+2359440	A train speeding down the tracks in the middle of a field.	NONE-train:speed down:NONE-track,NONE-track:in:NONE-middle,NONE-middle:of:NONE-field
+2359441	A bus covered in graffiti sitting in front of a building.	NONE-bus:cover in:NONE-graffitus,NONE-graffitus:sit in front of:NONE-building
+2359443	A young child cutting broccoli with a knife.	NONE-child:cut:NONE-broccoli,young-child:cut:NONE-broccoli,NONE-child:cut with:NONE-knife,young-child:cut with:NONE-knife
+2359450	A line of multiple buses parked along a wall.	NONE-line:of:NONE-bus,NONE-line:of:multiple-bus,NONE-line:park along:NONE-wall
+2359454	A group of people standing on a sidewalk while carrying umbrella.	NONE-group:of:NONE-people,NONE-group:stand on:NONE-umbrella,NONE-group:stand on:carry-umbrella
+2359459	An entrance way table has a clock on it and a wall candelabra above it.	NONE-table:have:NONE-clock,NONE-table:have:NONE-candelabra,NONE-clock:on:NONE-table,NONE-candelabra:above:NONE-table
+2359461	A bluish bird with a worm in its mouth	NONE-bird:with:NONE-worm,bluish-bird:with:NONE-worm,NONE-bird:have:NONE-mouth,bluish-bird:have:NONE-mouth,NONE-worm:in:NONE-mouth
+2359465	A cat laying on top of a wooden shelf with boxes.	NONE-cat:lay on top of:NONE-shelf,NONE-cat:lay on top of:wooden-shelf,NONE-shelf:with:NONE-box,wooden-shelf:with:NONE-box
+2359466	a man riding a snowboard into the air.	NONE-man:ride:NONE-snowboard,NONE-man:ride into:NONE-air
+2359467	A white coffee mug sits beside a computer mouse and keyboard.	NONE-mug:sit beside:NONE-mouse,white-mug:sit beside:NONE-mouse,NONE-mug:sit beside:NONE-keyboard,white-mug:sit beside:NONE-keyboard
+2359470	A man in a black shirt rides an elephant as a man walks near it down a street.	NONE-man:in:NONE-shirt,NONE-man:in:black-shirt,NONE-man:ride:NONE-elephant,NONE-man:walk near:NONE-man
+2359472	A women's doubles pair stands on a tennis court.	NONE-woman:have:NONE-pair,NONE-woman:have:doubles-pair,NONE-pair:stand on:NONE-court,doubles-pair:stand on:NONE-court
+2359474	A line of performers walking in a town plaza or courtyard.	NONE-line:of:NONE-performer,NONE-line:walk in:NONE-plaza,NONE-line:walk in:NONE-courtyard
+2359480	A phone on top of a pile of papers.	NONE-phone:on:NONE-top,NONE-phone:of:NONE-pile,NONE-pile:of:NONE-papers
+2359482	A white toilet with a black lid sitting in a bathroom.	NONE-toilet:with:NONE-lid,NONE-toilet:with:black-lid,white-toilet:with:NONE-lid,white-toilet:with:black-lid,NONE-toilet:sit in:NONE-bathroom,white-toilet:sit in:NONE-bathroom
+2359488	Two people holding different parts of the same kite.	NONE-people:hold:NONE-part,NONE-people:hold:different-part,NONE-people:hold:NONE-part,NONE-people:hold:different-part,NONE-part:of:NONE-kite,NONE-part:of:same-kite,different-part:of:NONE-kite,different-part:of:same-kite
+2359491	a traffic light on a side walk near a street	NONE-light:on:NONE-side,NONE-light:walk near:NONE-street
+2359498	A person standing at the plate in mid swing of a bat	NONE-standing:at:NONE-plate,NONE-plate:in:NONE-swing,NONE-plate:in:mid-swing,NONE-swing:of:NONE-bat,mid-swing:of:NONE-bat
+2359505	A cat sitting on the keyboard of a computer on a table	NONE-keyboard:of:NONE-computer,NONE-computer:on:NONE-table
+2359508	A person holding a computer mouse next to a computer keyboard.	NONE-person:hold:NONE-mouse,NONE-person:hold next to:NONE-keyboard
+2359511	A closeup of a red fire hydrant including the chains.	NONE-closeup:of:NONE-hydrant,NONE-closeup:of:red-hydrant,NONE-hydrant:including:NONE-chain,red-hydrant:including:NONE-chain
+2359514	The inside of a bathroom with new toiletry items inside of it.	NONE-inside:of:NONE-inside,NONE-inside:of:NONE-bathroom,NONE-bathroom:with:NONE-item,NONE-bathroom:with:new-item
+2359521	A man sitting in a chair in a living room.	NONE-man:sit in:NONE-chair,NONE-chair:in:NONE-room,NONE-chair:in:live-room
+2359523	A man with a laptop and a cat on a table.	NONE-man:with:NONE-laptop,NONE-man:with:NONE-cat,NONE-man:on:NONE-table
+2359526	A man riding a motorcycle parked next to a gas pump.	NONE-man:ride:NONE-motorcycle,NONE-man:park to:NONE-pump
+2359528	There are many bikes parked over by the water.	NONE-bike:park over by:NONE-water,many-bike:park over by:NONE-water,NONE-bike:park over by:NONE-water,many-bike:park over by:NONE-water
+2359533	Guy doing a flip trick with his skateboard at the park	NONE-Guy:have:NONE-skateboard,NONE-skateboard:at:NONE-park
+2359534	A young man riding a skateboard on a sidewalk.	NONE-man:ride:NONE-skateboard,young-man:ride:NONE-skateboard,NONE-skateboard:on:NONE-sidewalk
+2359547	A man using his head to hit a soccer ball while playing soccer with other men.	NONE-man:have:NONE-head,NONE-man:use:NONE-head,NONE-head:hit:NONE-ball
+2359552	a number of people riding motorcycles on a city street	NONE-people:ride:NONE-motorcycle,NONE-people:ride on:NONE-street,NONE-people:ride:NONE-motorcycle,NONE-people:ride on:NONE-street
+2359553	A tree grinder parked on the side of a street next to orange cones.	NONE-grinder:park on:NONE-side,NONE-grinder:park to:NONE-cone,NONE-grinder:park to:orange-cone,NONE-side:of:NONE-street,NONE-side:of:next-street
+2359560	This plate includes a sandwich, pickles, and a bowl of sauce.	NONE-plate:include:NONE-sandwich,NONE-plate:include:NONE-pickle,NONE-plate:include:NONE-bowl,NONE-bowl:of:NONE-sauce
+2359566	A train carrying army trucks with men standing on it.	NONE-train:carry:NONE-truck,NONE-train:carry with:NONE-man,NONE-man:stand on:NONE-train
+2359567	A young lady eating a whole pizza by herself.	NONE-lady:eat by:NONE-lady,NONE-lady:eat by:young-lady,young-lady:eat by:NONE-lady,young-lady:eat by:young-lady,NONE-lady:eat:NONE-pizza,NONE-lady:eat:whole-pizza,young-lady:eat:NONE-pizza,young-lady:eat:whole-pizza
+2359568	A man flying through the air on a snowboard.	NONE-man:fly through:NONE-air,NONE-air:on:NONE-snowboard
+2359570	a large dining room filled with tables covered with linens, cups, and cakes	NONE-room:fill with:NONE-table,large-room:fill with:NONE-table,NONE-table:cover with:NONE-linen,NONE-table:cover with:NONE-cup,NONE-table:cover with:NONE-cake
+2359571	A half eaten cake with a rabbit drawn on top sits on a dish.	NONE-half:eat:NONE-cake,NONE-half:eat with:NONE-rabbit,NONE-half:sit on:NONE-dish,NONE-rabbit:draw on:NONE-top
+2359573	Two elephants facing each other with their trunks touching.	NONE-elephant:have:NONE-trunk,NONE-elephant:face:NONE-touching,NONE-elephant:face:other-touching,NONE-elephant:have:NONE-trunk,NONE-elephant:face:NONE-touching,NONE-elephant:face:other-touching
+2359575	People are walking in front of a line of parked buses.	NONE-people:walk in front of:NONE-line,NONE-people:walk in front of:NONE-line,NONE-line:of:NONE-bus,NONE-line:of:parked-bus
+2359577	Large white building with a red roof facing a city road.	NONE-building:with:NONE-roof,NONE-building:with:red-roof,large-building:with:NONE-roof,large-building:with:red-roof,white-building:with:NONE-roof,white-building:with:red-roof,NONE-building:face:NONE-road,large-building:face:NONE-road,white-building:face:NONE-road
+2359578	A train is sitting on a rail next to a river.	NONE-train:sit on:NONE-rail,NONE-train:sit next to:NONE-river
+2359580	A row of buses drive on the street.	NONE-row:of:NONE-bus,NONE-row:drive on:NONE-street
+2359583	A group of young men playing a game of baseball.	NONE-group:of:NONE-man,NONE-group:of:young-man,NONE-group:play:NONE-game,NONE-game:of:NONE-baseball
+2359584	Shirtless man kicking up water on top of a surfboard.	NONE-man:kick up:NONE-water,shirtless-man:kick up:NONE-water,NONE-water:on top of:NONE-surfboard
+2359593	a road that has a bunch of people with umbrellas next to it	NONE-road:with:NONE-umbrella,NONE-umbrella:next to:NONE-road
+2359594	A woman holding a big bowl of cereal and a cell phone.	NONE-woman:hold:NONE-bowl,NONE-woman:hold:big-bowl,NONE-bowl:of:NONE-cereal,big-bowl:of:NONE-cereal,NONE-bowl:of:NONE-phone,big-bowl:of:NONE-phone
+2359596	Man on cherry picker fixing the wire lines.	NONE-man:on:NONE-picker,NONE-man:on:cherry-picker,NONE-man:fix:NONE-line
+2359602	two boats sitting on the shore close to the water	NONE-boat:sit on:NONE-close,NONE-boat:sit to:NONE-water,NONE-boat:sit on:NONE-close,NONE-boat:sit to:NONE-water
+2359603	A tennis player contorts his body to hold his racket far back on the court.	NONE-player:contort:NONE-body,NONE-player:have:NONE-body,NONE-player:have:NONE-racket,NONE-body:hold:NONE-racket,NONE-body:hold on:NONE-court
+2359615	A room filled with bathroom sinks and bath tubs.	NONE-room:fill with:NONE-sink,NONE-room:fill with:NONE-tub
+2359616	A plate topped with different kinds of foods on a table.	NONE-plate:top with:NONE-kind,NONE-plate:top with:different-kind,NONE-plate:top on:NONE-table,NONE-kind:of:NONE-food,different-kind:of:NONE-food
+2359618	Several people on skateboards riding between cones on the pavement.	NONE-people:on:NONE-skateboard,several-people:on:NONE-skateboard,NONE-people:ride between:NONE-cone,several-people:ride between:NONE-cone,NONE-people:on:NONE-skateboard,several-people:on:NONE-skateboard,NONE-people:ride between:NONE-cone,several-people:ride between:NONE-cone,NONE-cone:on:NONE-pavement
+2359619	A group of Zebras grazing in the grass with a truck in the background.	NONE-group:of:NONE-Zebras,NONE-group:graze in:NONE-grass,NONE-group:graze with:NONE-truck,NONE-truck:in:NONE-background
+2359624	A cat sitting on top of a seat behind a steering wheel.	NONE-cat:sit on top of:NONE-seat,NONE-seat:behind:NONE-wheel
+2359625	A view through a window of a lake.	NONE-view:through:NONE-window,NONE-view:of:NONE-lake
+2359630	Snow covered mountains, with people wearing skis and observing.	NONE-Snow:cover:NONE-mountain,NONE-Snow:cover with:NONE-people
+2359632	Two hawks flying near a snow covered mountain.	NONE-hawk:fly near:NONE-snow,NONE-hawk:cover:NONE-mountain,NONE-hawk:fly near:NONE-snow,NONE-hawk:cover:NONE-mountain
+2359634	Skateboarders at a park skating in an empty pool.	NONE-skateboarder:at:NONE-park,NONE-skateboarder:skate in:NONE-pool,NONE-skateboarder:skate in:empty-pool,NONE-skateboarder:at:NONE-park,NONE-skateboarder:skate in:NONE-pool,NONE-skateboarder:skate in:empty-pool
+2359636	Two pieces of luggage sitting on the floor next to a stairway.	NONE-piece:of:NONE-luggage,NONE-piece:sit on:NONE-floor,NONE-piece:sit next to:NONE-stairway,NONE-piece:of:NONE-luggage,NONE-piece:sit on:NONE-floor,NONE-piece:sit next to:NONE-stairway
+2359638	A restaurant kitchen with two giant menus sitting above the cooking area.	NONE-kitchen:with:NONE-menu,NONE-kitchen:with:giant-menu,NONE-kitchen:with:NONE-menu,NONE-kitchen:with:giant-menu,NONE-kitchen:sit above:NONE-area,NONE-kitchen:sit above:cooking-area
+2359645	A herd of elephants standing around a watering hole.	NONE-herd:of:NONE-elephant,NONE-herd:stand around:NONE-hole
+2359648	A man looking at a stop sign on a residential street.	NONE-man:look at:NONE-sign,NONE-sign:on:NONE-street,NONE-sign:on:residential-street
+2359650	A woman's reflection of her taking a picture of a sink and toilet.	NONE-reflection:take:NONE-picture,NONE-reflection:take:NONE-picture,NONE-picture:of:NONE-sink,NONE-picture:of:NONE-toilet
+2359656	An arrangement of various fruits and vegetables are displayed.	NONE-arrangement:of:NONE-fruit,NONE-arrangement:of:various-fruit,NONE-arrangement:of:NONE-vegetable
+2359662	An army jeep with an American Flag sitting at an airport.	NONE-jeep:with:NONE-Flag,NONE-jeep:sit at:NONE-airport
+2359666	A herd of elephants walking across a dirt covered field.	NONE-herd:of:NONE-elephant,NONE-herd:cover:NONE-field,NONE-elephant:walk across:NONE-dirt
+2359668	There are three donuts on a white plate	NONE-donut:on:NONE-plate,NONE-donut:on:white-plate,NONE-donut:on:NONE-plate,NONE-donut:on:white-plate,NONE-donut:on:NONE-plate,NONE-donut:on:white-plate
+2359675	A man and woman eat pizza directly from the box.	NONE-man:eat:NONE-pizza,NONE-man:eat from:NONE-box,NONE-woman:eat:NONE-pizza,NONE-woman:eat from:NONE-box
+2359676	A green park bench sitting on the side of a  sidewalk.	NONE-bench:sit on:NONE-side,green-bench:sit on:NONE-side,NONE-side:of:NONE-sidewalk
+2359691	Man stands behind a very large kite inside a building.	NONE-Man:stand behind:NONE-kite,NONE-Man:stand behind:large-kite,NONE-kite:inside:NONE-building,large-kite:inside:NONE-building
+2359693	A bathroom with a white toilet next to a walk in shower.	NONE-bathroom:with:NONE-toilet,NONE-bathroom:with:white-toilet,NONE-bathroom:next to:NONE-walk,NONE-walk:in:NONE-shower
+2359695	A truck driving down a road with a group of people behind it.	NONE-truck:drive behind:NONE-truck,NONE-group:of:NONE-people
+2359698	A man in a shirt and tie with his hands in his pockets leaning against a wall.	NONE-man:in:NONE-shirt,NONE-man:in:NONE-tie,NONE-man:have:NONE-hand,NONE-man:have:NONE-pocket,NONE-man:lean against:NONE-wall,NONE-shirt:with:NONE-hand,NONE-hand:in:NONE-pocket
+2359700	Four children in the snow learning to ski.	NONE-child:in:NONE-snow,NONE-child:in:NONE-snow,NONE-child:in:NONE-snow,NONE-child:in:NONE-snow
+2359701	A man holding a box filled with green salad.	NONE-man:hold:NONE-box,NONE-man:fill with:NONE-salad,NONE-man:fill with:green-salad
+2359702	A lot if birds are standing at the beach shore	NONE-bird:stand at:NONE-shore,NONE-bird:stand at:NONE-shore
+2359704	A large building has a Glass business logo on it.	NONE-building:have:NONE-logo,large-building:have:NONE-logo,NONE-logo:on:NONE-building,NONE-logo:on:large-building
+2359709	Baseball player practicing his batting near an outfield foul line.	NONE-player:have:NONE-line,NONE-player:have:foul-line,NONE-player:have:batting-line,NONE-player:practice:NONE-line,NONE-player:practice:foul-line,NONE-player:practice:batting-line,NONE-batting:near:NONE-outfield
+2359713	A group of friends sitting down at a table sharing a meal.	NONE-group:of:NONE-friend,NONE-group:sit down at:NONE-table
+2359719	Two ducks floating together on a body of water.	NONE-duck:float on:NONE-body,NONE-duck:float on:NONE-body,NONE-body:of:NONE-water
+2359720	a couple of horses show their love for each other	NONE-horse:have:NONE-love,NONE-horse:show:NONE-love,NONE-horse:have:NONE-love,NONE-horse:show:NONE-love
+2359721	A seagull swims toward a rocky shore in a lake.	NONE-seagull:swim toward:NONE-shore,NONE-seagull:swim toward:rocky-shore,NONE-shore:in:NONE-lake,rocky-shore:in:NONE-lake
+2359730	Two men and a woman taking pictures with cameras.	NONE-man:take:NONE-picture,NONE-man:take with:NONE-camera,NONE-man:take:NONE-picture,NONE-man:take with:NONE-camera
+2359731	A door stands in front of a refrigerator with a microwave on top.	NONE-door:stand in front of:NONE-refrigerator,NONE-door:stand with:NONE-microwave,NONE-microwave:on:NONE-top
+2359732	a kitchen filled with signs and equipment everywhere	NONE-kitchen:fill with:NONE-sign,NONE-kitchen:fill with:NONE-equipment
+2359734	A woman in pink coat and sunglasses talking on a phone.	NONE-woman:in:NONE-coat,NONE-woman:in:pink-coat,NONE-woman:in:NONE-sunglass,NONE-woman:talk on:NONE-phone
+2359735	A pitcher in black looking at the opposing teammate on third base.	NONE-pitcher:in:NONE-black,NONE-pitcher:look at:NONE-teammate,NONE-pitcher:look at:oppose-teammate,NONE-teammate:on:NONE-base,NONE-teammate:on:third-base,oppose-teammate:on:NONE-base,oppose-teammate:on:third-base
+2359736	A person with a small baseball bat on a street.	NONE-person:with:NONE-bat,NONE-person:with:small-bat,NONE-person:on:NONE-street
+2359739	A very well cleaned white tiled bathroom in someone's house.	NONE-A:clean:NONE-bathroom,NONE-A:clean:tiled-bathroom,NONE-A:clean:white-bathroom,NONE-A:clean in:NONE-house,NONE-someone:have:NONE-house
+2359740	Man sitting on a living room with green couches.	NONE-man:sit on:NONE-room,NONE-man:sit on:live-room,NONE-room:with:NONE-couch,NONE-room:with:green-couch,live-room:with:NONE-couch,live-room:with:green-couch
+2359741	A man playing with his two dogs in the snow.	NONE-man:have:NONE-dog,NONE-man:play with:NONE-dog,NONE-man:have:NONE-dog,NONE-man:play with:NONE-dog,NONE-dog:in:NONE-snow,NONE-dog:in:NONE-snow
+2359742	A crowd of people in a metropolitan area at dusk.	NONE-crowd:of:NONE-people,NONE-crowd:at:NONE-dusk,NONE-people:in:NONE-area,NONE-people:in:metropolitan-area
+2359747	Man arranging stuffed bear in a chair watching a TV in a desert.	NONE-arranging:stuff:NONE-bear,NONE-arranging:stuff in:NONE-chair,NONE-chair:watch:NONE-tv,NONE-tv:in:NONE-desert
+2359748	A statue of a baseball player in the middle of a park.	NONE-statue:of:NONE-player,NONE-statue:in:NONE-middle,NONE-middle:of:NONE-park
+2359752	The truck is driving down the highway toward the mountain.	NONE-truck:drive down:NONE-highway,NONE-highway:toward:NONE-mountain
+2359753	A man on a skateboard with a dog on the sidewalk	NONE-man:on:NONE-skateboard,NONE-man:with:NONE-dog,NONE-man:on:NONE-sidewalk
+2359756	A horse grazes in a meadow next to an old fence post.	NONE-horse:graze in:NONE-meadow,NONE-meadow:next to:NONE-post,NONE-meadow:next to:old-post
+2359759	A city filled with people, street signs, cars, and buses.	NONE-city:fill with:NONE-people,NONE-city:fill with:NONE-sign,NONE-city:fill with:NONE-car,NONE-city:fill with:NONE-bus
+2359761	Man man setting up a network inside a business.	NONE-man:set up:NONE-network,NONE-network:inside:NONE-business
+2359763	there are several stop signs along side the grass	NONE-sign:along:NONE-side,several-sign:along:NONE-side,NONE-sign:along:NONE-side,several-sign:along:NONE-side
+2359769	A family of giraffes standing next to a pile of logs.	NONE-family:of:NONE-giraffe,NONE-family:stand to:NONE-pile,NONE-pile:of:NONE-logs
+2359774	A macaroni dish with broccoli, onion and tomato	NONE-dish:with:NONE-broccoli,macaroni-dish:with:NONE-broccoli,NONE-dish:with:NONE-onion,macaroni-dish:with:NONE-onion,NONE-dish:with:NONE-tomato,macaroni-dish:with:NONE-tomato
+2359776	A row of white urinals mounted to a wall.	NONE-row:of:NONE-urinal,NONE-row:of:white-urinal,NONE-row:mount to:NONE-wall
+2359778	Two cats walk on the ledge of the inside of a window	NONE-cat:walk on:NONE-ledge,NONE-cat:walk on:NONE-ledge,NONE-ledge:of:NONE-inside,NONE-inside:of:NONE-window
+2359781	An elephant walks on dirt in a fenced enclosure with a building and trees.	NONE-elephant:walk on:NONE-dirt,NONE-elephant:walk with:NONE-building,NONE-elephant:walk with:NONE-tree,NONE-dirt:in:NONE-enclosure,NONE-dirt:in:fenced-enclosure
+2359785	A plan flying in the air above a mountain.	NONE-plan:fly in:NONE-air,NONE-air:above:NONE-mountain
+2359787	A little girl in a public bathroom for kids.	NONE-girl:in:NONE-bathroom,NONE-girl:in:public-bathroom,little-girl:in:NONE-bathroom,little-girl:in:public-bathroom,NONE-girl:for:NONE-kid,little-girl:for:NONE-kid
+2359793	A woman flying a kite on a rocky beach near the shore line.	NONE-woman:fly:NONE-kite,NONE-woman:fly on:NONE-beach,NONE-woman:fly on:rocky-beach,NONE-beach:near:NONE-line,rocky-beach:near:NONE-line
+2359796	Three elephants headed toward a watering hole with trees and brush in the back ground.	NONE-elephant:head toward:NONE-hole,NONE-elephant:head in:NONE-ground,NONE-elephant:head in:back-ground,NONE-elephant:head toward:NONE-hole,NONE-elephant:head in:NONE-ground,NONE-elephant:head in:back-ground,NONE-elephant:head toward:NONE-hole,NONE-elephant:head in:NONE-ground,NONE-elephant:head in:back-ground,NONE-hole:with:NONE-tree,NONE-hole:with:NONE-brush
+2359798	An airplane flying in the air during the day.	NONE-airplane:fly in:NONE-air,NONE-airplane:fly during:NONE-day
+2359799	A white cat lies down on its side.	NONE-cat:have:NONE-side,white-cat:have:NONE-side,NONE-cat:lie down on:NONE-side,white-cat:lie down on:NONE-side
+2359800	Goats eating grass on a rocky slope near mountains.	NONE-goat:eat:NONE-grass,NONE-goat:eat on:NONE-slope,NONE-goat:eat on:rocky-slope,NONE-goat:eat:NONE-grass,NONE-goat:eat on:NONE-slope,NONE-goat:eat on:rocky-slope,NONE-slope:near:NONE-mountain,rocky-slope:near:NONE-mountain
+2359804	Man in suit and tie standing next to a woman with glasses.	NONE-man:in:NONE-suit,NONE-man:in:NONE-tie,NONE-man:stand next to:NONE-woman,NONE-man:stand with:NONE-glass
+2359810	a row of red and blue trucks parked in a parking lot	NONE-row:of:NONE-truck,NONE-row:of:red-truck,NONE-row:of:blue-truck,NONE-row:park in:NONE-lot
+2359811	a bunch of bananas hanging from a wire	NONE-banana:hang from:NONE-wire,NONE-banana:hang from:NONE-wire
+2359813	a bathroom with two sinks, a cabinet and a bathtub.	NONE-bathroom:with:NONE-sink,NONE-bathroom:with:NONE-sink,NONE-bathroom:with:NONE-cabinet,NONE-bathroom:with:NONE-bathtub
+2359816	The man is carrying a book bag with two bananas in it.	NONE-man:carry:NONE-bag,NONE-man:carry with:NONE-banana,NONE-man:carry with:NONE-banana,NONE-banana:in:NONE-man,NONE-banana:in:NONE-man
+2359818	A motorcycle surrounded by people in a room.	NONE-motorcycle:surround by:NONE-people,NONE-people:in:NONE-room
+2359819	A flock of swans swims in a bay.	NONE-flock:of:NONE-swan,NONE-flock:swim in:NONE-bay
+2359832	am empty bowl and three empty beer bottles in front of a man	NONE-bottle:in front of:NONE-man,empty-bottle:in front of:NONE-man,NONE-bottle:in front of:NONE-man,empty-bottle:in front of:NONE-man,NONE-bottle:in front of:NONE-man,empty-bottle:in front of:NONE-man
+2359835	a pizza on a silver platter with some green peppers on top	NONE-pizza:on:NONE-platter,NONE-pizza:on:silver-platter,NONE-pizza:with:NONE-pepper,NONE-pizza:with:green-pepper,NONE-pizza:on:NONE-top
+2359839	a woman with blonde hair posing with rope on a bed	NONE-woman:with:NONE-hair,NONE-woman:with:blonde-hair,NONE-hair:pose with:NONE-rope,blonde-hair:pose with:NONE-rope,NONE-rope:on:NONE-bed
+2359840	A man standing on the side of a commuter train.	NONE-man:stand on:NONE-side,NONE-side:of:NONE-train
+2359844	a dark room with some kind of vegetables in the window	NONE-room:with:NONE-kind,dark-room:with:NONE-kind,NONE-kind:of:NONE-vegetable,NONE-vegetable:in:NONE-window
+2359848	A train traveling into a train station next to a  group of people.	NONE-train:travel into:NONE-station,NONE-train:travel next to:NONE-group,NONE-group:of:NONE-people
+2359853	a toilet with many rolls of toilet paper next to it	NONE-toilet:with:NONE-roll,NONE-toilet:with:many-roll,NONE-roll:of:NONE-paper,many-roll:of:NONE-paper
+2359854	A batter is taking swing at an incoming pitch in a baseball game	NONE-batter:take:NONE-swing,NONE-batter:take at:NONE-pitch,NONE-batter:take at:incoming-pitch,NONE-pitch:in:NONE-game,incoming-pitch:in:NONE-game
+2359856	A car parked behind a fence next to a red train.	NONE-car:park behind:NONE-fence,NONE-car:park behind:next-fence,NONE-car:park to:NONE-train,NONE-car:park to:red-train
+2359857	An old photo of a couple on a horse and buggy.	NONE-photo:of:NONE-couple,old-photo:of:NONE-couple,NONE-photo:on:NONE-horse,old-photo:on:NONE-horse,NONE-photo:on:NONE-buggy,old-photo:on:NONE-buggy
+2359866	close up of two birds on a concrete slab	NONE-bird:on:NONE-slab,NONE-bird:on:concrete-slab,NONE-bird:on:NONE-slab,NONE-bird:on:concrete-slab
+2359867	A red boat on a river with a lit ferry boat in the distance.	NONE-boat:on:NONE-river,red-boat:on:NONE-river,NONE-boat:in:NONE-distance,red-boat:in:NONE-distance,NONE-river:with:NONE-boat,NONE-river:with:lit-boat
+2359876	A black car driving in snow next to a stop sign.	NONE-car:drive in:NONE-snow,black-car:drive in:NONE-snow,NONE-car:drive next to:NONE-sign,black-car:drive next to:NONE-sign
+2359878	A plate of fruits containing oranges and bananas.	NONE-plate:of:NONE-fruit,NONE-plate:contain:NONE-orange,NONE-plate:contain:NONE-banana
+2359879	A photo of the building with focus on the clock.	NONE-photo:of:NONE-building,NONE-photo:on:NONE-clock,NONE-building:with:NONE-focus
+2359882	A photo of a woman wheeling her bags in an airport.	NONE-photo:of:NONE-woman,NONE-photo:have:NONE-bag,NONE-photo:wheel:NONE-bag,NONE-photo:wheel in:NONE-airport
+2359887	A small dog making a sleep face with long brown hair.	NONE-dog:make:NONE-sleep,small-dog:make:NONE-sleep,NONE-dog:face with:NONE-hair,NONE-dog:face with:brown-hair,NONE-dog:face with:long-hair,small-dog:face with:NONE-hair,small-dog:face with:brown-hair,small-dog:face with:long-hair
+2359889	A sign warning drivers to look out for Turtles crossing the road.	NONE-sign:warn:NONE-driver,NONE-Turtles:cross:NONE-road
+2359890	A group of zebras are crossing a dirt road.	NONE-group:of:NONE-zebra,NONE-group:cross:NONE-road
+2359894	A woman with a pink umbrella stands outside a cart.	NONE-woman:with:NONE-umbrella,NONE-woman:with:pink-umbrella,NONE-woman:stand outside:NONE-cart
+2359896	A giraffe stands near a tree in the wilderness.	NONE-giraffe:stand near:NONE-tree,NONE-tree:in:NONE-wilderness
+2359897	a grassy medium between a two way street in a city	NONE-medium:between:NONE-street,grassy-medium:between:NONE-street,NONE-medium:in:NONE-city,grassy-medium:in:NONE-city
+2359898	A black refrigerator freezer inside of a kitchen with a table and chairs.	NONE-inside:of:NONE-kitchen,black-inside:of:NONE-kitchen,NONE-inside:with:NONE-table,black-inside:with:NONE-table,NONE-inside:with:NONE-chair,black-inside:with:NONE-chair
+2359904	A hot dog in a bunch and french fries sitting on a plate	NONE-bunch:sit on:NONE-plate,NONE-fries:sit on:NONE-plate,french-fries:sit on:NONE-plate,NONE-fries:sit on:NONE-plate,french-fries:sit on:NONE-plate
+2359911	A dog laying on the back of a flatbed truck with a camper.	NONE-dog:lay on:NONE-back,NONE-back:of:NONE-truck,NONE-back:of:flatbed-truck,NONE-truck:with:NONE-camper,flatbed-truck:with:NONE-camper
+2359913	A glass coffee table with a vase of roses on top.	NONE-table:with:NONE-vase,NONE-table:of:NONE-rose,NONE-rose:on:NONE-top
+2359914	an image of a man walking on the beach with is bird	NONE-image:of:NONE-man,bird-image:of:NONE-man,NONE-man:walk with:NONE-beach
+2359915	Two men skiing across a snow covered slope.	NONE-man:ski across:NONE-snow,NONE-man:cover:NONE-slope,NONE-man:ski across:NONE-snow,NONE-man:cover:NONE-slope
+2359917	a stuffed animal tied to something with a chain on the ground	NONE-animal:tie to:NONE-something,stuffed-animal:tie to:NONE-something,NONE-animal:tie with:NONE-chain,stuffed-animal:tie with:NONE-chain,NONE-animal:tie on:NONE-ground,stuffed-animal:tie on:NONE-ground
+2359920	A group of men walking around a  sandy beach near a large passenger jet.	NONE-group:of:NONE-man,NONE-group:walk around:NONE-beach,NONE-group:walk around:sandy-beach,NONE-beach:near:NONE-jet,NONE-beach:near:large-jet,sandy-beach:near:NONE-jet,sandy-beach:near:large-jet
+2359925	A horse drawn carriage has passengers dressed in top hats and coats.	NONE-horse:draw:NONE-carriage,NONE-horse:have:NONE-passenger,NONE-passenger:dress in:NONE-hat,NONE-passenger:dress in:top-hat,NONE-passenger:dress in:NONE-coat
+2359926	Two men are using cellphones while waiting for a train.	NONE-man:use:NONE-cellphone,NONE-man:use:NONE-cellphone
+2359928	A young woman riding a skateboard at a skate park.	NONE-woman:ride:NONE-skateboard,young-woman:ride:NONE-skateboard,NONE-woman:ride at:NONE-park,NONE-woman:ride at:skate-park,young-woman:ride at:NONE-park,young-woman:ride at:skate-park
+2359929	An adult skier towing a small child by a ski pole.	NONE-skier:tow:NONE-child,NONE-skier:tow:small-child,adult-skier:tow:NONE-child,adult-skier:tow:small-child,NONE-skier:tow by:NONE-pole,NONE-skier:tow by:ski-pole,adult-skier:tow by:NONE-pole,adult-skier:tow by:ski-pole
+2359931	Two young boys standing next to each other near a wall.	NONE-boy:stand near:NONE-wall,young-boy:stand near:NONE-wall,NONE-boy:stand near:NONE-wall,young-boy:stand near:NONE-wall
+2359933	The window in the bathroom is above the long bathtub.	NONE-window:in:NONE-bathroom,NONE-window:above:NONE-bathtub,NONE-window:above:long-bathtub
+2359934	A bridled horse with the sky and grass in the background.	NONE-horse:with:NONE-sky,bridled-horse:with:NONE-sky,NONE-horse:with:NONE-grass,bridled-horse:with:NONE-grass,NONE-horse:in:NONE-background,bridled-horse:in:NONE-background
+2359935	A bus traveling down a busy city street with old red brick buildings.	NONE-bus:travel down:NONE-street,NONE-bus:travel down:busy-street,NONE-street:with:NONE-building,NONE-street:with:red-building,NONE-street:with:old-building,busy-street:with:NONE-building,busy-street:with:red-building,busy-street:with:old-building
+2359936	Two zebras standing by a log in a grassy field while people in a car watch.	NONE-zebra:stand by:NONE-log,NONE-zebra:stand by:NONE-log,NONE-log:in:NONE-field,NONE-log:in:grassy-field,NONE-people:in:NONE-car,watch-people:in:NONE-car,NONE-people:in:NONE-car,watch-people:in:NONE-car
+2359937	A small bathroom with blue carpeting and a sky light.	NONE-bathroom:with:NONE-carpeting,NONE-bathroom:with:blue-carpeting,small-bathroom:with:NONE-carpeting,small-bathroom:with:blue-carpeting,NONE-bathroom:with:NONE-light,small-bathroom:with:NONE-light
+2359940	A man in white and blue wetsuit with a surfboard.	NONE-man:in:NONE-wetsuit,NONE-man:in:white-wetsuit,NONE-man:in:blue-wetsuit,NONE-man:with:NONE-surfboard
+2359950	Bicyclists are riding on a trail beside other walkers.	NONE-Bicyclists:ride on:NONE-trail,NONE-Bicyclists:ride beside:NONE-walker,NONE-Bicyclists:ride beside:other-walker,NONE-Bicyclists:ride on:NONE-trail,NONE-Bicyclists:ride beside:NONE-walker,NONE-Bicyclists:ride beside:Bicyclists-walker
+2359952	A guy does tricks on his skateboard at a skate park that appears to be on a seashore.	NONE-guy:do:NONE-trick,NONE-guy:have:NONE-skateboard,NONE-guy:do at:NONE-park,NONE-guy:do at:skate-park,NONE-trick:on:NONE-skateboard
+2359953	A man paddles a surf board along the shore on a calm day.	NONE-man:paddle:NONE-board,NONE-board:along:NONE-shore,NONE-shore:on:NONE-day
+2359957	A man walking on  a beach holding a surfboard.	NONE-man:walk on:NONE-beach,NONE-beach:hold:NONE-surfboard
+2359958	A white and blue plate sitting on top of a table next to a knife and fork.	NONE-plate:sit on top of:NONE-table,white-plate:sit on top of:NONE-table,blue-plate:sit on top of:NONE-table,NONE-table:next to:NONE-knife,NONE-table:next to:NONE-fork
+2359960	A baseball player has just hit the baseball at this game.	NONE-player:hit:NONE-baseball,NONE-player:hit at:NONE-game
+2359961	a bathroom in an outhose with a wooden window on the side of it	NONE-bathroom:in:NONE-outhose,NONE-bathroom:with:NONE-window,NONE-bathroom:with:wooden-window,NONE-bathroom:on:NONE-side,NONE-side:of:NONE-bathroom
+2359963	A picture of two zebras eating at the grass.	NONE-picture:of:NONE-zebra,NONE-picture:of:NONE-zebra,NONE-picture:eat at:NONE-grass
+2359965	a couple of zebras are standing in a green field	NONE-zebra:stand in:NONE-field,NONE-zebra:stand in:green-field,NONE-zebra:stand in:NONE-field,NONE-zebra:stand in:green-field
+2359970	A orange pan sitting on a stove top filled with vegetables.	NONE-pan:sit on:NONE-top,orange-pan:sit on:NONE-top,NONE-pan:fill with:NONE-vegetable,orange-pan:fill with:NONE-vegetable
+2359971	a polar bear fully submerged in a small body of water	NONE-bear:in:NONE-body,NONE-bear:in:small-body,polar-bear:in:NONE-body,polar-bear:in:small-body,submerged-bear:in:NONE-body,submerged-bear:in:small-body,NONE-body:of:NONE-water,small-body:of:NONE-water
+2359974	A nighttime parade with a decorated elephant walking in it	NONE-parade:with:NONE-elephant,NONE-parade:with:decorated-elephant,nighttime-parade:with:NONE-elephant,nighttime-parade:with:decorated-elephant,NONE-elephant:walk in:NONE-parade,NONE-elephant:walk in:nighttime-parade,decorated-elephant:walk in:NONE-parade,decorated-elephant:walk in:nighttime-parade
+2359980	Several oranges rest in a bowl and on a table.	NONE-orange:rest in:NONE-bowl,several-orange:rest in:NONE-bowl,NONE-orange:rest on:NONE-table,several-orange:rest on:NONE-table,NONE-orange:rest in:NONE-bowl,several-orange:rest in:NONE-bowl,NONE-orange:rest on:NONE-table,several-orange:rest on:NONE-table
+2359988	A woman stepping into a corral near a rustic barn with a young cow.	NONE-woman:step into:NONE-corral,NONE-corral:near:NONE-barn,NONE-corral:near:rustic-barn,NONE-barn:with:NONE-cow,NONE-barn:with:young-cow,rustic-barn:with:NONE-cow,rustic-barn:with:young-cow
+2359989	Woman with multiple birds standing on pathway outdoors.	NONE-Woman:with:NONE-bird,NONE-Woman:with:multiple-bird,NONE-Woman:stand on:NONE-outdoors,NONE-Woman:stand on:pathway-outdoors
+2359990	An elephant in a pool of water near the bank	NONE-elephant:in:NONE-pool,NONE-elephant:near:NONE-bank,NONE-pool:of:NONE-water
+2339406	A white polar bear standing on the edge of a lake.	NONE-bear:stand on:NONE-edge,polar-bear:stand on:NONE-edge,white-bear:stand on:NONE-edge,NONE-edge:of:NONE-lake
+2359997	an elephant picks up riders from a platform	NONE-elephant:pick up:NONE-rider,NONE-rider:from:NONE-platform
+2359999	A cow standing on a dry grass field near trees.	NONE-cow:stand on:NONE-field,NONE-cow:stand on:dry-field,NONE-field:near:NONE-tree,dry-field:near:NONE-tree
+2360002	A trains with both passenger and freight cars moving along a train track.	NONE-train:with:NONE-car,NONE-train:move along:NONE-track,NONE-train:with:NONE-car,NONE-train:move along:NONE-track
+2360008	A group of people standing in a parking lot next to a van.	NONE-group:of:NONE-people,NONE-people:stand in:NONE-lot,NONE-people:next to:NONE-van
+2360010	A young person riding a skateboard up the side of a ramp.	NONE-person:ride:NONE-skateboard,young-person:ride:NONE-skateboard,NONE-person:ride up:NONE-side,young-person:ride up:NONE-side,NONE-side:of:NONE-ramp
+2360020	People walking in the city beside buildings and street signs.	NONE-people:walk in:NONE-city,NONE-people:walk beside:NONE-building,NONE-people:walk beside:NONE-sign,NONE-people:walk in:NONE-city,NONE-people:walk beside:NONE-building,NONE-people:walk beside:NONE-sign
+2360021	A sail boat floating across a lake surrounded by forest.	NONE-boat:float across:NONE-lake,sail-boat:float across:NONE-lake,NONE-boat:surround by:NONE-forest,sail-boat:surround by:NONE-forest
+2360024	An old and new view of a building which has a restaurant on the front.	NONE-view:of:NONE-building,new-view:of:NONE-building,old-view:of:NONE-building,NONE-restaurant:on:NONE-front
+2360025	A large propeller airplane on display in a museum.	NONE-airplane:on:NONE-display,large-airplane:on:NONE-display,NONE-airplane:in:NONE-museum,large-airplane:in:NONE-museum
+2360026	A guy on a surf board riding a wave.	NONE-guy:on:NONE-board,NONE-guy:ride:NONE-wave
+2360027	A girl raring back at a soccer ball on a field.	NONE-girl:rare at:NONE-ball,NONE-ball:on:NONE-field
+2360029	A cake with a person cutting into it.	NONE-cake:cut into:NONE-cake,NONE-cake:with:NONE-person
+2360031	Blue commuter bus sharing roadway with motorcyclists in urban area.	NONE-bus:share:NONE-roadway,blue-bus:share:NONE-roadway,NONE-bus:share with:NONE-motorcyclist,blue-bus:share with:NONE-motorcyclist,NONE-motorcyclist:in:NONE-area,NONE-motorcyclist:in:urban-area
+2360035	A young woman carrying a surfboard on a wet sandy beach.	NONE-woman:carry:NONE-surfboard,young-woman:carry:NONE-surfboard,NONE-surfboard:on:NONE-beach,NONE-surfboard:on:wet-beach,NONE-surfboard:on:sandy-beach
+2360046	A stop sign on a post sitting in front of a building.	NONE-sign:on:NONE-post,NONE-sign:sit in front of:NONE-building
+2360049	a lady in blue shorts and white shirt swinging at a tennis ball	NONE-lady:in:NONE-shorts,NONE-lady:in:blue-shorts,NONE-lady:in:NONE-shirt,NONE-lady:in:white-shirt
+2360050	S&B train number 3815 coming down the track, country area.	NONE-S&B:train:NONE-number,NONE-number:come down:NONE-area
+2360055	A young woman sitting at a table using a smart phone.	NONE-woman:sit at:NONE-table,young-woman:sit at:NONE-table,NONE-table:use:NONE-phone,NONE-table:use:smart-phone
+2360057	A woman flying a kite with her dog over a sandy field.	NONE-woman:fly:NONE-kite,NONE-woman:fly with:NONE-dog,NONE-woman:have:NONE-dog,NONE-dog:over:NONE-field,NONE-dog:over:sandy-field
+2360060	Guy up in the air doing a skateboard trick	NONE-Guy:in:NONE-air,NONE-air:do:NONE-trick,NONE-air:do:skateboard-trick
+2360063	A zebra grazing on food behind a metal fence.	NONE-grazing:on:NONE-food,NONE-grazing:behind:NONE-fence
+2360065	A man sitting on a top of a green couch.	NONE-man:sit on:NONE-top,NONE-top:of:NONE-couch,NONE-top:of:green-couch
+2360066	a couple of people are standing out in the snow	NONE-people:stand out in:NONE-snow,NONE-people:stand out in:NONE-snow
+2360077	Man posing in front of a pair of giraffes in background.	NONE-man:pose in front of:NONE-giraffe,NONE-giraffe:in:NONE-background
+2360081	a man is sitting with a laptop box on him	NONE-man:sit with:NONE-box,NONE-man:sit with:laptop-box,NONE-box:on:NONE-man,laptop-box:on:NONE-man
+2360088	A succession of skiers descend down a snowy slope.	NONE-succession:of:NONE-skier,NONE-succession:descend down:NONE-slope,NONE-succession:descend down:snowy-slope
+2360089	A den with a couch, ottomans, chairs, a desk, lamps and a table.	NONE-den:with:NONE-couch,NONE-den:with:NONE-ottoman,NONE-den:with:NONE-chair,NONE-den:with:NONE-desk,NONE-den:with:NONE-lamp,NONE-den:with:NONE-table
+2360090	Five men standing with backpacks and a police officer looking at them.	NONE-man:stand with:NONE-backpack,NONE-man:stand with:NONE-officer,NONE-man:stand with:NONE-backpack,NONE-man:stand with:NONE-officer,NONE-man:stand with:NONE-backpack,NONE-man:stand with:NONE-officer,NONE-man:stand with:NONE-backpack,NONE-man:stand with:NONE-officer,NONE-man:stand with:NONE-backpack,NONE-man:stand with:NONE-officer
+2360093	A very cute small boy holding some food in his hand.	NONE-holding:have:NONE-hand,small-holding:have:NONE-hand,cute-holding:have:NONE-hand,NONE-food:in:NONE-hand
+2360096	A young man with a black hat and a baseball glove.	NONE-man:with:NONE-hat,NONE-man:with:black-hat,young-man:with:NONE-hat,young-man:with:black-hat,NONE-man:with:NONE-glove,young-man:with:NONE-glove
+2360108	A bicycle with a covered cart in the front	NONE-bicycle:with:NONE-cart,NONE-bicycle:with:cover-cart,NONE-cart:in:NONE-front,cover-cart:in:NONE-front
+2360111	Four male tennis players pose on the court with tennis rackets and a ball.	NONE-player:pose on:NONE-court,male-player:pose on:NONE-court,NONE-player:pose on:NONE-court,male-player:pose on:NONE-court,NONE-player:pose on:NONE-court,male-player:pose on:NONE-court,NONE-player:pose on:NONE-court,male-player:pose on:NONE-court,NONE-court:with:NONE-racket,NONE-court:with:NONE-ball
+2360112	A large jetliner flying over a grass covered field.	NONE-jetliner:fly over:NONE-grass,large-jetliner:fly over:NONE-grass,NONE-jetliner:cover:NONE-field,large-jetliner:cover:NONE-field
+2360113	The small piece of cake has dark writing on the icing.	NONE-piece:of:NONE-cake,small-piece:of:NONE-cake,NONE-piece:have:NONE-writing,NONE-piece:have:dark-writing,small-piece:have:NONE-writing,small-piece:have:dark-writing,NONE-writing:on:NONE-icing,dark-writing:on:NONE-icing
+2360114	People are sitting at the beach surrounded by tiki umbrellas.	NONE-people:sit at:NONE-beach,NONE-people:sit at:NONE-beach,NONE-beach:surround by:NONE-umbrella,NONE-beach:surround by:tiki-umbrella
+2360115	A living room with a coffee table, chair, and a tv.	NONE-room:with:NONE-table,live-room:with:NONE-table,NONE-room:with:NONE-chair,live-room:with:NONE-chair,NONE-room:with:NONE-tv,live-room:with:NONE-tv
+2360117	A man on a surfboard in the water.	NONE-man:on:NONE-surfboard,NONE-man:in:NONE-water
+2360119	A man tying the strings of a kite.	NONE-man:tie:NONE-string,NONE-string:of:NONE-kite
+2360121	A man walking down a  street in front of a cow.	NONE-man:walk down:NONE-street,NONE-street:in front of:NONE-cow
+2360124	A white polar bar chewing on it's hand.	NONE-bar:chew on:NONE-hand,polar-bar:chew on:NONE-hand,white-bar:chew on:NONE-hand,NONE-bar:have:NONE-hand,polar-bar:have:NONE-hand,white-bar:have:NONE-hand
+2360125	A woman on a bed with wheels in middle of a street.	NONE-woman:on:NONE-bed,NONE-woman:of:NONE-street,NONE-bed:with:NONE-wheel,NONE-wheel:in:NONE-middle
+2360134	A man wearing a blue shirt and white shorts playing tennis.	NONE-man:wear:NONE-shirt,NONE-man:wear:blue-shirt,NONE-man:wear:NONE-playing,NONE-man:wear:white-playing,NONE-man:wear:NONE-tennis
+2360138	Black and white photograph of a man on skateboard.	NONE-photograph:of:NONE-man,white-photograph:of:NONE-man,black-photograph:of:NONE-man,NONE-photograph:on:NONE-skateboard,white-photograph:on:NONE-skateboard,black-photograph:on:NONE-skateboard
+2360139	Yellow van with a canopy in the back on some brick pavers.	NONE-van:with:NONE-canopy,paver-van:with:NONE-canopy,NONE-canopy:in:NONE-back,NONE-back:on:NONE-brick
+2360142	A baseball player wearing a leather glove standing in the dirt.	NONE-player:wear:NONE-standing,NONE-standing:in:NONE-dirt
+2360151	A group of men sitting around a wooden table.	NONE-group:of:NONE-man,NONE-group:sit around:NONE-table,NONE-group:sit around:wooden-table
+2360156	A decorated table covered with plates of food and vegetables.	NONE-table:cover with:NONE-plate,decorate-table:cover with:NONE-plate,NONE-plate:of:NONE-food,NONE-plate:of:NONE-vegetable
+2360166	A girl is hitting the tennis ball during a match.	NONE-girl:hit:NONE-ball,NONE-girl:hit during:NONE-match
+2360168	A large bed sitting in a bedroom next to a book shelf.	NONE-bed:sit in:NONE-bedroom,large-bed:sit in:NONE-bedroom,NONE-bed:sit next to:NONE-shelf,large-bed:sit next to:NONE-shelf
+2360169	a big clock at the top of a stadium	NONE-clock:at:NONE-top,big-clock:at:NONE-top,NONE-top:of:NONE-stadium
+2360172	A person on a racing motorcycle making a sharp left turn.	NONE-person:on:NONE-motorcycle,NONE-person:on:race-motorcycle,turn-person:on:NONE-motorcycle,turn-person:on:race-motorcycle,NONE-motorcycle:make:NONE-left,NONE-motorcycle:make:sharp-left,race-motorcycle:make:NONE-left,race-motorcycle:make:sharp-left
+2360174	A group of men on horses at a watering hole.	NONE-group:of:NONE-man,hole-group:of:NONE-man,NONE-man:on:NONE-horse,NONE-horse:at:NONE-watering
+2360179	Unmanned boats with masts moored together on calm water.	NONE-boat:with:NONE-mast,unmanned-boat:with:NONE-mast,NONE-boat:moor on:NONE-water,unmanned-boat:moor on:NONE-water,NONE-boat:with:NONE-mast,unmanned-boat:with:NONE-mast,NONE-boat:moor on:NONE-water,unmanned-boat:moor on:NONE-water
+2360185	a truck with signs on it parked in a green field with tents and flags lining the field.	NONE-truck:with:NONE-sign,NONE-truck:park in:NONE-field,NONE-truck:park in:green-field,NONE-sign:on:NONE-truck,NONE-field:with:NONE-tent,green-field:with:NONE-tent,NONE-field:with:NONE-flag,green-field:with:NONE-flag
+2360188	OLD TIME RAILROAD CABOOSE SITTING ON TRACK, WITH TWO PEOPLE INSIDE	NONE-TIME:railroad:NONE-SITTING,NONE-TIME:railroad with:NONE-INSIDE,NONE-SITTING:on:NONE-TRACK
+2360191	A red and yellow bus sits on the back of a flatbed truck, driving down the highway.	NONE-bus:sit on:NONE-back,red-bus:sit on:NONE-back,yellow-bus:sit on:NONE-back,NONE-back:of:NONE-truck,NONE-back:of:flatbed-truck
+2360193	a photo of a meter in black and white.	NONE-photo:of:NONE-meter,NONE-photo:in:NONE-black,NONE-photo:in:NONE-white
+2360195	Many different signs cover a post next to a bus stop.	NONE-sign:cover:NONE-post,many-sign:cover:NONE-post,different-sign:cover:NONE-post,NONE-sign:cover next to:NONE-stop,many-sign:cover next to:NONE-stop,different-sign:cover next to:NONE-stop,NONE-sign:cover:NONE-post,many-sign:cover:NONE-post,different-sign:cover:NONE-post,NONE-sign:cover next to:NONE-stop,many-sign:cover next to:NONE-stop,different-sign:cover next to:NONE-stop
+2360199	A parking meter with garland on it near a curb and a parked car.	NONE-meter:on:NONE-meter,NONE-meter:with:NONE-garland,NONE-meter:near:NONE-curb,NONE-meter:near:NONE-car,NONE-meter:near:parked-car
+2360202	A man wearing an Italy shirt is standing in the street.	NONE-man:wear:NONE-shirt,NONE-man:stand in:NONE-street
+2360206	A couple riding on the back of a horse drawn carriage.	NONE-couple:ride on:NONE-back,NONE-couple:draw:NONE-carriage,NONE-back:of:NONE-horse
+2360208	A lamp sitting next to a red vase filled with flowers.	NONE-lamp:sit next to:NONE-vase,NONE-lamp:sit next to:red-vase,NONE-vase:fill with:NONE-flower,red-vase:fill with:NONE-flower
+2360215	a clock the a weather vein on the top of it	NONE-vein:on:NONE-top,NONE-top:of:NONE-clock
+2360221	Dog jumps over a woman to catch a frisbee in a dog show.	NONE-Dog:jump over:NONE-woman,NONE-woman:catch:NONE-frisbee,NONE-frisbee:in:NONE-show
+2360222	A small car is pulling a man on a bicycle.	NONE-car:pull:NONE-man,small-car:pull:NONE-man,NONE-man:on:NONE-bicycle
+2360224	A home computer and mouse on a desk in a room.	NONE-computer:on:NONE-desk,NONE-computer:in:NONE-room
+2360226	Two people with some luggage by a big train.	NONE-people:with:NONE-some,NONE-people:luggage by:NONE-train,NONE-people:luggage by:big-train,NONE-people:with:NONE-some,NONE-people:luggage by:NONE-train,NONE-people:luggage by:big-train
+2360229	The tower of the building has a clock displayed.	NONE-tower:of:NONE-building,NONE-tower:have:NONE-clock
+2360234	Three people sitting on a sofa playing video games.	NONE-people:sit on:NONE-sofa,NONE-people:sit on:NONE-sofa,NONE-people:sit on:NONE-sofa,NONE-sofa:play:NONE-game,NONE-sofa:play:video-game
+2360237	a black handled pair of scissors laying on something.	NONE-pair:of:NONE-scissors,NONE-scissors:lay on:NONE-something
+2360241	Small bathroom with toilet and sink connected to each other.	NONE-bathroom:with:NONE-toilet,small-bathroom:with:NONE-toilet,connect-bathroom:with:NONE-toilet,NONE-bathroom:with:NONE-sink,small-bathroom:with:NONE-sink,connect-bathroom:with:NONE-sink
+2360242	A older man sitting on a bench holding a cart with a sign warning people of the return of Jesus Christ.	NONE-man:sit on:NONE-bench,older-man:sit on:NONE-bench,NONE-bench:hold:NONE-cart,NONE-bench:hold with:NONE-sign,NONE-sign:warn:NONE-people,NONE-people:of:NONE-return,NONE-return:of:NONE-Christ
+2360245	A person on a blue snow board on a metal stand.	NONE-person:on:NONE-board,NONE-person:on:blue-board,stand-person:on:NONE-board,stand-person:on:blue-board,NONE-board:on:NONE-metal,blue-board:on:NONE-metal
+2360247	A man on an inverted bicycle  riding down the street	NONE-man:on:NONE-bicycle,NONE-man:on:inverted-bicycle,NONE-bicycle:ride down:NONE-street,inverted-bicycle:ride down:NONE-street
+2360251	A city street filled with lots of traffic line with tall buildings.	NONE-street:fill with:NONE-line,NONE-street:fill with:NONE-building,NONE-street:fill with:tall-building
+2360254	Three persons are skiing on snow clad mountains.	NONE-person:ski on:NONE-mountain,NONE-person:ski on:NONE-mountain,NONE-person:ski on:NONE-mountain
+2360260	A herd of sheep standing alongside of a lake surrounded by mountains.	NONE-herd:of:NONE-alongside,NONE-herd:surround by:NONE-mountain,NONE-alongside:of:NONE-lake
+2360265	A man in black jacket walking on beach with a clock tower in the distance.	NONE-man:in:NONE-jacket,NONE-man:in:black-jacket,NONE-man:walk on:NONE-beach,NONE-man:walk with:NONE-tower,NONE-tower:in:NONE-distance
+2360266	a man in a colorful wetsuit riding a wave	NONE-man:in:NONE-wetsuit,NONE-man:in:colorful-wetsuit,NONE-wetsuit:ride:NONE-wave,colorful-wetsuit:ride:NONE-wave
+2360272	A living room filled with furniture and a TV.	NONE-room:fill with:NONE-furniture,NONE-room:fill with:NONE-tv
+2360273	A woman in a bikini sitting on a towel on the beach.	NONE-woman:in:NONE-bikini,NONE-woman:sit on:NONE-towel,NONE-towel:on:NONE-beach
+2360274	A woman sitting in front of a laptop computer on a desk.	NONE-woman:sit in front of:NONE-computer,NONE-woman:sit in front of:laptop-computer,NONE-computer:on:NONE-desk,laptop-computer:on:NONE-desk
+2360276	A family of elephants walking across a dirt field.	NONE-family:of:NONE-elephant,NONE-family:walk across:NONE-field
+2360280	A rock sitting on top of a boulder with a stop sign painted on it.	NONE-rock:paint on:NONE-rock,NONE-rock:sit on top of:NONE-boulder,NONE-boulder:with:NONE-sign
+2360284	Skaters take advantage of the new skate park	NONE-skater:take:NONE-advantage,NONE-skater:take:NONE-advantage,NONE-advantage:of:NONE-park,NONE-advantage:of:new-park
+2360286	A IMAGE OF A BATHROOM WITH A TOILET IN IT	NONE-image:in:NONE-image,NONE-image:of:NONE-BATHROOM,NONE-image:with:NONE-toilet
+2360291	A picture of the head of a brown cow wearing a halter.	NONE-picture:of:NONE-head,NONE-picture:wear:NONE-halter,NONE-head:of:NONE-cow,NONE-head:of:brown-cow
+2360295	A clock hanging from the ceiling in a room.	NONE-clock:hang from:NONE-ceiling,NONE-ceiling:in:NONE-room
+2360300	a lincoln airport police truck parked in the back of a building with lots of windows	NONE-truck:park in:NONE-back,lincoln-truck:park in:NONE-back,NONE-truck:park with:NONE-window,lincoln-truck:park with:NONE-window,NONE-back:of:NONE-building
+2360305	Two benches sit in front of a large store.	NONE-bench:sit in front of:NONE-store,NONE-bench:sit in front of:large-store,NONE-bench:sit in front of:NONE-store,NONE-bench:sit in front of:large-store
+2360308	A view of a motorcycle from behind. The person taking the picture appears to be on a bike as well.	NONE-view:of:NONE-motorcycle,NONE-view:from:NONE-behind
+2360314	An adorable dog walking along a sandy beach next to the ocean.	NONE-dog:walk along:NONE-beach,NONE-dog:walk along:sandy-beach,adorable-dog:walk along:NONE-beach,adorable-dog:walk along:sandy-beach,NONE-dog:walk next to:NONE-ocean,adorable-dog:walk next to:NONE-ocean
+2360316	a group of men working the kitchen behind a counter top	NONE-group:of:NONE-man,NONE-man:work:NONE-kitchen,NONE-kitchen:behind:NONE-top,NONE-kitchen:behind:counter-top
+2360320	a group of stuffed teddy bears in a display case	NONE-group:of:NONE-teddy,NONE-group:of:stuffed-teddy,NONE-group:bear in:NONE-case
+2360323	A person riding a snowboard down a snow covered slope.	NONE-person:ride:NONE-snowboard,NONE-person:cover:NONE-slope
+2360338	a number of small boats in body of water	NONE-number:in:NONE-body,NONE-number:of:NONE-water
+2360347	A herd of elephants walking into a large body of water.	NONE-herd:of:NONE-elephant,NONE-herd:walk into:NONE-body,NONE-herd:walk into:large-body,NONE-body:of:NONE-water,large-body:of:NONE-water
+2360348	A standing toilet in a bathroom stall next to a trash can.	NONE-toilet:in:NONE-stall,NONE-toilet:can next to:NONE-trash
+2360350	A man standing in the middle of the room, with clutter all around.	NONE-standing:in:NONE-middle,NONE-middle:of:NONE-room,NONE-middle:with:NONE-clutter
+2360352	A church spire with a lit up clock in a snowy evening.	NONE-spire:light up:NONE-clock,NONE-clock:in:NONE-evening,NONE-clock:in:snowy-evening
+2360355	Several laptop computers and phones on a desk.	NONE-computer:on:NONE-desk,several-computer:on:NONE-desk,NONE-computer:on:NONE-desk,several-computer:on:NONE-desk
+2360358	Two men sitting on a couch playing games on Nintendo Wii.	NONE-man:sit on:NONE-couch,NONE-man:sit on:NONE-couch,NONE-couch:play:NONE-game,NONE-couch:play on:NONE-Wii
+2360362	Lower body shot of man in dark cloths, walking away in cross walk area, holding skate board.	NONE-body:shoot of:NONE-man,lower-body:shoot of:NONE-man,NONE-body:shoot in:NONE-cloth,NONE-body:shoot in:dark-cloth,lower-body:shoot in:NONE-cloth,lower-body:shoot in:dark-cloth
+2360364	A black and white photo of a woman hitting a tennis ball.	NONE-photo:of:NONE-woman,white-photo:of:NONE-woman,black-photo:of:NONE-woman,NONE-photo:hit:NONE-ball,white-photo:hit:NONE-ball,black-photo:hit:NONE-ball
+2360367	Close up of a coin operated parking meter with a car parked behind it.	NONE-Close:operate:NONE-meter,NONE-Close:operate with:NONE-car,NONE-car:park behind:NONE-Close
+2360368	A picture of a person standing by a bicycle.	NONE-picture:of:NONE-person,NONE-picture:stand by:NONE-bicycle
+2360369	Toilet with a black lid and rolls of toilet tissue in a bathroom	NONE-roll:of:NONE-tissue,NONE-tissue:in:NONE-bathroom
+2360375	Cattle grazing in a grassy field filled with trees.	NONE-cattle:graze in:NONE-field,NONE-cattle:graze in:grassy-field,NONE-cattle:graze in:NONE-field,NONE-cattle:graze in:grassy-field,NONE-field:fill with:NONE-tree,grassy-field:fill with:NONE-tree
+2360377	A doll standing next to a vase filled with flowers and plants.	NONE-doll:stand next to:NONE-vase,NONE-vase:fill with:NONE-flower,NONE-vase:fill with:NONE-plant
+2360382	a woman in a top hat sits on a horse	NONE-woman:in:NONE-hat,NONE-woman:in:top-hat,NONE-woman:sit on:NONE-horse
+2360389	A young boy in pajamas holding up a camera.	NONE-boy:in:NONE-pajamas,young-boy:in:NONE-pajamas,NONE-boy:hold up:NONE-camera,young-boy:hold up:NONE-camera
+2360391	Two men standing next to each other at a bar having a drink.	NONE-man:stand at:NONE-bar,NONE-man:stand at:NONE-bar,NONE-bar:have:NONE-drink
+2360400	The young boy is eating his donut and watching tv.	NONE-boy:eat:NONE-donut,young-boy:eat:NONE-donut,NONE-boy:have:NONE-donut,young-boy:have:NONE-donut,NONE-boy:watch:NONE-tv,young-boy:watch:NONE-tv
+2360404	a small statue under the shadow of a fruit tree	NONE-statue:under:NONE-shadow,small-statue:under:NONE-shadow,NONE-shadow:of:NONE-tree
+2360405	A black bird flying over a body of water.	NONE-bird:fly over:NONE-body,black-bird:fly over:NONE-body,NONE-body:of:NONE-water
+2360406	two men standing by a display of military items	NONE-standing:by:NONE-display,NONE-display:of:NONE-item,NONE-display:of:military-item
+2360409	A kid playing a game of frisbee with his dog in the snow.	NONE-kid:play:NONE-game,NONE-kid:have:NONE-dog,NONE-kid:play with:NONE-dog,NONE-game:of:NONE-frisbee,NONE-dog:in:NONE-snow
+2360410	A cooler with several bottles of S. Pellegrino sparkling water.	NONE-cooler:with:NONE-bottle,NONE-cooler:with:several-bottle,NONE-cooler:of:NONE-water,NONE-cooler:of:sparkling-water
+2360414	a desk with an electronic device a cell phone and a ipod on it	NONE-desk:with:NONE-device,NONE-desk:with:electronic-device,NONE-ipod:on:NONE-desk
+2360417	A woman holding a child next to a wooden fence.	NONE-woman:hold:NONE-child,NONE-woman:hold next to:NONE-fence,NONE-woman:hold next to:wooden-fence
+2360419	A large plane with people alighting at the airport	NONE-plane:with:NONE-people,large-plane:with:NONE-people,NONE-people:alight at:NONE-airport
+2360424	Large white clock sitting on the side of an old theater building.	NONE-clock:sit on:NONE-side,large-clock:sit on:NONE-side,white-clock:sit on:NONE-side,NONE-side:of:NONE-building,NONE-side:of:old-building
+2360426	Ornate clock on face of large block building.	NONE-clock:on:NONE-face,ornate-clock:on:NONE-face,NONE-clock:of:NONE-building,NONE-clock:of:large-building,ornate-clock:of:NONE-building,ornate-clock:of:large-building
+2360436	A truck with a dog sticking its head out the back window in front of a building.	NONE-truck:with:NONE-dog,NONE-truck:have:NONE-head,NONE-truck:stick:NONE-head,NONE-truck:stick out:NONE-window,NONE-truck:stick out:back-window,NONE-window:in front of:NONE-building,back-window:in front of:NONE-building
+2360440	three brown bears are cooling off in the water	NONE-bear:cool off in:NONE-water,brown-bear:cool off in:NONE-water,NONE-bear:cool off in:NONE-water,brown-bear:cool off in:NONE-water,NONE-bear:cool off in:NONE-water,brown-bear:cool off in:NONE-water
+2360443	Three dogs running around a field with a woman holding a frisbee.	NONE-dog:run around:NONE-field,NONE-dog:run around with:NONE-woman,NONE-dog:run around:NONE-field,NONE-dog:run around with:NONE-woman,NONE-dog:run around:NONE-field,NONE-dog:run around with:NONE-woman,NONE-woman:hold:NONE-frisbee
+2360444	A food truck parks next to a busy street as two taxi cabs pass it by.	NONE-park:pass:NONE-street,NONE-park:pass:busy-street,NONE-park:pass next to:NONE-street,NONE-park:pass next to:busy-street,NONE-park:pass:NONE-street,NONE-park:pass:busy-street,NONE-park:pass next to:NONE-street,NONE-park:pass next to:busy-street,NONE-street:as:NONE-cab,busy-street:as:NONE-cab,NONE-street:as:NONE-cab,busy-street:as:NONE-cab
+2360451	Someone playing tennis on the tennis court with their racket	NONE-playing:have:NONE-racket,NONE-tennis:on:NONE-court,NONE-court:with:NONE-racket
+2360456	A surfer is riding a wave with his hand in the water.	NONE-surfer:ride:NONE-wave,NONE-surfer:have:NONE-hand,NONE-surfer:ride with:NONE-hand,NONE-hand:in:NONE-water
+2360461	Top of a grandfather clock with a mouse perched on top.	NONE-Top:of:NONE-clock,NONE-Top:perch on:NONE-top,NONE-clock:with:NONE-mouse
+2360466	Red double decker buses are in a parking lot.	NONE-bus:in:NONE-lot,red-bus:in:NONE-lot,double-bus:in:NONE-lot,NONE-bus:in:NONE-lot,red-bus:in:NONE-lot,double-bus:in:NONE-lot
+2360467	Two vehicles driving down the road near a building.	NONE-vehicle:drive down:NONE-road,NONE-vehicle:drive down:NONE-road,NONE-road:near:NONE-building
+2360469	A train traveling next to a small country town and a small red house.	NONE-train:travel to:NONE-town,NONE-train:travel to:small-town,NONE-train:travel to:NONE-house,NONE-train:travel to:small-house,NONE-train:travel to:red-house
+2360473	A microwave oven on a dock near the water.	NONE-microwave:oven on:NONE-dock,NONE-dock:near:NONE-water
+2360476	A cat laying on a bed next to a remote control.	NONE-cat:lay on:NONE-bed,NONE-cat:lay next to:NONE-control,NONE-cat:lay next to:remote-control
+2360477	A kitchen with a white tile wall and a chrome counter with a built in oven.	NONE-kitchen:with:NONE-wall,NONE-kitchen:with:white-wall,NONE-kitchen:with:NONE-chrome,NONE-kitchen:counter with:NONE-oven,NONE-kitchen:counter with:build-oven
+2360478	A baby looking at two parrots on a table.	NONE-baby:look at:NONE-parrot,NONE-baby:look at:NONE-parrot,NONE-parrot:on:NONE-table,NONE-parrot:on:NONE-table
+2360483	A person takes a photo of the side mirror on a bus.	NONE-person:take:NONE-photo,NONE-photo:of:NONE-mirror,NONE-mirror:on:NONE-bus
+2360484	a conveyer belt full of doughnuts rolling down the machine	NONE-belt:of:NONE-doughnut,NONE-doughnut:roll down:NONE-machine
+2360486	Odd red fire hydrant with an Asian lady standing next to it.	NONE-fire:hydrant with:NONE-lady,NONE-fire:hydrant with:asian-lady,red-fire:hydrant with:NONE-lady,red-fire:hydrant with:asian-lady,NONE-lady:stand to:NONE-fire,NONE-lady:stand to:red-fire,asian-lady:stand to:NONE-fire,asian-lady:stand to:red-fire
+2360488	A photo of a dirty bathroom with a sink and toilet.	NONE-photo:of:NONE-bathroom,NONE-photo:of:dirty-bathroom,NONE-photo:with:NONE-sink,NONE-photo:with:NONE-toilet
+2360489	A blurry photo shows men sitting in car seats playing Wii at a party.	NONE-photo:show:NONE-man,blurry-photo:show:NONE-man,NONE-man:sit in:NONE-seat
+2360491	A man swimming in a pool of blue water.	NONE-swimming:in:NONE-pool,NONE-swimming:of:NONE-water,NONE-swimming:of:blue-water
+2360494	A young boy standing in front of an open fridge.	NONE-standing:in:NONE-front,young-standing:in:NONE-front,NONE-standing:of:NONE-fridge,NONE-standing:of:open-fridge,young-standing:of:NONE-fridge,young-standing:of:open-fridge
+2360495	Man flying a kite from a roof top in an urban area.	NONE-man:fly:NONE-kite,NONE-man:fly from:NONE-top,NONE-top:in:NONE-area,NONE-top:in:urban-area
+2360496	A glass table with a laptop computer on top of it.	NONE-table:of:NONE-table,NONE-table:with:NONE-computer,NONE-table:with:laptop-computer,NONE-computer:on:NONE-top,laptop-computer:on:NONE-top
+2360498	Always put enough change in the parking meter.	NONE-Always:put:NONE-change,NONE-Always:put:enough-change,NONE-Always:put in:NONE-meter
+2360508	Two large birds flying over a beach next to water.	NONE-bird:fly over:NONE-beach,large-bird:fly over:NONE-beach,NONE-bird:fly next to:NONE-water,large-bird:fly next to:NONE-water,NONE-bird:fly over:NONE-beach,large-bird:fly over:NONE-beach,NONE-bird:fly next to:NONE-water,large-bird:fly next to:NONE-water
+2360510	two man sit at a table in a restaurant	NONE-man:sit at:NONE-table,NONE-table:in:NONE-restaurant
+2360511	Three elephants make their way down a hill into a reservoir.	NONE-elephant:have:NONE-way,NONE-elephant:make:NONE-way,NONE-elephant:have:NONE-way,NONE-elephant:make:NONE-way,NONE-elephant:have:NONE-way,NONE-elephant:make:NONE-way
+2360512	A bunch of boats along a market filled with various goods.	NONE-boat:along:NONE-market,NONE-boat:fill with:NONE-goods,NONE-boat:fill with:various-goods,NONE-boat:along:NONE-goods,NONE-boat:along:boat-goods,NONE-boat:fill with:NONE-goods,NONE-boat:fill with:boat-goods
+2360515	A  room filled with long tables topped with desktop computer.	NONE-room:fill with:NONE-table,NONE-room:fill with:long-table,NONE-room:top with:NONE-computer,NONE-room:top with:desktop-computer
+2360517	a tray in a corner of a room with buckets	NONE-tray:in:NONE-corner,NONE-corner:of:NONE-room,NONE-room:with:NONE-bucket
+2360522	A owman is posing next ot wine bottles at a bar.	NONE-owman:pose:NONE-bottle,NONE-owman:pose:next-bottle,NONE-owman:pose at:NONE-bar
+2360525	A living room with a lit fireplace in front of a couch.	NONE-room:with:NONE-fireplace,NONE-room:with:lit-fireplace,live-room:with:NONE-fireplace,live-room:with:lit-fireplace,NONE-fireplace:in front of:NONE-couch,lit-fireplace:in front of:NONE-couch
+2360526	people standing outside a building with clocks built into the side of it	NONE-people:stand outside:NONE-building,NONE-people:with:NONE-clock,NONE-people:stand outside:NONE-building,NONE-people:with:NONE-clock,NONE-clock:build into:NONE-side,NONE-side:of:NONE-building
+2360528	A man holding a white surfboard standing in the ocean.	NONE-man:hold:NONE-standing,NONE-man:hold:white-standing,NONE-man:hold in:NONE-ocean
+2360531	A white bowl filled with banana slices and oatmeal.	NONE-bowl:fill with:NONE-slice,white-bowl:fill with:NONE-slice,NONE-bowl:fill with:NONE-oatmeal,white-bowl:fill with:NONE-oatmeal
+2360536	A herd of zebra standing on a green grass covered field.	NONE-herd:of:NONE-standing,NONE-herd:cover:NONE-field,NONE-standing:on:NONE-grass,NONE-standing:on:green-grass
+2360537	A tray filled with croissants with hotdogs in the middle	NONE-tray:fill with:NONE-croissant,NONE-croissant:with:NONE-hotdog,NONE-hotdog:in:NONE-middle
+2360541	A man sleeping on top of a green bench next to a forest.	NONE-man:sleep on top of:NONE-bench,NONE-man:sleep on top of:green-bench,NONE-man:sleep next to:NONE-forest
+2360545	A woman swings a racket inside of a tennis machine.	NONE-woman:swing:NONE-inside,NONE-inside:of:NONE-machine
+2360550	The traffic light and street sign are on a pole on the sidewalk.	NONE-light:on:NONE-pole,NONE-sign:on:NONE-pole,NONE-pole:on:NONE-sidewalk
+2360556	A boy standing in front of a skateboard.	NONE-standing:in:NONE-front,NONE-standing:of:NONE-skateboard
+2360558	A mother and child standing in front of a group of elephants.	NONE-standing:in:NONE-front,NONE-standing:of:NONE-group,NONE-group:of:NONE-elephant
+2360560	A man walking down the road with an elephant.	NONE-man:walk down:NONE-road,NONE-road:with:NONE-elephant
+2360566	Two girls playing soccer while the rest of the team watches.	NONE-girl:play:NONE-soccer,NONE-girl:play:NONE-soccer,NONE-rest:of:NONE-team,watch-rest:of:NONE-team
+2339425	A sidewalk and doughnut shop with a bike leaning against the building	NONE-shop:with:NONE-bike,NONE-bike:lean against:NONE-building
+2360570	Black and white photograph of a cow in a field.	NONE-photograph:of:NONE-cow,white-photograph:of:NONE-cow,black-photograph:of:NONE-cow,NONE-photograph:in:NONE-field,white-photograph:in:NONE-field,black-photograph:in:NONE-field
+2360572	A bus parked on the side of a street next to a  tree.	NONE-bus:park on:NONE-side,NONE-bus:park to:NONE-tree,NONE-side:of:NONE-street,NONE-side:of:next-street
+2360575	A large kitchen with a center island topped with plates of food.	NONE-kitchen:with:NONE-island,large-kitchen:with:NONE-island,NONE-kitchen:top with:NONE-plate,large-kitchen:top with:NONE-plate,NONE-plate:of:NONE-food
+2360576	Two bananas sitting on a floor next to a pile of pennies.	NONE-banana:sit on:NONE-floor,NONE-banana:sit on:next-floor,NONE-banana:sit to:NONE-pile,NONE-banana:sit on:NONE-floor,NONE-banana:sit on:next-floor,NONE-banana:sit to:NONE-pile,NONE-pile:of:NONE-penny
+2360578	A woman in stockings looks at herself in the mirror on the bed.	NONE-woman:look at:NONE-woman,NONE-woman:in:NONE-stocking,NONE-woman:look in:NONE-mirror,NONE-mirror:on:NONE-bed
+2360586	A group of jockeys racing out of a gate at a horse track.	NONE-group:of:NONE-jockey,NONE-group:of:NONE-gate,NONE-group:at:NONE-track
+2360589	A model train on a play set with a track.	NONE-model:train on:NONE-play,NONE-play:set with:NONE-track
+2360593	A man jumping a horse over an obstacle.	NONE-man:jump:NONE-horse,NONE-horse:over:NONE-obstacle
+2360599	A red extra long bus driving down a stone covered walkway.	NONE-bus:drive down:NONE-stone,red-bus:drive down:NONE-stone,extra-bus:drive down:NONE-stone,long-bus:drive down:NONE-stone,NONE-bus:cover:NONE-walkway,red-bus:cover:NONE-walkway,extra-bus:cover:NONE-walkway,long-bus:cover:NONE-walkway
+2360604	There are no people outside the building on the street corner.	NONE-people:outside:NONE-building,NONE-people:outside:NONE-building,NONE-building:on:NONE-corner
+2360605	A bathroom with an enclosed shower door next to a toilet.	NONE-bathroom:with:NONE-door,NONE-bathroom:with:enclosed-door,NONE-bathroom:next to:NONE-toilet
+2360613	Two people looking up a kites flying in the sky.	NONE-people:look up:NONE-kite,NONE-people:look up:NONE-kite,NONE-kite:fly in:NONE-sky
+2360615	A black cat standing inside of a piece of luggage.	NONE-cat:stand of:NONE-piece,black-cat:stand of:NONE-piece,NONE-piece:of:NONE-luggage
+2360619	A cat in a room with a rug and a backpack.	NONE-cat:in:NONE-room,NONE-cat:with:NONE-rug,NONE-cat:with:NONE-backpack
+2360622	A city street with lots of cars and buildings.	NONE-street:with:NONE-lot,NONE-street:of:NONE-car,NONE-street:of:NONE-building
+2360623	Parking signs mounted on top of a yellow rail.	NONE-sign:mount on top of:NONE-rail,NONE-sign:mount on top of:yellow-rail,park-sign:mount on top of:NONE-rail,park-sign:mount on top of:yellow-rail,NONE-sign:mount on top of:NONE-rail,NONE-sign:mount on top of:yellow-rail,park-sign:mount on top of:NONE-rail,park-sign:mount on top of:yellow-rail
+2360624	A wooden area on a ship with lots of food.	NONE-area:on:NONE-ship,wooden-area:on:NONE-ship,NONE-area:with:NONE-food,wooden-area:with:NONE-food
+2360625	A motorcycle parked in a parking lot next to a car.	NONE-motorcycle:park in:NONE-lot,NONE-motorcycle:park next to:NONE-car
+2360627	there are two zebras eating on a little bit of loose grass	NONE-zebra:eat on:NONE-grass,NONE-zebra:eat on:loose-grass,NONE-zebra:eat on:NONE-grass,NONE-zebra:eat on:loose-grass
+2360630	A man riding a snowboard down a snow covered slope.	NONE-man:ride:NONE-snowboard,NONE-man:cover:NONE-slope
+2360634	A few men walking through a market place.	NONE-man:walk through:NONE-place,few-man:walk through:NONE-place,NONE-man:walk through:NONE-place,few-man:walk through:NONE-place
+2360636	A woman that is sitting on a bed near a phone and lamp.	NONE-bed:near:NONE-phone,NONE-bed:near:NONE-lamp
+2360637	Girl in orange and blue getting ready to hit a ball.	NONE-Girl:in:NONE-orange,NONE-Girl:in:NONE-blue
+2360639	A child in a red jacket with a frisbee on his head	NONE-child:in:NONE-jacket,NONE-child:in:red-jacket,NONE-child:with:NONE-frisbee,NONE-child:have:NONE-head,NONE-child:on:NONE-head
+2360642	A large man is making his way down a path on a skateboard.	NONE-man:have:NONE-way,large-man:have:NONE-way,NONE-man:make:NONE-way,large-man:make:NONE-way,NONE-man:make on:NONE-skateboard,large-man:make on:NONE-skateboard
+2360643	A group of people walking down a street.	NONE-group:of:NONE-people,NONE-group:walk down:NONE-street
+2360647	A dog looking at the pizza in front.	NONE-dog:look at:NONE-pizza,NONE-pizza:in:NONE-front
+2360649	cars wait at red light at an intersection by mountains	NONE-car:wait at:NONE-light,NONE-car:wait at:red-light,NONE-car:wait by:NONE-mountain,NONE-car:wait at:NONE-light,NONE-car:wait at:red-light,NONE-car:wait by:NONE-mountain,NONE-light:at:NONE-intersection,red-light:at:NONE-intersection
+2360656	two images of a double fault in a tennis game	NONE-image:of:NONE-fault,NONE-image:of:double-fault,NONE-image:of:NONE-fault,NONE-image:of:double-fault,NONE-fault:in:NONE-game,double-fault:in:NONE-game
+2360658	A  street filled with cars next to a line up of street light.	NONE-street:fill with:NONE-car,NONE-street:fill next to:NONE-line
+2360660	A person in orange jacket doing trick on a snowboard.	NONE-person:in:NONE-jacket,NONE-person:in:orange-jacket,NONE-person:do:NONE-trick,NONE-person:do on:NONE-snowboard
+2360662	Sheep grazing in a rough field with short grass.	NONE-grazing:in:NONE-field,NONE-grazing:in:rough-field,sheep-grazing:in:NONE-field,sheep-grazing:in:rough-field,NONE-grazing:with:NONE-grass,NONE-grazing:with:short-grass,sheep-grazing:with:NONE-grass,sheep-grazing:with:short-grass
+2360663	A woman standing in a park with a paper cutout boat.	NONE-woman:stand in:NONE-park,NONE-park:with:NONE-boat
+2360665	there are several men sitting at a table siting pizza	NONE-man:sit at:NONE-pizza,NONE-man:sit at:site-pizza,several-man:sit at:NONE-pizza,several-man:sit at:site-pizza,NONE-man:sit at:NONE-pizza,NONE-man:sit at:site-pizza,several-man:sit at:NONE-pizza,several-man:sit at:site-pizza
+2360667	a man with a brown suit, sitting at a table with microphone, listening.	NONE-man:with:NONE-suit,NONE-man:with:brown-suit,NONE-man:sit at:NONE-table,NONE-table:with:NONE-microphone
+2360669	A quesadilla sitting on top of a counter covered in cheese.	NONE-quesadilla:sit on top of:NONE-counter,NONE-quesadilla:cover in:NONE-cheese
+2360670	A man in a suit sits at a table.	NONE-man:in:NONE-suit,NONE-man:sit at:NONE-table
+2360676	A man riding on the back of a horse next to two elephants.	NONE-man:ride on:NONE-back,NONE-back:of:NONE-horse,NONE-horse:next to:NONE-elephant,NONE-horse:next to:NONE-elephant
+2360677	A giraffe walks the grasslands by himself at sunset.	NONE-giraffe:walk by:NONE-giraffe,NONE-giraffe:walk:NONE-grassland,NONE-giraffe:walk at:NONE-sunset
+2360684	Scene of a walled in territory that looks great.	NONE-Scene:of:NONE-walled,NONE-walled:in:NONE-territory
+2360695	A public bathroom stall with a toilet and trashcan.	NONE-stall:with:NONE-toilet,public-stall:with:NONE-toilet,NONE-stall:with:NONE-trashcan,public-stall:with:NONE-trashcan
+2360698	A colorful carnival with many people attending it.	NONE-carnival:attend:NONE-carnival,NONE-carnival:attend:colorful-carnival,colorful-carnival:attend:NONE-carnival,colorful-carnival:attend:colorful-carnival,NONE-carnival:with:NONE-people,NONE-carnival:with:many-people,colorful-carnival:with:NONE-people,colorful-carnival:with:many-people
+2360699	A pizza topped with globs of white cheese.	NONE-pizza:top with:NONE-glob,NONE-glob:of:NONE-cheese,NONE-glob:of:white-cheese
+2360700	A man sitting on a bench with his tennis racket getting ready to play a match.	NONE-man:sit on:NONE-bench,NONE-man:have:NONE-racket,NONE-bench:with:NONE-racket
+2360701	A baby bundled up in blankets on the bed.	NONE-baby:bundle up in:NONE-blanket,NONE-blanket:on:NONE-bed
+2360704	The truck carrying bundles of logs passes a park.	NONE-truck:carry:NONE-bundle,NONE-truck:pass:NONE-park,NONE-bundle:of:NONE-logs
+2360705	A woman in a yellow jacket standing against a concrete wall.	NONE-woman:in:NONE-standing,NONE-woman:in:yellow-standing,NONE-woman:against:NONE-wall,NONE-woman:against:concrete-wall
+2360706	Elephants are in a long line with people on top of them.	NONE-elephant:in:NONE-line,NONE-elephant:in:long-line,NONE-elephant:in:NONE-line,NONE-elephant:in:long-line,NONE-line:with:NONE-people,long-line:with:NONE-people,NONE-line:with:NONE-people,long-line:with:NONE-people,NONE-people:on top of:NONE-line,NONE-people:on top of:long-line,NONE-people:on top of:NONE-elephant
+2360708	A black bear holding branches in hand next to a tree.	NONE-bear:hold:NONE-branch,black-bear:hold:NONE-branch,NONE-bear:hold next to:NONE-tree,black-bear:hold next to:NONE-tree,NONE-branch:in:NONE-hand
+2360710	The inside of a warehouse like structure that has a round clock with roman numerals on it hanging from the ceiling.	NONE-inside:of:NONE-warehouse,NONE-inside:like:NONE-structure,NONE-inside:hang from:NONE-ceiling,NONE-clock:with:NONE-numeral,NONE-numeral:hang from:NONE-ceiling
+2360715	Plane getting ready for takeoff on the runway at airport.	NONE-Plane:get on:NONE-runway,NONE-runway:at:NONE-airport
+2360722	a large tower with a clock in the middle of town with cars parked along the street	NONE-tower:with:NONE-clock,large-tower:with:NONE-clock,NONE-tower:with:NONE-car,large-tower:with:NONE-car,NONE-clock:in:NONE-middle,NONE-middle:of:NONE-town,NONE-car:park along:NONE-street
+2360723	Benches on a paved deck overlooking a waterway	NONE-bench:on:NONE-deck,NONE-bench:on:paved-deck,NONE-bench:on:NONE-deck,NONE-bench:on:paved-deck,NONE-deck:overlook:NONE-waterway,paved-deck:overlook:NONE-waterway
+2360724	a opened book and half of a mask sit on a floor	NONE-half:of:NONE-mask,NONE-half:sit on:NONE-floor
+2360727	A beautiful young lady eating a candy apple on an amusement park ride.	NONE-lady:eat:NONE-apple,beautiful-lady:eat:NONE-apple,young-lady:eat:NONE-apple,NONE-lady:eat on:NONE-ride,beautiful-lady:eat on:NONE-ride,young-lady:eat on:NONE-ride
+2360730	A giraffe stands in the grass near an ostrich.	NONE-giraffe:stand in:NONE-grass,NONE-grass:near:NONE-ostrich
+2360731	A young girl sits inside of a luggage bag.	NONE-girl:sit:NONE-inside,young-girl:sit:NONE-inside,NONE-inside:of:NONE-bag,NONE-inside:of:luggage-bag
+2360733	Street Lights and a clock light up the night sky.	NONE-light:light up:NONE-sky,NONE-light:light up:NONE-sky,NONE-clock:light up:NONE-sky
+2360736	Iced carrot cake on a table with odd type of cola.	NONE-cake:on:NONE-table,iced-cake:on:NONE-table,NONE-cake:of:NONE-cola,iced-cake:of:NONE-cola,NONE-table:with:NONE-type,NONE-table:with:odd-type
+2360741	A row of motorcycles parked in front of a building.	NONE-row:of:NONE-motorcycle,NONE-row:park in front of:NONE-building
+2360742	A young boy sitting at a table with a donut and bottle of juice.	NONE-boy:sit at:NONE-table,young-boy:sit at:NONE-table,NONE-table:with:NONE-donut,NONE-table:with:NONE-bottle,NONE-donut:of:NONE-juice
+2360748	A man talking on a cell phone in his car.	NONE-man:talk on:NONE-phone,NONE-man:have:NONE-car,NONE-phone:in:NONE-car
+2360749	Two brown street signs sitting on a wooden pole.	NONE-sign:sit on:NONE-pole,NONE-sign:sit on:wooden-pole,brown-sign:sit on:NONE-pole,brown-sign:sit on:wooden-pole,NONE-sign:sit on:NONE-pole,NONE-sign:sit on:wooden-pole,brown-sign:sit on:NONE-pole,brown-sign:sit on:wooden-pole
+2360757	A picture of a person brushing her teeth.	NONE-picture:of:NONE-person,NONE-picture:brush:NONE-tooth,NONE-picture:have:NONE-tooth
+2360759	A lady looks out onto the city from behind a giant clock.	NONE-lady:look out onto:NONE-city,NONE-lady:look out behind:NONE-clock,NONE-lady:look out behind:giant-clock
+2360760	A young man swinging a baseball bat on a baseball field.	NONE-man:swing:NONE-bat,young-man:swing:NONE-bat,NONE-man:swing on:NONE-field,young-man:swing on:NONE-field
+2360764	A kitchen filled with wooden cabinets and a white refrigerator.	NONE-kitchen:fill with:NONE-cabinet,NONE-kitchen:fill with:wooden-cabinet,NONE-kitchen:fill with:NONE-refrigerator,NONE-kitchen:fill with:white-refrigerator
+2360765	A woman in a blue shirt standing in a living room holding a game controller.	NONE-woman:in:NONE-standing,NONE-woman:in:blue-standing,NONE-standing:in:NONE-room,NONE-standing:in:live-room,blue-standing:in:NONE-room,blue-standing:in:live-room,NONE-room:hold:NONE-controller,live-room:hold:NONE-controller
+2360766	A bowl of donuts and gallon jugs of apple cider.	NONE-bowl:of:NONE-donut,NONE-bowl:of:NONE-jug,NONE-bowl:of:NONE-cider
+2360776	A woman and her child sitting nest to a man on a park bench.	NONE-woman:have:NONE-child,NONE-woman:sit:NONE-nest,NONE-woman:sit to:NONE-man,NONE-man:on:NONE-bench
+2360780	A large vase filled with white roses sitting on a table next to a mirror.	NONE-vase:fill with:NONE-rose,NONE-vase:fill with:white-rose,large-vase:fill with:NONE-rose,large-vase:fill with:white-rose,NONE-rose:sit on:NONE-table,white-rose:sit on:NONE-table,NONE-rose:sit next to:NONE-mirror,white-rose:sit next to:NONE-mirror
+2360788	A row of statues lined up next to a building.	NONE-row:of:NONE-statue,NONE-row:line to:NONE-building
+2360790	A toilet in a stall with remote control buttons.	NONE-toilet:in:NONE-stall,NONE-toilet:with:NONE-button,NONE-toilet:with:remote-button
+2360791	A group of people with remotes in a room.	NONE-group:of:NONE-people,NONE-group:in:NONE-room,NONE-people:with:NONE-remote
+2360796	A group of three people holding ski poles on top of a ski slope.	NONE-group:of:NONE-people,NONE-group:of:NONE-people,NONE-group:of:NONE-people,NONE-group:hold:NONE-pole,NONE-group:hold:ski-pole,NONE-group:hold on top of:NONE-slope,NONE-group:hold on top of:ski-slope
+2360798	A view of the living room of a house.	NONE-view:of:NONE-room,NONE-view:of:live-room,NONE-room:of:NONE-house,live-room:of:NONE-house
+2360807	A picture of a person walking down the road.	NONE-picture:of:NONE-person,NONE-picture:walk down:NONE-road
+2360808	Cooked broccoli and cauliflower covered with creamy cheese.	NONE-broccoli:cover with:NONE-cheese,NONE-broccoli:cover with:creamy-cheese,cooked-broccoli:cover with:NONE-cheese,cooked-broccoli:cover with:creamy-cheese,NONE-cauliflower:cover with:NONE-cheese,NONE-cauliflower:cover with:creamy-cheese
+2360814	The meal with broccoli and rice has lemon on the plate.	NONE-meal:with:NONE-broccoli,NONE-meal:with:NONE-rice,NONE-meal:lemon on:NONE-plate
+2360815	A group of children with school bags looking out a window	NONE-group:of:NONE-child,NONE-bag:look out:NONE-window,NONE-bag:look out:NONE-window
+2360816	A line of people are riding bicycles on the street.	NONE-line:of:NONE-people,NONE-line:ride:NONE-bicycle,NONE-line:ride on:NONE-street
+2360817	A cat looking concerned standing in a doorway of a bathroom.	NONE-cat:look:NONE-standing,NONE-cat:look:concerned-standing,NONE-cat:look in:NONE-doorway,NONE-doorway:of:NONE-bathroom
+2360818	A person has some sandwiches on their lap.	NONE-person:have:NONE-sandwich,NONE-person:have:NONE-lap,NONE-sandwich:on:NONE-lap
+2360819	A group of people enjoying a day at the beach.	NONE-group:of:NONE-people,NONE-group:enjoy tmod:NONE-day,NONE-group:enjoy at:NONE-beach
+2360826	An old barn in the background with yellow bus stop sign in the foreground.	NONE-barn:in:NONE-background,old-barn:in:NONE-background,NONE-barn:stop:NONE-sign,old-barn:stop:NONE-sign,NONE-background:with:NONE-bus,NONE-background:with:yellow-bus,NONE-sign:in:NONE-foreground
+2360829	A baseball player hitting a ball with  a bat.	NONE-player:hit:NONE-ball,NONE-player:hit with:NONE-bat
+2360830	A large airplane in front of another plane sitting in an airport.	NONE-airplane:in front of:NONE-plane,large-airplane:in front of:NONE-plane,NONE-airplane:sit in:NONE-airport,large-airplane:sit in:NONE-airport
+2360832	A man tosses a Frisbee across the beach.	NONE-man:toss:NONE-Frisbee,NONE-Frisbee:across:NONE-beach
+2360835	A man flying into the air on top of a skateboard ramp.	NONE-man:fly into:NONE-air,NONE-air:on top of:NONE-ramp,NONE-air:on top of:skateboard-ramp
+2360838	A plate of cut food with a fork on a table.	NONE-plate:of:NONE-food,NONE-plate:with:NONE-fork,NONE-fork:on:NONE-table
+2360843	A tower with a clock that has a blue sky in the background.	NONE-tower:with:NONE-clock,NONE-sky:in:NONE-background,blue-sky:in:NONE-background
+2360844	A large, old country house with sheep grazing in the yard	NONE-house:with:NONE-grazing,NONE-grazing:in:NONE-yard
+2360846	A residential kitchen with wood cabinets and flooring and a large window.	NONE-kitchen:with:NONE-cabinet,residential-kitchen:with:NONE-cabinet,NONE-kitchen:with:NONE-flooring,residential-kitchen:with:NONE-flooring,NONE-kitchen:with:NONE-window,NONE-kitchen:with:large-window,residential-kitchen:with:NONE-window,residential-kitchen:with:large-window
+2360848	A giraffe standing in a forest covered in grass and trees.	NONE-standing:in:NONE-forest,NONE-standing:cover in:NONE-grass,NONE-standing:cover in:NONE-tree
+2360854	A bus driving down a road next to a brown bear.	NONE-bus:drive down:NONE-road,NONE-road:next to:NONE-bear,NONE-road:next to:brown-bear
+2360859	A bathroom with a toilet and a sink next to a tub.	NONE-bathroom:with:NONE-toilet,NONE-bathroom:with:NONE-sink,NONE-bathroom:next to:NONE-tub
+2360861	A woman riding skis down a snow covered slope.	NONE-woman:ride:NONE-ski,NONE-woman:cover:NONE-slope
+2360862	A black bear walking through a tree filled forest.	NONE-bear:walk through:NONE-tree,black-bear:walk through:NONE-tree,NONE-bear:fill:NONE-forest,black-bear:fill:NONE-forest
+2360865	A woman with a funny smirk holds cake on a plate and wears a blue sweatshirt.	NONE-woman:with:NONE-smirk,NONE-woman:with:funny-smirk,NONE-woman:hold:NONE-cake,NONE-woman:hold on:NONE-plate,NONE-woman:wear:NONE-sweatshirt,NONE-woman:wear:blue-sweatshirt
+2360870	The woman in uniform is using a sword to cut a cake.	NONE-woman:in:NONE-uniform,NONE-woman:use:NONE-sword,NONE-sword:cut:NONE-cake
+2360874	Potatoes sitting underneath a bunch of bananas.	NONE-potato:sit underneath:NONE-banana,NONE-potato:sit underneath:NONE-banana
+2360876	A couple of knights riding horses on a green ground.	NONE-couple:ride:NONE-horse,NONE-couple:ride on:NONE-ground,NONE-couple:ride on:green-ground
+2360877	A person standing next to a white bus in a parking lot.	NONE-person:stand next to:NONE-bus,NONE-person:stand next to:white-bus,NONE-person:stand in:NONE-lot
+2360878	two giraffes and an elk in the brush	NONE-giraffe:in:NONE-brush,NONE-giraffe:in:NONE-brush
+2360882	Commuter train stopped on tracks at red light, green light further up the track.	NONE-train:stop on:NONE-track,commuter-train:stop on:NONE-track,NONE-train:stop up:NONE-track,commuter-train:stop up:NONE-track,NONE-track:at:NONE-light,NONE-track:at:red-light
+2360900	A room with various pictures on it and an unkept bed is shown.	NONE-room:with:NONE-picture,NONE-room:with:various-picture,NONE-picture:on:NONE-room,various-picture:on:NONE-room,NONE-picture:on:NONE-bed,NONE-picture:on:unkept-bed,various-picture:on:NONE-bed,various-picture:on:unkept-bed
+2360903	A Wii box sits on a desk by the wall.	NONE-box:sit on:NONE-desk,NONE-box:sit by:NONE-wall
+2360904	A room filled with tables of unripe bananas.	NONE-room:fill with:NONE-table,NONE-table:of:NONE-banana,NONE-table:of:unripe-banana
+2360905	A person dressed as a giraffe carrying a bullhorn.	NONE-person:dress as:NONE-giraffe,NONE-giraffe:carry:NONE-bullhorn
+2360906	A group of people walking down a city street.	NONE-group:of:NONE-people,NONE-group:walk down:NONE-street
+2360909	A baseball player holding a bat near home plate.	NONE-player:hold:NONE-bat,NONE-bat:near:NONE-plate
+2360912	A large kite with a strange face on it	NONE-kite:with:NONE-face,NONE-kite:with:strange-face,large-kite:with:NONE-face,large-kite:with:strange-face,NONE-face:on:NONE-kite,NONE-face:on:large-kite,strange-face:on:NONE-kite,strange-face:on:large-kite
+2360916	Three broken toilets are on the side of the road one of them is shattered into many pieces.	NONE-toilet:on:NONE-side,broken-toilet:on:NONE-side,NONE-toilet:on:NONE-side,broken-toilet:on:NONE-side,NONE-toilet:on:NONE-side,broken-toilet:on:NONE-side,NONE-side:of:NONE-road
+2360917	A sandwich with lettuce and tomatoes sits on a box in a park.	NONE-sandwich:with:NONE-lettuce,NONE-sandwich:with:NONE-tomato,NONE-sandwich:sit on:NONE-box,NONE-box:in:NONE-park
+2360919	A man with a bald head wearing a pair of glases.	NONE-man:with:NONE-head,NONE-man:with:bald-head,NONE-man:wear:NONE-glase
+2360922	A gray cat lying on a desk near a telephone.	NONE-cat:lie on:NONE-desk,gray-cat:lie on:NONE-desk,NONE-desk:near:NONE-telephone
+2360923	A person riding a snow board on a snow covered slope.	NONE-person:ride:NONE-board,NONE-person:ride on:NONE-snow,NONE-person:cover:NONE-slope
+2360925	Roadway signs on post on sidewalk of large urban city.	NONE-sign:on:NONE-post,roadway-sign:on:NONE-post,NONE-sign:on:NONE-sidewalk,roadway-sign:on:NONE-sidewalk,NONE-sign:of:NONE-city,NONE-sign:of:large-city,NONE-sign:of:urban-city,roadway-sign:of:NONE-city,roadway-sign:of:large-city,roadway-sign:of:urban-city,NONE-sign:on:NONE-post,roadway-sign:on:NONE-post,NONE-sign:on:NONE-sidewalk,roadway-sign:on:NONE-sidewalk,NONE-sign:of:NONE-city,NONE-sign:of:large-city,NONE-sign:of:urban-city,roadway-sign:of:NONE-city,roadway-sign:of:large-city,roadway-sign:of:urban-city
+2360926	A young boy holding up a kite over a dirty road.	NONE-boy:hold up:NONE-kite,young-boy:hold up:NONE-kite,NONE-kite:over:NONE-road,NONE-kite:over:dirty-road
+2360927	A kitten in a bathroom pulling toilet paper from a roll.	NONE-kitten:in:NONE-bathroom,NONE-kitten:pull:NONE-paper,NONE-kitten:pull from:NONE-roll
+2360930	Two giraffes on grass between trees and bushes.	NONE-giraffe:on:NONE-grass,NONE-giraffe:between:NONE-tree,NONE-giraffe:between:NONE-bush,NONE-giraffe:on:NONE-grass,NONE-giraffe:between:NONE-tree,NONE-giraffe:between:NONE-bush
+2360932	A white bed set with seven soft pillows.	NONE-bed:set with:NONE-pillow,NONE-bed:set with:soft-pillow,white-bed:set with:NONE-pillow,white-bed:set with:soft-pillow,NONE-bed:set with:NONE-pillow,NONE-bed:set with:soft-pillow,white-bed:set with:NONE-pillow,white-bed:set with:soft-pillow,NONE-bed:set with:NONE-pillow,NONE-bed:set with:soft-pillow,white-bed:set with:NONE-pillow,white-bed:set with:soft-pillow,NONE-bed:set with:NONE-pillow,NONE-bed:set with:soft-pillow,white-bed:set with:NONE-pillow,white-bed:set with:soft-pillow,NONE-bed:set with:NONE-pillow,NONE-bed:set with:soft-pillow,white-bed:set with:NONE-pillow,white-bed:set with:soft-pillow,NONE-bed:set with:NONE-pillow,NONE-bed:set with:soft-pillow,white-bed:set with:NONE-pillow,white-bed:set with:soft-pillow,NONE-bed:set with:NONE-pillow,NONE-bed:set with:soft-pillow,white-bed:set with:NONE-pillow,white-bed:set with:soft-pillow
+2360935	A pair of laptops with mouses sitting on tv trays.	NONE-pair:sit on:NONE-tray,NONE-laptop:with:NONE-mouse,NONE-laptop:with:NONE-mouse
+2360937	A man is jumping on a ski board across some snow.	NONE-man:jump on:NONE-board,NONE-man:jump on:ski-board,NONE-board:across:NONE-snow,ski-board:across:NONE-snow
+2360938	a gray bird is walking around a white and blue boat and water	NONE-bird:walk around:NONE-boat,NONE-bird:walk around:white-boat,NONE-bird:walk around:blue-boat,gray-bird:walk around:NONE-boat,gray-bird:walk around:white-boat,gray-bird:walk around:blue-boat,NONE-bird:walk around:NONE-water,gray-bird:walk around:NONE-water
+2360942	The group of people are flying their kites in the field.	NONE-group:of:NONE-people,NONE-group:fly:NONE-kite,NONE-group:have:NONE-kite,NONE-group:fly in:NONE-field
+2360943	A man and a woman open a pizza box.	NONE-man:open:NONE-box,NONE-woman:open:NONE-box
+2360946	The fire hydrant next to the vegetation and trees.	NONE-fire:hydrant to:NONE-vegetation,NONE-fire:hydrant to:NONE-tree
+2360947	Two people standing on a snow covered road next to an adorable brown dog.	NONE-people:stand on:NONE-snow,NONE-people:cover:NONE-road,NONE-people:cover:next-road,NONE-people:cover to:NONE-dog,NONE-people:cover to:brown-dog,NONE-people:cover to:adorable-dog,NONE-people:stand on:NONE-snow,NONE-people:cover:NONE-road,NONE-people:cover:next-road,NONE-people:cover to:NONE-dog,NONE-people:cover to:brown-dog,NONE-people:cover to:adorable-dog
+2360958	A boy taking a picture of himself in mirror.	NONE-boy:take:NONE-picture,NONE-boy:take in:NONE-mirror,NONE-picture:of:NONE-boy
+2360959	A man rides a silver motorcycle down the street in town.	NONE-man:ride:NONE-motorcycle,NONE-man:ride:silver-motorcycle,NONE-man:ride down:NONE-street,NONE-man:ride in:NONE-town
+2360962	A living room area with some couches and a television	NONE-area:with:NONE-couch,NONE-area:with:NONE-television
+2360964	A hipster drinking a bottle of water while wearing a skull tie.	NONE-hipster:drink:NONE-bottle,NONE-bottle:of:NONE-water
+2360965	A group of people sitting at tables eating pizza.	NONE-group:of:NONE-people,NONE-group:sit at:NONE-table,NONE-table:eat:NONE-pizza
+2360966	Many children are posing together outside of the building window.	NONE-child:pose of:NONE-window,many-child:pose of:NONE-window,NONE-child:pose of:NONE-window,many-child:pose of:NONE-window
+2360967	a cake with pineapples and cherries on the top of it.	NONE-cake:with:NONE-pineapple,NONE-cake:with:NONE-cherry,NONE-cake:on:NONE-top,NONE-top:of:NONE-cake
+2360968	A factory floor with people wearing business attire exchanging cards.	NONE-floor:with:NONE-people,NONE-floor:wear:NONE-attire
+2360970	A pan with a pizza on it with a spoon and a pizza cutter.	NONE-pan:with:NONE-pizza,NONE-pan:with:NONE-spoon,NONE-pan:with:NONE-cutter,NONE-pizza:on:NONE-pan
+2360971	A golfer has his golf club up in the hitting position.	NONE-golfer:have:NONE-club,NONE-golfer:have:NONE-club
+2360972	A group of fighter jets flying in formation.	NONE-group:of:NONE-jet,NONE-group:fly in:NONE-formation
+2360974	Some colorful umbrellas somewhere in a shaded area during a sunny day.	NONE-umbrella:in:NONE-area,NONE-umbrella:in:shaded-area,colorful-umbrella:in:NONE-area,colorful-umbrella:in:shaded-area,NONE-umbrella:during:NONE-day,NONE-umbrella:during:sunny-day,colorful-umbrella:during:NONE-day,colorful-umbrella:during:sunny-day,NONE-umbrella:in:NONE-area,NONE-umbrella:in:shaded-area,colorful-umbrella:in:NONE-area,colorful-umbrella:in:shaded-area,NONE-umbrella:during:NONE-day,NONE-umbrella:during:sunny-day,colorful-umbrella:during:NONE-day,colorful-umbrella:during:sunny-day
+2360975	a man jumps very high over a snow-covered ramp with his snowboard	NONE-man:have:NONE-snowboard,jump-man:have:NONE-snowboard,NONE-ramp:with:NONE-snowboard,snowcovered-ramp:with:NONE-snowboard
+2360976	An elephant in the wild walking by a house.	NONE-elephant:in:NONE-walking,NONE-elephant:in:wild-walking,NONE-elephant:by:NONE-house
+2360978	Series of different signs hanging in front of buildings on a city street.	NONE-Series:of:NONE-sign,NONE-Series:of:different-sign,NONE-Series:hang in front of:NONE-building,NONE-building:on:NONE-street
+2360982	A woman standing on a tennis court reaching for a tennis ball,	NONE-standing:on:NONE-court,NONE-standing:reach for:NONE-ball
+2360985	A living room with hard wood floors with a computer on a  desk.	NONE-room:with:NONE-floor,NONE-room:with:hard-floor,live-room:with:NONE-floor,live-room:with:hard-floor,NONE-floor:with:NONE-computer,hard-floor:with:NONE-computer,NONE-computer:on:NONE-desk
+2360989	restroom with blue bath tub and orange walls	NONE-restroom:with:NONE-tub,NONE-restroom:with:blue-tub,NONE-restroom:with:NONE-wall
+2360990	A man with a surfboard is walking along the beach.	NONE-man:with:NONE-surfboard,NONE-man:walk along:NONE-beach
+2360994	A man standing in front of an elephant hands two children something	NONE-standing:in:NONE-front,NONE-standing:of:NONE-elephant
+2360995	A young man standing next to a wall with a bird painted on it.	NONE-man:paint on:NONE-man,NONE-man:paint on:young-man,young-man:paint on:NONE-man,young-man:paint on:young-man,NONE-man:stand next to:NONE-wall,young-man:stand next to:NONE-wall,NONE-man:stand with:NONE-bird,young-man:stand with:NONE-bird
+2360996	A child eating out of a bowl with a small skateboard in front of him.	NONE-child:eat out of:NONE-bowl,NONE-child:eat out with:NONE-skateboard,NONE-child:eat out with:small-skateboard,NONE-skateboard:in front of:NONE-child,small-skateboard:in front of:NONE-child
+2360997	A kitchen view of a dining table with a bowl with bananas.	NONE-view:of:NONE-table,NONE-view:with:NONE-bowl,NONE-bowl:with:NONE-banana
+2360999	A woman holding a tennis racquet on a tennis court.	NONE-woman:hold:NONE-racquet,NONE-woman:hold on:NONE-court
+2361002	A white toilet sitting in a restroom next to a sink.	NONE-toilet:sit in:NONE-restroom,white-toilet:sit in:NONE-restroom,NONE-toilet:sit next to:NONE-sink,white-toilet:sit next to:NONE-sink
+2361003	A  herd of elephants cooling off in the water	NONE-herd:of:NONE-elephant,NONE-elephant:cool off in:NONE-water
+2361004	A young man with red hair kicking a soccer ball.	NONE-man:with:NONE-hair,NONE-man:with:red-hair,young-man:with:NONE-hair,young-man:with:red-hair,NONE-man:kick:NONE-ball,young-man:kick:NONE-ball
+2361005	The clock is near the roof of the church building.	NONE-clock:near:NONE-roof,NONE-roof:of:NONE-building
+2361007	A tennis player on a clay surface awaits his opponent's serve.	NONE-player:on:NONE-surface,NONE-player:have:NONE-opponent,NONE-player:await:NONE-serve,NONE-opponent:have:NONE-serve
+2361011	A girl using a child's laptop computer in a class room.	NONE-girl:use:NONE-computer,NONE-girl:use:laptop-computer,NONE-child:have:NONE-computer,NONE-child:have:laptop-computer,NONE-computer:in:NONE-room,laptop-computer:in:NONE-room
+2361017	A plate with lots of food on top of it.	NONE-plate:of:NONE-plate,NONE-plate:with:NONE-food,NONE-plate:on:NONE-top
+2361018	A zebra eats grass with another zebra beside them and a third zebra nearby.	NONE-zebra:eat beside:NONE-zebra,NONE-zebra:eat:NONE-grass,NONE-zebra:eat with:NONE-zebra,NONE-zebra:eat beside:NONE-zebra,NONE-zebra:eat beside:third-zebra
+2361019	A group of colorful umbrellas flying in a sky above a city.	NONE-group:of:NONE-umbrella,NONE-group:of:colorful-umbrella,NONE-group:fly in:NONE-sky,NONE-sky:above:NONE-city
+2361020	A black bear is sniffing at the bark of a tree.	NONE-bear:sniff at:NONE-bark,black-bear:sniff at:NONE-bark,NONE-bark:of:NONE-tree
+2361022	Two cows grazing on grass in a field by a house.	NONE-cow:graze on:NONE-grass,NONE-cow:graze by:NONE-house,NONE-cow:graze on:NONE-grass,NONE-cow:graze by:NONE-house,NONE-grass:in:NONE-field
+2361023	This an unclear picture of a boy standing up on a snowboard.	NONE-this:stand up on:NONE-snowboard,NONE-picture:of:NONE-boy,unclear-picture:of:NONE-boy
+2361024	A kitchen sink and part of a stove with a doorway leading into an adjacent room	NONE-sink:of:NONE-stove,NONE-sink:with:NONE-doorway,NONE-doorway:lead into:NONE-room,NONE-doorway:lead into:adjacent-room
+2361027	A coffee cup with a lid on a table next to a keyboard.	NONE-cup:with:NONE-lid,NONE-cup:next to:NONE-keyboard,NONE-lid:on:NONE-table
+2361030	A man standing over a table topped with plates of food.	NONE-standing:over:NONE-table,NONE-standing:top with:NONE-plate,NONE-plate:of:NONE-food
+2361032	A pile of pancakes sitting on top of a white plate.	NONE-pile:of:NONE-pancake,NONE-pile:sit on top of:NONE-plate,NONE-pile:sit on top of:white-plate
+2361033	A parking lot with a car, three buses, and a semi.	NONE-lot:with:NONE-car,NONE-lot:with:NONE-bus,NONE-lot:with:NONE-bus,NONE-lot:with:NONE-bus,NONE-lot:with:NONE-semi
+2361036	A white bus next to a train station at night.	NONE-bus:next to:NONE-station,white-bus:next to:NONE-station,NONE-station:at:NONE-night
+2361040	A large bathroom with an enclosed toilet and a large sink.	NONE-bathroom:with:NONE-toilet,NONE-bathroom:with:enclose-toilet,large-bathroom:with:NONE-toilet,large-bathroom:with:enclose-toilet,NONE-bathroom:with:NONE-sink,NONE-bathroom:with:large-sink,large-bathroom:with:NONE-sink,large-bathroom:with:large-sink
+2361054	A wooden desk topped with two desktop computers.	NONE-desk:top with:NONE-computer,NONE-desk:top with:desktop-computer,wooden-desk:top with:NONE-computer,wooden-desk:top with:desktop-computer,NONE-desk:top with:NONE-computer,NONE-desk:top with:desktop-computer,wooden-desk:top with:NONE-computer,wooden-desk:top with:desktop-computer
+2361060	A crowd of people walking along a street.	NONE-crowd:of:NONE-people,NONE-crowd:walk along:NONE-street
+2361063	A purse sits on a counter in a kitchen.	NONE-purse:sit on:NONE-counter,NONE-counter:in:NONE-kitchen
+2361066	A tennis player waving to fans in the stands.	NONE-player:wave to:NONE-fan,NONE-fan:in:NONE-stand
+2361071	A man hitting a tennis ball with a racquet.	NONE-man:hit:NONE-ball,NONE-man:hit with:NONE-racquet
+2361073	Men in a park with frisbee, with trees, portable toilets, fence, bags, and other people in background.	NONE-man:in:NONE-park,NONE-man:in:NONE-background,NONE-man:in:NONE-park,NONE-man:in:NONE-background,NONE-park:with:NONE-frisbee,NONE-park:with:NONE-tree,NONE-park:with:NONE-toilet,NONE-park:with:portable-toilet,NONE-park:with:NONE-fence,NONE-park:with:NONE-bag,NONE-park:with:NONE-people,NONE-park:with:other-people
+2361074	The ballplayer waits in the batter's box, watching the umpire defend his call.	NONE-ballplayer:wait in:NONE-box,NONE-ballplayer:have:NONE-call,NONE-batter:have:NONE-box,NONE-umpire:defend:NONE-call
+2361075	A tennis player slides through the dirt for a hit	NONE-player:slide through:NONE-dirt,NONE-dirt:for:NONE-hit
+2361087	A white plate topped with food next to a fork and drink.	NONE-plate:top with:NONE-food,NONE-plate:top with:next-food,white-plate:top with:NONE-food,white-plate:top with:next-food,NONE-plate:top to:NONE-fork,white-plate:top to:NONE-fork,NONE-plate:top to:NONE-drink,white-plate:top to:NONE-drink
+2361088	a group of kids holding tennis rackets pose for a picture	NONE-group:of:NONE-kid,NONE-group:pose for:NONE-picture,NONE-kid:hold:NONE-racket
+2361089	A city street at night illuminated by street lights.	NONE-street:at:NONE-night,NONE-street:illuminate by:NONE-light
+2361090	A woman holding up a cup of coffee in an office.	NONE-woman:hold up:NONE-cup,NONE-cup:of:NONE-coffee,NONE-coffee:in:NONE-office
+2361095	A man on a skateboard jumping onto a concrete bench.	NONE-man:on:NONE-skateboard,NONE-man:jump onto:NONE-bench,NONE-man:jump onto:concrete-bench
+2337751	A trash can covered in an umbrella between two roads.	NONE-trash:cover in:NONE-umbrella,NONE-umbrella:between:NONE-road,NONE-umbrella:between:NONE-road
+2361101	An old fashioned room with twin beds, couch, tv, lamps and other older looking furniture.	NONE-room:with:NONE-bed,NONE-room:with:twin-bed,fashioned-room:with:NONE-bed,fashioned-room:with:twin-bed,old-room:with:NONE-bed,old-room:with:twin-bed,NONE-room:with:NONE-couch,fashioned-room:with:NONE-couch,old-room:with:NONE-couch,NONE-room:with:NONE-tv,fashioned-room:with:NONE-tv,old-room:with:NONE-tv,NONE-room:with:NONE-lamp,fashioned-room:with:NONE-lamp,old-room:with:NONE-lamp,NONE-room:with:NONE-older,NONE-room:with:other-older,fashioned-room:with:NONE-older,fashioned-room:with:other-older,old-room:with:NONE-older,old-room:with:other-older,NONE-room:look:NONE-furniture,fashioned-room:look:NONE-furniture,old-room:look:NONE-furniture
+2361105	A slice of pizza on a plate slathered in melted cheese.	NONE-slice:of:NONE-pizza,NONE-slice:slather in:NONE-cheese,NONE-slice:slather in:melted-cheese,NONE-pizza:on:NONE-plate
+2361107	View of a hotel room with a bathroom and bedroom.	NONE-View:of:NONE-room,NONE-View:with:NONE-bathroom,NONE-View:with:NONE-bedroom
+2361108	A toilet has been turned on it's side out in a yard.	NONE-toilet:have:NONE-side,NONE-side:in:NONE-yard
+2361109	A man driving a farm vehicle with a dog on it following sheep.	NONE-man:drive:NONE-vehicle,NONE-man:drive with:NONE-dog,NONE-dog:on:NONE-man,NONE-dog:following:NONE-sheep
+2361111	A woman in a hat and winter coat is in an airport with two suitcases.	NONE-woman:in:NONE-coat,NONE-woman:in:NONE-airport,NONE-airport:with:NONE-suitcase,NONE-airport:with:NONE-suitcase
+2361115	a person with a bat near many tvs	NONE-person:with:NONE-bat,NONE-bat:near:NONE-tvs,NONE-bat:near:many-tvs
+2361116	A person holding ski poles standing on a snow covered slope.	NONE-person:hold:NONE-pole,NONE-person:hold:ski-pole,NONE-person:cover:NONE-slope,NONE-pole:stand on:NONE-snow,ski-pole:stand on:NONE-snow
+2361120	A red and white bowl contain meat and pieces of broccoli.	NONE-bowl:contain:NONE-meat,red-bowl:contain:NONE-meat,white-bowl:contain:NONE-meat,NONE-bowl:contain:NONE-piece,red-bowl:contain:NONE-piece,white-bowl:contain:NONE-piece,NONE-meat:of:NONE-broccoli
+2361121	A young lady riding a skateboard past orange traffic cones.	NONE-lady:ride:NONE-skateboard,young-lady:ride:NONE-skateboard,NONE-lady:ride past:NONE-cone,NONE-lady:ride past:orange-cone,young-lady:ride past:NONE-cone,young-lady:ride past:orange-cone
+2361128	A person laying on a beach next to a  white surfboard.	NONE-person:lay on:NONE-beach,NONE-person:lay next to:NONE-surfboard,NONE-person:lay next to:white-surfboard
+2361129	A black hog eating hay as a curious cat looks on.	NONE-hog:eat:NONE-hay,black-hog:eat:NONE-hay,look-hog:eat:NONE-hay,NONE-hog:eat as:NONE-cat,NONE-hog:eat as:curious-cat,black-hog:eat as:NONE-cat,black-hog:eat as:curious-cat,look-hog:eat as:NONE-cat,look-hog:eat as:curious-cat
+2361131	A man standing on top of a sandy beach with a surfboard.	NONE-man:stand on top of:NONE-beach,NONE-man:stand on top of:sandy-beach,NONE-beach:with:NONE-surfboard,sandy-beach:with:NONE-surfboard
+2361133	A surfer on a surfboard riding a wave.	NONE-surfer:on:NONE-surfboard,NONE-surfer:ride:NONE-wave
+2361134	A baseball player hitting a ball with his bat.	NONE-player:hit:NONE-ball,NONE-player:have:NONE-bat,NONE-player:hit with:NONE-bat
+2361137	A living room filled with furniture and  large window.	NONE-room:fill with:NONE-furniture,NONE-room:fill with:NONE-window,NONE-room:fill with:large-window
+2361139	The girl is holding onto two strings attached to a kite in the sky.	NONE-girl:hold onto:NONE-string,NONE-girl:hold onto:NONE-string,NONE-string:attach to:NONE-kite,NONE-string:attach to:NONE-kite,NONE-kite:in:NONE-sky
+2361142	A man standing on a red boat in the water.	NONE-man:stand on:NONE-boat,NONE-man:stand on:red-boat,NONE-boat:in:NONE-water,red-boat:in:NONE-water
+2361146	three zebras walking across a dirt road near bushes	NONE-walking:across:NONE-road,NONE-road:near:NONE-bushes
+2361147	Airplane attendants are standing underneath the wing of the plane.	NONE-attendant:stand underneath:NONE-wing,airplane-attendant:stand underneath:NONE-wing,NONE-attendant:stand underneath:NONE-wing,airplane-attendant:stand underneath:NONE-wing,NONE-wing:of:NONE-plane
+2361150	a couple of people are walking around on a busy street	NONE-people:walk around on:NONE-street,NONE-people:walk around on:busy-street,NONE-people:walk around on:NONE-street,NONE-people:walk around on:busy-street
+2361153	A sink with cups and towel next to it	NONE-sink:with:NONE-cup,NONE-sink:with:NONE-towel
+2361154	A person holding a large pair of silver scissors in their hand.	NONE-person:hold:NONE-scissors,NONE-person:hold:silver-scissors,NONE-person:have:NONE-hand,NONE-scissors:in:NONE-hand,silver-scissors:in:NONE-hand
+2361156	Two horses grazing on grass in the sun	NONE-grazing:on:NONE-grass,NONE-grass:in:NONE-sun
+2361158	A group of people skiing in a ski race on snow covered ground.	NONE-group:of:NONE-people,NONE-group:cover:NONE-ground,NONE-people:ski in:NONE-race,NONE-people:ski in:ski-race,NONE-race:on:NONE-snow,ski-race:on:NONE-snow
+2361160	Here of zebras on side of a dirt road in their natural environment.	NONE-zebra:on:NONE-side,NONE-zebra:have:NONE-environment,NONE-zebra:have:natural-environment
+2361161	Front view of a blue and white jet airliner on runway.	NONE-Front:view of:NONE-airliner,NONE-Front:view of:blue-airliner,NONE-Front:view of:white-airliner,NONE-airliner:on:NONE-runway,blue-airliner:on:NONE-runway,white-airliner:on:NONE-runway
+2361168	There is a stop sign with a factory in the distance.	NONE-sign:with:NONE-factory,NONE-factory:in:NONE-distance
+2361170	One bear observes visitors at the zoo, while another bear sleeps.	NONE-bear:observe:NONE-visitor,NONE-visitor:at:NONE-zoo
+2361171	An alley way with several pieces of discarded furnuiture and a teddy bear hanging from a clothes line.	NONE-way:with:NONE-piece,NONE-way:with:several-piece,bear-way:with:NONE-piece,bear-way:with:several-piece,NONE-piece:of:NONE-furnuiture,NONE-piece:of:discard-furnuiture,several-piece:of:NONE-furnuiture,several-piece:of:discard-furnuiture,NONE-piece:of:NONE-teddy,several-piece:of:NONE-teddy
+2361173	Some people gathered at a very big table with a big cake.	NONE-people:gather at:NONE-table,NONE-people:gather at:big-table,NONE-people:gather at:NONE-table,NONE-people:gather at:big-table,NONE-table:with:NONE-cake,NONE-table:with:big-cake,big-table:with:NONE-cake,big-table:with:big-cake
+2361180	Several people walking on a sidewalk, with one man holding an umbrella.	NONE-people:walk on:NONE-sidewalk,several-people:walk on:NONE-sidewalk,NONE-people:walk with:NONE-man,several-people:walk with:NONE-man,NONE-people:walk on:NONE-sidewalk,several-people:walk on:NONE-sidewalk,NONE-people:walk with:NONE-man,several-people:walk with:NONE-man,NONE-man:hold:NONE-umbrella
+2361189	A 787 Jet Airplane sitting on a runway at an airport.	NONE-Airplane:sit on:NONE-runway,NONE-runway:at:NONE-airport
+2361190	a train on a track near many trees	NONE-train:on:NONE-track,NONE-track:near:NONE-tree,NONE-track:near:many-tree
+2361193	The city bus drives down the street with a motorcycle passing it on the right.	NONE-bus:drive down:NONE-street,NONE-bus:drive down with:NONE-motorcycle,NONE-motorcycle:pass:NONE-bus,NONE-motorcycle:pass on:NONE-right
+2361195	A herd of sheep sleeping on top of a grassy nook.	NONE-herd:of:NONE-sheep,NONE-herd:sleep on top of:NONE-nook,NONE-herd:sleep on top of:grassy-nook
+2361198	a black and yellow trains engine pulling its cars	NONE-engine:have:NONE-car,yellow-engine:have:NONE-car,NONE-engine:pull:NONE-car,yellow-engine:pull:NONE-car
+2361204	A couple of businessmen walk passed a group of pedestrians with umbrellas on the wet sidewalk of a city street.	NONE-group:of:NONE-pedestrian,NONE-umbrella:on:NONE-sidewalk,NONE-umbrella:on:wet-sidewalk,NONE-sidewalk:of:NONE-street,wet-sidewalk:of:NONE-street
+2361209	Two men sitting at a table with a basket of pastry.	NONE-man:sit at:NONE-table,NONE-man:sit at:NONE-table,NONE-table:with:NONE-basket,NONE-basket:of:NONE-pastry
+2361210	A group of firefighters and police officers in the middle of a crosswalk.	NONE-group:of:NONE-firefighter,NONE-group:of:NONE-officer,NONE-group:in:NONE-middle,NONE-middle:of:NONE-crosswalk
+2361212	a person sliceing bacon with a couple of doughnuts sitting on a cutting board	NONE-bacon:with:NONE-doughnut,slicee-bacon:with:NONE-doughnut,NONE-doughnut:sit on:NONE-board,NONE-doughnut:sit on:cut-board
+2361213	A bus pulls up to a group of people and a sidewalk.	NONE-bus:pull up to:NONE-group,NONE-group:of:NONE-people,NONE-group:of:NONE-sidewalk
+2361219	a woman is working on someones hair at a salon	NONE-woman:work on:NONE-hair,NONE-woman:work on:someones-hair,NONE-woman:work at:NONE-salon
+2361221	A horse drawn carriage riding in front of old English buildings.	NONE-horse:draw:NONE-carriage,NONE-carriage:ride in front of:NONE-building,NONE-carriage:ride in front of:old-building,NONE-carriage:ride in front of:english-building
+2361223	three vases with some flowers in it flourishing	NONE-vase:with:NONE-flower,NONE-vase:with:NONE-flower,NONE-vase:with:NONE-flower
+2361225	Adult preparing to catch flying disc in open area near trees and water.	NONE-disc:in:NONE-area,NONE-disc:in:open-area,fly-disc:in:NONE-area,fly-disc:in:open-area,NONE-area:near:NONE-tree,open-area:near:NONE-tree,NONE-area:near:NONE-water,open-area:near:NONE-water
+2361231	A woman holding a knife by some birthday cakes.	NONE-woman:hold:NONE-knife,cake-woman:hold:NONE-knife,NONE-woman:hold by:NONE-birthday,cake-woman:hold by:NONE-birthday
+2361234	A group of young people playing with frisbee on field.	NONE-group:of:NONE-people,NONE-group:of:young-people,NONE-group:play with:NONE-frisbee,NONE-frisbee:on:NONE-field
+2361236	A close up of the bank sign with a clock on top.	NONE-close:sign with:NONE-clock,NONE-clock:on:NONE-top
+2361239	A giraffe lifts its head up after drinking water.	NONE-giraffe:have:NONE-head,NONE-giraffe:lift up:NONE-head,NONE-giraffe:lift up after:NONE-water
+2361243	A black and white cat sleeping on top of a tv with a fish on it.	NONE-cat:sleep on top of:NONE-tv,white-cat:sleep on top of:NONE-tv,black-cat:sleep on top of:NONE-tv,NONE-cat:sleep with:NONE-fish,white-cat:sleep with:NONE-fish,black-cat:sleep with:NONE-fish,NONE-fish:on:NONE-cat,NONE-fish:on:white-cat,NONE-fish:on:black-cat
+2361244	A group of zebras are eating the shrubs off the dirt.	NONE-group:of:NONE-zebra,NONE-group:eat:NONE-shrub,NONE-group:eat off:NONE-dirt
+2361245	A man on a skateboard in front of a camera that has been set up.	NONE-man:on:NONE-skateboard,NONE-skateboard:in front of:NONE-camera
+2361248	A group of people are in the snow on skis.	NONE-group:of:NONE-people,NONE-group:in:NONE-snow,NONE-snow:on:NONE-ski
+2361250	A city made out of stone brick with large arches.	NONE-city:make out of:NONE-brick,NONE-city:make out with:NONE-arch,NONE-city:make out with:large-arch
+2361251	A car driving down a road next to a street sign.	NONE-car:drive down:NONE-road,NONE-road:next to:NONE-sign
+2361257	A chandelier, made of baseballs and bats, hangs from a metal roof.	NONE-chandelier:make of:NONE-baseball,NONE-chandelier:make of:NONE-bat,NONE-chandelier:hang from:NONE-roof
+2361263	A giraffe grazing from tree with brick wall in background.	NONE-giraffe:graze from:NONE-tree,NONE-giraffe:graze with:NONE-wall,NONE-wall:in:NONE-background
+2361265	Photo of a man riding an old styled bicycle near what appears to be the Golden Gate Bridge.	NONE-Photo:of:NONE-man,appear-Photo:of:NONE-man,NONE-man:ride:NONE-bicycle,NONE-man:ride:old-bicycle,NONE-man:ride:styled-bicycle,NONE-bicycle:near:NONE-what,old-bicycle:near:NONE-what,styled-bicycle:near:NONE-what
+2361266	A white sink mounted to a green wall in a bathroom.	NONE-sink:mount to:NONE-wall,NONE-sink:mount to:green-wall,white-sink:mount to:NONE-wall,white-sink:mount to:green-wall,NONE-sink:mount in:NONE-bathroom,white-sink:mount in:NONE-bathroom
+2361268	People waiting at a buffet line to grab their food.	NONE-people:wait at:NONE-line,NONE-people:have:NONE-food,NONE-people:wait at:NONE-line,NONE-people:have:NONE-food
+2361274	A living area with a fireplace, television and atlas on wall.	NONE-area:with:NONE-fireplace,live-area:with:NONE-fireplace,NONE-area:with:NONE-television,live-area:with:NONE-television,NONE-area:with:NONE-atla,live-area:with:NONE-atla,NONE-fireplace:on:NONE-wall
+2361279	A group of men sitting in front of laptop computers.	NONE-group:of:NONE-man,NONE-group:sit in front of:NONE-computer,NONE-group:sit in front of:laptop-computer
+2361280	A fighter jet on display with old buildings in the background.	NONE-jet:on:NONE-display,NONE-jet:with:NONE-building,NONE-jet:with:old-building,NONE-jet:in:NONE-background
+2361281	A pizza sitting on top of a cardboard box on a yellow cloth.	NONE-pizza:sit on top of:NONE-box,NONE-pizza:sit on:NONE-cloth,NONE-pizza:sit on:yellow-cloth
+2361282	A bus driving down a street in front of a cross walk.	NONE-bus:drive down:NONE-street,walk-bus:drive down:NONE-street,NONE-street:in front of:NONE-cross
+2361283	A para surfer on a sunny day on some smooth water.	NONE-para:surfer on:NONE-day,NONE-para:surfer on:sunny-day,NONE-day:on:NONE-water,NONE-day:on:smooth-water,sunny-day:on:NONE-water,sunny-day:on:smooth-water
+2361291	A large family room with furniture and a fireplace.	NONE-room:with:NONE-furniture,large-room:with:NONE-furniture,NONE-room:with:NONE-fireplace,large-room:with:NONE-fireplace
+2361292	A scooter with a bag on it parked next to a pasture with two cows in it.	NONE-scooter:with:NONE-bag,NONE-scooter:park next to:NONE-pasture,NONE-scooter:park with:NONE-cow,NONE-scooter:park with:NONE-cow,NONE-bag:on:NONE-scooter,NONE-cow:in:NONE-scooter,NONE-cow:in:NONE-scooter
+2361301	A woman lays in her bed with two cats.	NONE-woman:have:NONE-bed,NONE-woman:lay in:NONE-bed,NONE-woman:lay with:NONE-cat,NONE-woman:lay with:NONE-cat
+2361304	A sign up on a post at an intersection in a city.	NONE-A:sign up on:NONE-post,NONE-post:at:NONE-intersection,NONE-intersection:in:NONE-city
+2361305	A young woman sitting indian style on top of a bench.	NONE-woman:sit:NONE-style,young-woman:sit:NONE-style,NONE-woman:sit on top of:NONE-bench,young-woman:sit on top of:NONE-bench
+2361312	A street with brick lined buildings, British flags and a clock tower.	NONE-street:with:NONE-brick,NONE-street:line:NONE-building,NONE-street:line:NONE-flag,NONE-street:line:british-flag,NONE-street:line:NONE-tower
+2361314	A white plate topped with meat, mac and cheese and a bun.	NONE-plate:top with:NONE-meat,white-plate:top with:NONE-meat,NONE-plate:top with:NONE-mac,white-plate:top with:NONE-mac,NONE-plate:top with:NONE-cheese,white-plate:top with:NONE-cheese,NONE-plate:top with:NONE-bun,white-plate:top with:NONE-bun
+2361315	A platter of food including side dishes and greens.	NONE-platter:of:NONE-food,NONE-food:including:NONE-dish,NONE-food:including:NONE-green
+2361317	A vase with a painted of a man and a horse on the side of it.	NONE-vase:with:NONE-painted,NONE-vase:on:NONE-side,NONE-painted:of:NONE-man,NONE-painted:of:NONE-horse,NONE-side:of:NONE-vase
+2361319	A bed in a bedroom with lots of wooden chairs.	NONE-bed:in:NONE-bedroom,NONE-bed:with:NONE-chair,NONE-bed:with:wooden-chair
+2361322	A man riding a horse drawn carriage on a race track.	NONE-man:ride:NONE-horse,NONE-man:draw:NONE-carriage,NONE-carriage:on:NONE-track
+2361325	A person skis with mountains in the background.	NONE-person:ski with:NONE-mountain,NONE-mountain:in:NONE-background
+2361326	Two burritos on a plate with a spoon next to a pack of cigarettes.	NONE-burrito:on:NONE-plate,NONE-burrito:next to:NONE-pack,NONE-burrito:on:NONE-plate,NONE-burrito:next to:NONE-pack,NONE-plate:with:NONE-spoon,NONE-pack:of:NONE-cigarette
+2361335	a bunch of people are standing under some pink umbrellas	NONE-people:stand under:NONE-umbrella,NONE-people:stand under:pink-umbrella,NONE-people:stand under:NONE-umbrella,NONE-people:stand under:people-umbrella
+2361336	A white plate topped with eggs and potatoes	NONE-plate:top with:NONE-egg,white-plate:top with:NONE-egg,NONE-plate:top with:NONE-potato,white-plate:top with:NONE-potato
+2361340	A pepperoni pizza is on a plate with a fork and spoon.	NONE-pizza:on:NONE-plate,NONE-plate:with:NONE-fork,NONE-plate:with:NONE-spoon
+2361343	A train travels through the mountains on its tracks.	NONE-train:travel through:NONE-mountain,NONE-train:have:NONE-track,NONE-mountain:on:NONE-track
+2361345	two little girls in white holding two umbrellas.	NONE-girl:in:NONE-umbrella,NONE-girl:in:hold-umbrella,little-girl:in:NONE-umbrella,little-girl:in:hold-umbrella,NONE-girl:in:NONE-umbrella,NONE-girl:in:hold-umbrella,little-girl:in:NONE-umbrella,little-girl:in:hold-umbrella
+2361347	A group of baseball players standing around a field.	NONE-group:of:NONE-player,NONE-group:stand around:NONE-field
+2361348	A man sits on a wooden bench next to a sign.	NONE-man:sit on:NONE-bench,NONE-man:sit on:wooden-bench,NONE-bench:next to:NONE-sign,wooden-bench:next to:NONE-sign
+2361349	A young man kicking around a soccer ball on a field.	NONE-man:kick around:NONE-ball,young-man:kick around:NONE-ball,NONE-ball:on:NONE-field
+2361357	A cake with white flowers on top of it.	NONE-cake:of:NONE-cake,NONE-cake:with:NONE-flower,NONE-cake:with:white-flower,NONE-cake:on:NONE-top
+2361359	A pool next to a dock lined with lots of boats.	NONE-pool:line next to:NONE-dock,NONE-pool:line with:NONE-boat
+2361361	A plate topped with a cut in half sandwich and an omelet.	NONE-plate:top with:NONE-cut,NONE-plate:top in:NONE-sandwich,NONE-plate:top in:NONE-omelet
+2361362	A garbage man is working down a street with his red garbage truck.	NONE-man:work down:NONE-street,NONE-man:have:NONE-truck,NONE-man:have:red-truck,NONE-street:with:NONE-truck,NONE-street:with:red-truck
+2361364	A bike leans on a wooden fence on a hill.	NONE-bike:lean on:NONE-fence,NONE-bike:lean on:wooden-fence,NONE-fence:on:NONE-hill,wooden-fence:on:NONE-hill
+2361371	A man in a shirt and tie sitting on a white chair next to a lamp.	NONE-man:in:NONE-shirt,NONE-man:in:NONE-tie,NONE-shirt:sit on:NONE-chair,NONE-shirt:sit on:white-chair,NONE-shirt:next to:NONE-lamp
+2361374	A clipboard on a table with several wine glasses	NONE-clipboard:on:NONE-table,NONE-table:with:NONE-glass,NONE-table:with:several-glass
+2361375	A man and a woman behind the counter of a restaurant.	NONE-woman:behind:NONE-counter,NONE-woman:of:NONE-restaurant
+2361380	A woman standing in a living room holding a Wii controller next to a man.	NONE-woman:stand in:NONE-room,NONE-woman:stand in:live-room,NONE-room:hold:NONE-controller,live-room:hold:NONE-controller,NONE-room:hold next to:NONE-man,live-room:hold next to:NONE-man
+2361383	A stamp with a dog in the frame looking out to the water.	NONE-stamp:with:NONE-dog,NONE-stamp:look out to:NONE-water,NONE-dog:in:NONE-frame
+2361384	A black cup with a toothbrush in it next to a white cup with two toothbrushes in it.	NONE-cup:with:NONE-toothbrush,black-cup:with:NONE-toothbrush,NONE-cup:next to:NONE-cup,NONE-cup:next to:white-cup,black-cup:next to:NONE-cup,black-cup:next to:white-cup,NONE-toothbrush:in:NONE-cup,NONE-toothbrush:in:black-cup,NONE-cup:with:NONE-toothbrush,white-cup:with:NONE-toothbrush,NONE-cup:with:NONE-toothbrush,white-cup:with:NONE-toothbrush,NONE-toothbrush:in:NONE-cup,NONE-toothbrush:in:black-cup,NONE-toothbrush:in:NONE-cup,NONE-toothbrush:in:black-cup
+2361390	A group of three men riding motorcycles on a wet road.	NONE-group:of:NONE-man,NONE-group:of:NONE-man,NONE-group:of:NONE-man,NONE-group:ride:NONE-motorcycle,NONE-group:ride on:NONE-road,NONE-group:ride on:wet-road
+2361391	A small dog laying on a bed next to a laptop computer.	NONE-dog:lay on:NONE-bed,small-dog:lay on:NONE-bed,NONE-dog:lay next to:NONE-computer,NONE-dog:lay next to:laptop-computer,small-dog:lay next to:NONE-computer,small-dog:lay next to:laptop-computer
+2361396	A cat sits on a bench next to another bench.	NONE-cat:sit on:NONE-bench,NONE-bench:next to:NONE-bench
+2361400	A man riding a skateboard into the air.	NONE-man:ride:NONE-skateboard,NONE-man:ride into:NONE-air
+2361401	A giraffe at a zoo enjoying the day	NONE-giraffe:at:NONE-zoo,NONE-zoo:enjoy tmod:NONE-day
+2361402	There is woman standing in the living room in front of a blue couch.	NONE-standing:in:NONE-room,NONE-standing:in:live-room,NONE-room:in front of:NONE-couch,NONE-room:in front of:blue-couch,live-room:in front of:NONE-couch,live-room:in front of:blue-couch
+2361403	A sandwich filled with meat on top of a plate.	NONE-sandwich:fill with:NONE-meat,NONE-sandwich:fill on top of:NONE-plate
+2361404	A couple of women playing a game with remote controllers.	NONE-couple:play:NONE-game,NONE-couple:play with:NONE-controller,NONE-couple:play with:remote-controller
+2361405	A black plate with apples, spinach and a sandwich.	NONE-plate:with:NONE-apple,black-plate:with:NONE-apple,NONE-plate:with:NONE-spinach,black-plate:with:NONE-spinach,NONE-plate:with:NONE-sandwich,black-plate:with:NONE-sandwich
+2361411	A group of people in skis on snowy hill next to a lodge.	NONE-group:of:NONE-people,NONE-group:next to:NONE-lodge,NONE-people:in:NONE-ski,NONE-ski:on:NONE-hill,NONE-ski:on:snowy-hill
+2361415	Black and white photo of a family with a dog and females holding tennis rackets.	NONE-photo:of:NONE-family,white-photo:of:NONE-family,black-photo:of:NONE-family,NONE-photo:hold:NONE-racket,white-photo:hold:NONE-racket,black-photo:hold:NONE-racket,NONE-family:with:NONE-dog,NONE-family:with:NONE-female
+2361416	a very large bathroom with a shower and a sink	NONE-bathroom:with:NONE-shower,large-bathroom:with:NONE-shower,NONE-bathroom:with:NONE-sink,large-bathroom:with:NONE-sink
+2361418	Zebra standing in area with colorful plants growing nearby.	NONE-Zebra:stand in:NONE-area,NONE-Zebra:stand with:NONE-plant,NONE-Zebra:stand with:colorful-plant
+2361420	A man sitting at a table with a laptop and an open book.	NONE-man:sit at:NONE-table,NONE-table:with:NONE-laptop,NONE-table:with:NONE-book,NONE-table:with:open-book
+2361421	An orange sitting in a red bowl with a light upon it.	NONE-orange:sit upon:NONE-orange,NONE-orange:sit in:NONE-bowl,NONE-orange:sit in:red-bowl,NONE-bowl:with:NONE-light,red-bowl:with:NONE-light
+2361425	A pizza sitting on top of a table with olives, sausage and cheese.	NONE-pizza:sit on top of:NONE-table,NONE-table:with:NONE-olive,NONE-table:with:NONE-sausage,NONE-table:with:NONE-cheese
+2361431	four people standing up playing nintendo wii in a large room	NONE-people:stand up:NONE-wii,NONE-people:stand up:play-wii,NONE-people:stand up in:NONE-room,NONE-people:stand up in:large-room,NONE-people:stand up:NONE-wii,NONE-people:stand up:play-wii,NONE-people:stand up in:NONE-room,NONE-people:stand up in:large-room,NONE-people:stand up:NONE-wii,NONE-people:stand up:play-wii,NONE-people:stand up in:NONE-room,NONE-people:stand up in:large-room,NONE-people:stand up:NONE-wii,NONE-people:stand up:play-wii,NONE-people:stand up in:NONE-room,NONE-people:stand up in:large-room
+2361432	Several people stand in a large room in this image.	NONE-people:stand in:NONE-room,NONE-people:stand in:large-room,several-people:stand in:NONE-room,several-people:stand in:large-room,NONE-people:stand in:NONE-room,NONE-people:stand in:large-room,several-people:stand in:NONE-room,several-people:stand in:large-room,NONE-room:in:NONE-image,large-room:in:NONE-image
+2361433	A small purple teddy bear complete with a matching purple bow around his neck.	NONE-teddy:have:NONE-neck,small-teddy:have:NONE-neck,purple-teddy:have:NONE-neck,bear-teddy:have:NONE-neck,NONE-bow:around:NONE-neck,match-bow:around:NONE-neck,purple-bow:around:NONE-neck
+2361436	Two small airplanes parked on a lush green field.	NONE-airplane:park on:NONE-field,NONE-airplane:park on:green-field,NONE-airplane:park on:lush-field,small-airplane:park on:NONE-field,small-airplane:park on:green-field,small-airplane:park on:lush-field,NONE-airplane:park on:NONE-field,NONE-airplane:park on:green-field,NONE-airplane:park on:lush-field,small-airplane:park on:NONE-field,small-airplane:park on:green-field,small-airplane:park on:lush-field
+2361437	A herd of cattle standing on top of a lush green hill.	NONE-herd:of:NONE-cattle,NONE-herd:stand on top of:NONE-hill,NONE-herd:stand on top of:green-hill,NONE-herd:stand on top of:lush-hill
+2361438	A close up of several pikes locked on a gate.	NONE-close:of:NONE-pike,NONE-close:of:several-pike,NONE-close:lock on:NONE-gate
+2361439	The Phillips 66 clocks is in front of some posters.	NONE-clocks:in front of:NONE-poster,NONE-clocks:in front of:NONE-poster
+2361440	A snowboarder flies through air as he comes down the mountain.	NONE-snowboarder:fly through:NONE-air,NONE-snowboarder:come down:NONE-mountain
+2361442	The street sign is above the other side of a stop sign.	NONE-sign:above:NONE-side,NONE-sign:above:other-side,NONE-side:of:NONE-sign,other-side:of:NONE-sign
+2361443	A girl in a pink snowsuit skiing on a ski slope.	NONE-girl:in:NONE-skiing,NONE-girl:in:pink-skiing,NONE-girl:on:NONE-slope,NONE-girl:on:ski-slope
+2361448	A young man holding a tennis racquet on a court.	NONE-man:hold:NONE-racquet,young-man:hold:NONE-racquet,NONE-man:hold on:NONE-court,young-man:hold on:NONE-court
+2361453	The airplane flew across the blue skies and over the expensive beachside resort.	NONE-airplane:fly across:NONE-sky,NONE-airplane:fly across:blue-sky,NONE-airplane:fly over:NONE-resort,NONE-airplane:fly over:expensive-resort
+2361454	A man stands on a tennis court in dress clothes.	NONE-man:stand on:NONE-court,NONE-court:in:NONE-clothes
+2361455	Two white buses traveling past each other on a road.	NONE-bus:travel on:NONE-road,white-bus:travel on:NONE-road,NONE-bus:travel on:NONE-road,white-bus:travel on:NONE-road
+2361458	A kitchen with tiled walls and a large window.	NONE-kitchen:with:NONE-wall,NONE-kitchen:with:tiled-wall,NONE-kitchen:with:NONE-window,NONE-kitchen:with:large-window
+2361462	a number of animals in a field of grass near one another	NONE-animal:in:NONE-field,NONE-animal:in:NONE-field,NONE-field:of:NONE-grass,NONE-grass:near:NONE-one
+2361463	A girl poses in front of an elephant in a walled enclosure	NONE-girl:pose in front of:NONE-elephant,NONE-elephant:in:NONE-enclosure,NONE-elephant:in:walled-enclosure
+2361466	A sign in the grass next to the sidewalk in the shadows.	NONE-sign:in:NONE-grass,NONE-sign:next to:NONE-sidewalk,NONE-sidewalk:in:NONE-shadow
+2361467	Two pizzas sitting on pizza pans on a oven.	NONE-pizza:sit on:NONE-pizza,NONE-pizza:pan on:NONE-oven,NONE-pizza:sit on:NONE-pizza,NONE-pizza:pan on:NONE-oven
+2361469	Father holding child while elephant stands in front of them.	NONE-child:stand in front of:NONE-child,NONE-child:stand in front of:hold-child,hold-child:stand in front of:NONE-child,hold-child:stand in front of:hold-child,NONE-child:while:NONE-elephant,hold-child:while:NONE-elephant
+2361472	A traffic light sitting in a room next to a young man.	NONE-light:sit in:NONE-room,NONE-light:sit next to:NONE-man,NONE-light:sit next to:young-man
+2361474	A plate topped with a pizza with an egg on top of it.	NONE-plate:top on top of:NONE-plate,NONE-plate:top with:NONE-pizza,NONE-pizza:with:NONE-egg
+2361479	A white clock tower next to a brown building at night.	NONE-clock:tower next to:NONE-building,NONE-clock:tower next to:brown-building,white-clock:tower next to:NONE-building,white-clock:tower next to:brown-building,NONE-clock:tower at:NONE-night,white-clock:tower at:NONE-night
+2361480	A person on  a skate board in mid air by a rail.	NONE-person:on:NONE-board,NONE-person:on:skate-board,NONE-person:by:NONE-rail,NONE-board:in:NONE-air,NONE-board:in:mid-air,skate-board:in:NONE-air,skate-board:in:mid-air
+2361481	Two Clydesdale are pulling a single man across a fielded area.	NONE-clydesdale:pull:NONE-man,NONE-clydesdale:pull:single-man,NONE-clydesdale:pull across:NONE-area,NONE-clydesdale:pull across:fielded-area
+2361482	A man with a funny hat on a big pretty horse.	NONE-man:with:NONE-hat,NONE-man:with:funny-hat,NONE-man:on:NONE-horse,NONE-man:on:big-horse,NONE-man:on:pretty-horse
+2361486	A very large crowd of people with a person in a horse mask.	NONE-crowd:of:NONE-people,large-crowd:of:NONE-people,NONE-crowd:in:NONE-mask,large-crowd:in:NONE-mask,NONE-people:with:NONE-person
+2361487	A pair of men dressed in civil war outfits riding horses.	NONE-man:dress in:NONE-outfit,NONE-man:dress in:civil-outfit,NONE-man:dress in:NONE-outfit,NONE-man:dress in:man-outfit
+2361505	A young woman is vigorously brushing her teeth.	NONE-woman:brush:NONE-tooth,young-woman:brush:NONE-tooth,NONE-woman:have:NONE-tooth,young-woman:have:NONE-tooth
+2361506	A man eating a hot dog on top of a plate.	NONE-man:eat:NONE-dog,NONE-man:eat:hot-dog,NONE-man:eat on top of:NONE-plate
+2361510	a pair of shoes and fabric strewn across a wooden floor.	NONE-pair:of:NONE-fabric,NONE-shoe:strew across:NONE-floor,NONE-shoe:strew across:wooden-floor,NONE-shoe:strew across:NONE-floor,NONE-shoe:strew across:wooden-floor
+2343821	A motorcycle parked in a courtyard in front of a small restaurant.	NONE-motorcycle:park in:NONE-courtyard,NONE-motorcycle:park in front of:NONE-restaurant,NONE-motorcycle:park in front of:small-restaurant
+2361513	A woman with a racket stands on a court.	NONE-woman:with:NONE-racket,NONE-woman:stand on:NONE-court
+2361514	A man performing a trick frisbee catch under his leg	NONE-man:perform:NONE-frisbee,NONE-man:catch under:NONE-leg,NONE-man:have:NONE-leg
+2361521	A group of police officers riding horses in a street.	NONE-group:of:NONE-officer,NONE-group:ride:NONE-horse,NONE-horse:in:NONE-street
+2361522	An image of the beach devoid of activity.	NONE-image:of:NONE-devoid,NONE-image:of:NONE-activity
+2361524	A man riding a wave on top of a surfboard.	NONE-man:ride:NONE-wave,NONE-man:ride on top of:NONE-surfboard
+2361529	Woman and her dog tends to the herd of sheep	NONE-Woman:have:NONE-dog,NONE-Woman:tend to:NONE-herd,NONE-dog:tend to:NONE-herd,NONE-herd:of:NONE-sheep
+2361531	An old man standing in front of a field with grazing sheep.	NONE-standing:in:NONE-front,old-standing:in:NONE-front,NONE-standing:of:NONE-field,old-standing:of:NONE-field,NONE-field:with:NONE-sheep
+2361533	A traffic light sitting next to a tree near a sign.	NONE-light:sit to:NONE-tree,NONE-tree:near:NONE-sign
+2361534	Two woman leaning against a wall wearing baby slings.	NONE-woman:lean against:NONE-wall,NONE-wall:wear:NONE-sling
+2361535	Two little birds perched next to a  vase with flowers.	NONE-bird:perch next to:NONE-vase,little-bird:perch next to:NONE-vase,NONE-bird:perch with:NONE-flower,little-bird:perch with:NONE-flower,NONE-bird:perch next to:NONE-vase,flower-bird:perch next to:NONE-vase,NONE-bird:perch with:NONE-flower,flower-bird:perch with:NONE-flower
+2361536	Two cows sitting on a beach next to a boat.	NONE-cow:sit on:NONE-beach,NONE-cow:sit next to:NONE-boat,NONE-cow:sit on:NONE-beach,NONE-cow:sit next to:NONE-boat
+2361537	A street containing various cars and lampposts at night.	NONE-street:contain:NONE-car,NONE-street:contain:various-car,NONE-street:contain:NONE-lamppost,NONE-street:contain at:NONE-night
+2361547	A person is browsing Facebook on their phone in a restaurant.	NONE-person:browse:NONE-Facebook,NONE-person:have:NONE-phone,NONE-Facebook:on:NONE-phone,NONE-phone:in:NONE-restaurant
+2361549	This zoo exhibit is home to a large group of girrafes	NONE-exhibit:to:NONE-group,NONE-exhibit:to:large-group,NONE-group:of:NONE-girrafe,large-group:of:NONE-girrafe
+2361553	a table with a line of different kind of dressed hot dogs.	NONE-table:with:NONE-line,NONE-table:of:NONE-dog,NONE-table:of:dressed-dog,NONE-table:of:hot-dog,NONE-line:of:NONE-kind,NONE-line:of:different-kind
+2361554	A gold and white cat is sitting on a chair.	NONE-gold:sit on:NONE-chair,NONE-cat:sit on:NONE-chair,white-cat:sit on:NONE-chair
+2361560	A small child rolls on a skateboard on his stomach.	NONE-child:roll on:NONE-skateboard,small-child:roll on:NONE-skateboard,NONE-child:have:NONE-stomach,small-child:have:NONE-stomach,NONE-skateboard:on:NONE-stomach
+2361563	A yellow fire hydrant in a weedy, poorly maintained area.	NONE-hydrant:in:NONE-weedy,yellow-hydrant:in:NONE-weedy,NONE-hydrant:maintain:NONE-area,yellow-hydrant:maintain:NONE-area
+2361567	Two zebras graze next to a creek.	NONE-zebra:graze to:NONE-creek,NONE-zebra:graze to:NONE-creek
+2361576	A dog sitting under a seat next to men's feet.	NONE-dog:sit under:NONE-seat,NONE-dog:sit next to:NONE-foot,NONE-man:have:NONE-foot
+2361577	A man holding a pair of headphones in his left hand.	NONE-man:hold:NONE-headphone,NONE-man:have:NONE-hand,NONE-man:have:left-hand,NONE-headphone:in:NONE-hand,NONE-headphone:in:left-hand
+2361578	A squirrel eating seeds on a platform in a garden	NONE-seed:on:NONE-platform,NONE-platform:in:NONE-garden
+2361580	Two people in a field playing with a white frisbee.	NONE-people:in:NONE-field,NONE-people:play with:NONE-frisbee,NONE-people:play with:white-frisbee,NONE-people:in:NONE-field,NONE-people:play with:NONE-frisbee,NONE-people:play with:white-frisbee
+2361585	A plane has its wings folded up towards the body.	NONE-plane:have:NONE-wing,NONE-plane:have:NONE-wing,NONE-wing:fold up towards:NONE-body
+2361589	A beautiful woman holding a tennis ball and racquet.	NONE-woman:hold:NONE-ball,beautiful-woman:hold:NONE-ball,NONE-woman:hold:NONE-racquet,beautiful-woman:hold:NONE-racquet
+2361591	An elephant crosses a dirt road in front of a white truck.	NONE-elephant:cross:NONE-road,NONE-elephant:cross in front of:NONE-truck,NONE-elephant:cross in front of:white-truck
+2361594	A man riding a skateboard through a park.	NONE-man:ride:NONE-skateboard,NONE-man:ride through:NONE-park
+2361595	A busy bicycle path near a parking lot in a large city.	NONE-path:near:NONE-lot,busy-path:near:NONE-lot,NONE-path:in:NONE-city,NONE-path:in:large-city,busy-path:in:NONE-city,busy-path:in:large-city
+2361596	Several elephants gathered together near a puddle of mud.	NONE-elephant:gather near:NONE-puddle,several-elephant:gather near:NONE-puddle,NONE-elephant:gather near:NONE-puddle,several-elephant:gather near:NONE-puddle,NONE-puddle:of:NONE-mud
+2361600	A person riding some skis down a hill covered in snow.	NONE-person:ride:NONE-ski,NONE-person:cover in:NONE-snow
+2361602	The cows are standing in a foggy field.	NONE-cow:stand in:NONE-field,NONE-cow:stand in:foggy-field,NONE-cow:stand in:NONE-field,NONE-cow:stand in:foggy-field
+2361607	The person stands on the surfboard on a small wave.	NONE-person:stand on:NONE-surfboard,NONE-surfboard:on:NONE-wave,NONE-surfboard:on:small-wave
+2361615	Woman holding umbrella walking on paved roadway next to wall.	NONE-umbrella:walk on:NONE-roadway,NONE-umbrella:walk on:paved-roadway,NONE-umbrella:walk next to:NONE-wall
+2361623	a white and black bear is eating in its pen	NONE-bear:eat in:NONE-pen,white-bear:eat in:NONE-pen,black-bear:eat in:NONE-pen,NONE-bear:have:NONE-pen,white-bear:have:NONE-pen,black-bear:have:NONE-pen
+2361624	Two large grey elephants fighting in a river.	NONE-elephant:fight in:NONE-river,large-elephant:fight in:NONE-river,grey-elephant:fight in:NONE-river,NONE-elephant:fight in:NONE-river,large-elephant:fight in:NONE-river,grey-elephant:fight in:NONE-river
+2361631	Five motorcycles making a turn on a motorcycle racing track.	NONE-motorcycle:make:NONE-turn,NONE-motorcycle:make:NONE-turn,NONE-motorcycle:make:NONE-turn,NONE-motorcycle:make:NONE-turn,NONE-motorcycle:make:NONE-turn,NONE-turn:on:NONE-track,NONE-turn:on:race-track
+2361632	A red bus on street next to buildings.	NONE-bus:on:NONE-street,red-bus:on:NONE-street,NONE-bus:next to:NONE-building,red-bus:next to:NONE-building
+2361634	A group of people riding on the backs of horses.	NONE-group:of:NONE-people,NONE-group:ride on:NONE-back,NONE-back:of:NONE-horse
+2361635	A large cake sitting in the middle of a table surrounded by pictures in frames.	NONE-cake:sit in:NONE-middle,large-cake:sit in:NONE-middle,NONE-cake:surround by:NONE-picture,large-cake:surround by:NONE-picture,NONE-middle:of:NONE-table,NONE-picture:in:NONE-frame
+2361637	The back end of some motor bikes on a street.	NONE-end:of:NONE-bike,back-end:of:NONE-bike,NONE-end:on:NONE-street,back-end:on:NONE-street
+2361638	A monument with a clock on each side by a body of water.	NONE-monument:with:NONE-clock,NONE-monument:by:NONE-body,NONE-clock:on:NONE-side,NONE-body:of:NONE-water
+2361643	a close up of a giraffes head with a wooden wall in the background	NONE-head:with:NONE-wall,NONE-head:with:wooden-wall,giraffes-head:with:NONE-wall,giraffes-head:with:wooden-wall,NONE-wall:in:NONE-background,wooden-wall:in:NONE-background
+2361649	Birds are standing in a row on a wooden railing.	NONE-Birds:stand in:NONE-row,NONE-row:on:NONE-railing,NONE-row:on:wooden-railing
+2361651	A group of people riding on the back of motor bikes.	NONE-group:of:NONE-people,NONE-group:ride on:NONE-back,NONE-back:of:NONE-bike
+2361652	Sign on the side of the road welcoming people to Arizona and another sign warning of road work ahead.	NONE-Sign:on:NONE-side,work-Sign:on:NONE-side,NONE-side:of:NONE-road,NONE-road:welcome:NONE-people,NONE-road:welcome:NONE-warning,NONE-people:to:NONE-Arizona,NONE-warning:of:NONE-road
+2361660	A man standing in a room holding his right arm up.	NONE-man:stand in:NONE-room,NONE-man:have:NONE-arm,NONE-man:have:right-arm,NONE-room:hold up:NONE-arm,NONE-room:hold up:right-arm
+2361666	A woman stuffing her face with a hot dog.	NONE-woman:have:NONE-face,NONE-woman:stuff:NONE-face,NONE-woman:stuff with:NONE-dog,NONE-woman:stuff with:hot-dog
+2361671	A woman holding a tennis racquet behind her back.	NONE-woman:hold:NONE-racquet,NONE-woman:have:NONE-back,NONE-woman:hold behind:NONE-back
+2361677	A woman sits under the shade of an umbrella at the beach.	NONE-woman:sit under:NONE-shade,NONE-shade:of:NONE-umbrella,NONE-umbrella:at:NONE-beach
+2361679	A couple of green street signs mounted above a pole.	NONE-sign:mount above:NONE-pole,green-sign:mount above:NONE-pole,NONE-sign:mount above:NONE-pole,green-sign:mount above:NONE-pole
+2361680	A picture of a stop sign and a stoplight.	NONE-picture:of:NONE-sign,NONE-picture:of:NONE-stoplight
+2361681	A bunch of boats gathered in a lake.	NONE-boat:gather in:NONE-lake,NONE-boat:gather in:NONE-lake
+2361682	People are flying their kites in the sky.	NONE-people:fly:NONE-kite,NONE-people:have:NONE-kite,NONE-people:have:NONE-kite,NONE-people:fly in:NONE-sky,NONE-people:fly:NONE-kite,NONE-people:fly in:NONE-sky
+2361683	A truck driving down a street next to two brick houses.	NONE-truck:drive down:NONE-street,NONE-street:next to:NONE-house,NONE-street:next to:NONE-house
+2361686	A group of people playing baseball on a field.	NONE-group:of:NONE-people,NONE-group:play:NONE-baseball,NONE-group:play on:NONE-field
+2361687	Two men on a field together playing ultimate frisbee.	NONE-man:on:NONE-field,NONE-man:play:NONE-frisbee,NONE-man:play:ultimate-frisbee,NONE-man:on:NONE-field,NONE-man:play:NONE-frisbee,NONE-man:play:ultimate-frisbee
+2361688	A television playing on a desk in a room with colorful art on the walls	NONE-playing:on:NONE-desk,NONE-playing:with:NONE-art,NONE-playing:with:colorful-art,NONE-playing:on:NONE-wall,NONE-desk:in:NONE-room
+2361692	4 different colored sea horses flying with 4 birds.	NONE-horse:fly with:NONE-bird,colored-horse:fly with:NONE-bird,different-horse:fly with:NONE-bird,NONE-horse:fly with:NONE-bird,colored-horse:fly with:NONE-bird,different-horse:fly with:NONE-bird,NONE-horse:fly with:NONE-bird,colored-horse:fly with:NONE-bird,different-horse:fly with:NONE-bird,NONE-horse:fly with:NONE-bird,colored-horse:fly with:NONE-bird,different-horse:fly with:NONE-bird,NONE-horse:fly with:NONE-bird,colored-horse:fly with:NONE-bird,different-horse:fly with:NONE-bird,NONE-horse:fly with:NONE-bird,colored-horse:fly with:NONE-bird,different-horse:fly with:NONE-bird,NONE-horse:fly with:NONE-bird,colored-horse:fly with:NONE-bird,different-horse:fly with:NONE-bird,NONE-horse:fly with:NONE-bird,colored-horse:fly with:NONE-bird,different-horse:fly with:NONE-bird,NONE-horse:fly with:NONE-bird,colored-horse:fly with:NONE-bird,different-horse:fly with:NONE-bird,NONE-horse:fly with:NONE-bird,colored-horse:fly with:NONE-bird,different-horse:fly with:NONE-bird,NONE-horse:fly with:NONE-bird,colored-horse:fly with:NONE-bird,different-horse:fly with:NONE-bird,NONE-horse:fly with:NONE-bird,colored-horse:fly with:NONE-bird,different-horse:fly with:NONE-bird,NONE-horse:fly with:NONE-bird,colored-horse:fly with:NONE-bird,different-horse:fly with:NONE-bird,NONE-horse:fly with:NONE-bird,colored-horse:fly with:NONE-bird,different-horse:fly with:NONE-bird,NONE-horse:fly with:NONE-bird,colored-horse:fly with:NONE-bird,different-horse:fly with:NONE-bird,NONE-horse:fly with:NONE-bird,colored-horse:fly with:NONE-bird,different-horse:fly with:NONE-bird
+2361693	A dimly lit bathroom with a row of sinks	NONE-bathroom:with:NONE-row,lit-bathroom:with:NONE-row,NONE-row:of:NONE-sink
+2361695	A child riding a skateboard through a ramp park.	NONE-child:ride:NONE-skateboard,NONE-child:ride through:NONE-park
+2361698	A group of men who are standing behind a banner that has various flags on it.	NONE-group:of:NONE-man,NONE-flag:on:NONE-group,various-flag:on:NONE-group
+2361699	A red and blue fire hydrant sitting on a patch of grass next to a small road.	NONE-patch:of:NONE-grass,NONE-grass:next to:NONE-road,NONE-grass:next to:small-road
+2361704	An man taking a picture of a sink through a mirror.	NONE-man:take:NONE-picture,NONE-man:take through:NONE-mirror,NONE-picture:of:NONE-sink
+2361707	The two rams are walking on the mountain together	NONE-ram:walk on:NONE-mountain,NONE-ram:walk on:NONE-mountain
+2361710	The tennis player is extending his reach to hit the racket.	NONE-player:extend:NONE-reach,NONE-player:have:NONE-reach,NONE-reach:hit:NONE-racket
+2361714	some young men in suits and ties standing together	NONE-man:in:NONE-suit,young-man:in:NONE-suit,NONE-man:in:NONE-tie,young-man:in:NONE-tie,NONE-man:in:NONE-suit,young-man:in:NONE-suit,NONE-man:in:NONE-tie,young-man:in:NONE-tie
+2361715	Bird perched atop the back of a park bench.	NONE-Bird:perch atop:NONE-back,NONE-back:of:NONE-bench
+2361718	Two men on a sofa holding laptops next to table.	NONE-man:on:NONE-sofa,NONE-man:hold:NONE-laptop,NONE-man:hold next to:NONE-table,NONE-man:on:NONE-sofa,NONE-man:hold:NONE-laptop,NONE-man:hold next to:NONE-table
+2361726	Woman wearing a black coat holding up a red cellphone.	NONE-Woman:wear:NONE-coat,NONE-Woman:wear:black-coat,NONE-coat:hold up:NONE-cellphone,NONE-coat:hold up:red-cellphone,black-coat:hold up:NONE-cellphone,black-coat:hold up:red-cellphone
+2361731	a man undoes the knot on his tie	NONE-man:undo:NONE-knot,NONE-man:have:NONE-tie,NONE-knot:on:NONE-tie
+2361732	Two men posing with a radio communication device.	NONE-man:pose with:NONE-device,NONE-man:pose with:NONE-device
+2361735	A refrigeration unit with half-empty gallons of milk and orange juice.	NONE-unit:with:NONE-gallon,NONE-unit:with:halfempty-gallon,juice-unit:with:NONE-gallon,juice-unit:with:halfempty-gallon,NONE-gallon:of:NONE-milk,halfempty-gallon:of:NONE-milk,NONE-gallon:of:NONE-orange,halfempty-gallon:of:NONE-orange
+2361736	A black boy playing tennis at a tennis court.	NONE-boy:play:NONE-tennis,black-boy:play:NONE-tennis,NONE-boy:play at:NONE-court,black-boy:play at:NONE-court
+2361741	A man with a visor and sunglasses on a grass field and holding a frisbee in both hands.	NONE-man:with:NONE-visor,NONE-man:with:NONE-sunglass,NONE-sunglass:on:NONE-field,NONE-sunglass:on:NONE-hold,NONE-frisbee:in:NONE-hand
+2361743	A plastic drinking can with flowers in it at a desk	NONE-drinking:can with:NONE-flower,plastic-drinking:can with:NONE-flower,NONE-flower:in:NONE-drinking,NONE-flower:in:plastic-drinking,NONE-flower:at:NONE-desk
+2361744	A boat sitting on water next to a red bench.	NONE-boat:sit on:NONE-water,NONE-boat:sit next to:NONE-bench,NONE-boat:sit next to:red-bench
+2361746	A woman riding a skateboard down a sidewalk in front of a building.	NONE-woman:ride:NONE-skateboard,NONE-woman:ride in front of:NONE-building
+2361750	A large brown bison standing in a field next to a mountain.	NONE-standing:in:NONE-field,large-standing:in:NONE-field,brown-standing:in:NONE-field,NONE-standing:next to:NONE-mountain,large-standing:next to:NONE-mountain,brown-standing:next to:NONE-mountain
+2361751	A fire pit in the middle of a kitchen counter.	NONE-pit:in:NONE-middle,counter-pit:in:NONE-middle,NONE-middle:of:NONE-kitchen
+2361752	A red do not enter sign sitting on the side of a road.	NONE-red:enter:NONE-sign,NONE-sign:sit on:NONE-side,NONE-side:of:NONE-road
+2361754	A group of men are standing in the back of a pick up truck.	NONE-group:of:NONE-man,NONE-group:stand in:NONE-back,NONE-group:stand up:NONE-truck,NONE-back:of:NONE-pick
+2361755	A person doing a trick on a snowboard over a hill.	NONE-person:do:NONE-trick,NONE-person:do on:NONE-snowboard,NONE-snowboard:over:NONE-hill
+2361758	A person is riding a motorcycle as part of some kind of performance.	NONE-person:ride:NONE-motorcycle,NONE-person:ride as:NONE-part,NONE-part:of:NONE-kind,NONE-kind:of:NONE-performance
+2361759	A basic looking kitchen with oak cabinets.	NONE-basic:look:NONE-kitchen,NONE-basic:look with:NONE-cabinet
+2361764	A baseball player swinging a ball at a bat.	NONE-player:swing:NONE-ball,NONE-player:swing at:NONE-bat
+2361765	A large white clock tower with steeple overlooking city.	NONE-tower:with:NONE-steeple,large-tower:with:NONE-steeple,white-tower:with:NONE-steeple,NONE-tower:overlook:NONE-city,large-tower:overlook:NONE-city,white-tower:overlook:NONE-city
+2361766	Two elephants walking through a lush green field.	NONE-elephant:walk through:NONE-field,NONE-elephant:walk through:green-field,NONE-elephant:walk through:lush-field,NONE-elephant:walk through:NONE-field,NONE-elephant:walk through:green-field,NONE-elephant:walk through:lush-field
+2361767	A kid is standing on a tennis court with a racket.	NONE-kid:stand on:NONE-court,NONE-court:with:NONE-racket
+2361772	Two people in lab coats are doing something they pulled up on their laptop.	NONE-people:in:NONE-coat,NONE-people:do:NONE-something,NONE-people:have:NONE-laptop,NONE-people:pull up on:NONE-laptop,NONE-people:in:NONE-coat,NONE-people:do:NONE-something,NONE-people:have:NONE-laptop,NONE-people:pull up on:NONE-laptop
+2361773	A sandy beach covered in lawn chairs and umbrellas.	NONE-beach:cover in:NONE-chair,sandy-beach:cover in:NONE-chair,NONE-beach:cover in:NONE-umbrella,sandy-beach:cover in:NONE-umbrella
+2361776	The train engine with a long string of cars proceeds down the track by the verdant meadow.	NONE-engine:with:NONE-car,NONE-engine:proceed down:NONE-track,NONE-engine:proceed down by:NONE-meadow,NONE-engine:proceed down by:verdant-meadow
+2361777	There are people who are getting their food.	NONE-people:have:NONE-food,NONE-people:have:NONE-food
+2361782	Several train cars going in different directions at a depot.	NONE-car:go in:NONE-direction,NONE-car:go in:different-direction,several-car:go in:NONE-direction,several-car:go in:different-direction,NONE-car:go at:NONE-depot,several-car:go at:NONE-depot,NONE-car:go in:NONE-direction,NONE-car:go in:different-direction,several-car:go in:NONE-direction,several-car:go in:different-direction,NONE-car:go at:NONE-depot,several-car:go at:NONE-depot
+2361784	A herd of horses standing on top of a dirt field.	NONE-herd:of:NONE-horse,NONE-herd:stand on top of:NONE-field
+2361787	A person jumping a horse over a box.	NONE-person:jump:NONE-horse,NONE-horse:over:NONE-box
+2361790	A toilet with a control panel on the side.	NONE-toilet:with:NONE-panel,NONE-toilet:on:NONE-side
+2361792	some black and white cattle on a road and in a field	NONE-cattle:on:NONE-road,white-cattle:on:NONE-road,black-cattle:on:NONE-road,NONE-cattle:in:NONE-field
+2361793	A canal going through a city filled with boats.	NONE-canal:go through:NONE-city,NONE-canal:fill with:NONE-boat
+2361795	Three people posing with a tennis racket for the camera.	NONE-people:pose with:NONE-racket,NONE-people:pose with:NONE-racket,NONE-people:pose with:NONE-racket,NONE-racket:for:NONE-camera
+2361797	A major league baseball player just smacked the laces off of that ball.	NONE-player:smack off:NONE-lace,major-player:smack off:NONE-lace,NONE-player:smack off of:NONE-ball,major-player:smack off of:NONE-ball
+2361798	there is a baby sitting on a chair with a stuffed bear	NONE-baby:sit on:NONE-chair,NONE-chair:with:NONE-bear,NONE-chair:with:stuffed-bear
+2361799	A statue of a large brown bear tearing off a cars door.	NONE-statue:of:NONE-bear,NONE-statue:of:large-bear,NONE-statue:of:brown-bear,NONE-statue:tear off:NONE-door
+2361805	a building with a pole and some street signs	NONE-building:with:NONE-pole,NONE-building:with:NONE-sign
+2361807	Guy and a girl playing video games at a party.	NONE-Guy:play:NONE-game,NONE-Guy:play:video-game,NONE-Guy:play at:NONE-party
+2361817	A person standing in front of a large body of water as the sun sets.	NONE-standing:in front of:NONE-body,NONE-standing:in front of:large-body,set-standing:in front of:NONE-body,set-standing:in front of:large-body,NONE-body:of:NONE-water,large-body:of:NONE-water,NONE-water:as:NONE-sun
+2361818	A group of people standing in the snow with boards.	NONE-group:of:NONE-people,NONE-group:stand in:NONE-snow,NONE-snow:with:NONE-board
+2361819	A small piece of nutty cake on a plate	NONE-piece:of:NONE-cake,NONE-piece:of:nutty-cake,small-piece:of:NONE-cake,small-piece:of:nutty-cake,NONE-cake:on:NONE-plate,nutty-cake:on:NONE-plate
+2361823	A carved wooden elephant next to a book.	NONE-A:carve:NONE-elephant,NONE-A:carve:wooden-elephant,NONE-A:carve next to:NONE-book
+2361833	A cow grazing on a steep hill in a mountain range.	NONE-grazing:on:NONE-hill,NONE-grazing:on:steep-hill,range-grazing:on:NONE-hill,range-grazing:on:steep-hill,NONE-hill:in:NONE-mountain,steep-hill:in:NONE-mountain
+2361834	A little girl holding a white frisbee next to a play ground.	NONE-girl:hold:NONE-frisbee,NONE-girl:hold:white-frisbee,little-girl:hold:NONE-frisbee,little-girl:hold:white-frisbee,NONE-girl:hold next to:NONE-ground,little-girl:hold next to:NONE-ground
+2361836	A man hits a tennis ball with something other than a racket	NONE-man:hit:NONE-ball,NONE-man:hit with:NONE-something,NONE-man:hit with:other-something,NONE-something:than:NONE-racket,other-something:than:NONE-racket
+2361839	A boat floating on top of a river next to a forest.	NONE-boat:float on top of:NONE-river,NONE-river:next to:NONE-forest
+2361841	Two skate boards sitting side by side next to each other on a floor.	NONE-board:sit:NONE-side,skate-board:sit:NONE-side,NONE-board:sit by:NONE-side,skate-board:sit by:NONE-side,NONE-board:sit on:NONE-floor,skate-board:sit on:NONE-floor,NONE-board:sit:NONE-side,skate-board:sit:NONE-side,NONE-board:sit by:NONE-side,skate-board:sit by:NONE-side,NONE-board:sit on:NONE-floor,skate-board:sit on:NONE-floor
+2361843	A man riding a snowboard through the air on the side of a mountain.	NONE-man:ride:NONE-snowboard,NONE-man:ride through:NONE-air,NONE-air:on:NONE-side,NONE-side:of:NONE-mountain
+2361844	Yellow and red floral arrangement displayed in bathroom.	NONE-Yellow:display in:NONE-bathroom,NONE-arrangement:display in:NONE-bathroom,red-arrangement:display in:NONE-bathroom,floral-arrangement:display in:NONE-bathroom
+2361846	a lone black and white cow standing on a large field of grass	NONE-standing:on:NONE-field,NONE-standing:on:large-field,white-standing:on:NONE-field,white-standing:on:large-field,lone-standing:on:NONE-field,lone-standing:on:large-field,black-standing:on:NONE-field,black-standing:on:large-field,NONE-standing:of:NONE-grass,white-standing:of:NONE-grass,lone-standing:of:NONE-grass,black-standing:of:NONE-grass
+2361848	Multiple people doing tricks on skateboards next to barrier.	NONE-people:do:NONE-trick,multiple-people:do:NONE-trick,NONE-people:do:NONE-trick,multiple-people:do:NONE-trick,NONE-trick:on:NONE-skateboard,NONE-skateboard:next to:NONE-barrier
+2361850	A herd of zebra standing next to each other in a lush green field.	NONE-herd:of:NONE-zebra,NONE-herd:stand in:NONE-field,NONE-herd:stand in:green-field,NONE-herd:stand in:lush-field
+2361855	Two toilets are in a restroom with a vanity with dual sinks.	NONE-toilet:in:NONE-restroom,NONE-toilet:in:NONE-restroom,NONE-restroom:with:NONE-vanity,NONE-vanity:with:NONE-sink,NONE-vanity:with:dual-sink
+2361856	A woman is walking down the street with a handbag and a cell phone.	NONE-woman:walk down:NONE-street,NONE-street:with:NONE-handbag,NONE-street:with:NONE-phone
+2361861	A clock mounted above a door entrance with windows.	NONE-clock:mount above:NONE-entrance,NONE-clock:mount with:NONE-window
+2361862	A large sign hanging on the side of a metal structure.	NONE-sign:hang on:NONE-side,large-sign:hang on:NONE-side,NONE-side:of:NONE-structure
+2361863	A boy is sitting on the grass with a frisbee.	NONE-boy:sit on:NONE-grass,NONE-grass:with:NONE-frisbee
+2361865	Two men sitting on a bench in baseball uniforms.	NONE-man:sit on:NONE-bench,NONE-man:sit on:NONE-bench,NONE-bench:in:NONE-uniform
+2361866	Six people in a boat rowing on a body of water.	NONE-people:in:NONE-rowing,NONE-people:on:NONE-body,NONE-people:in:NONE-rowing,NONE-people:on:NONE-body,NONE-people:in:NONE-rowing,NONE-people:on:NONE-body,NONE-people:in:NONE-rowing,NONE-people:on:NONE-body,NONE-people:in:NONE-rowing,NONE-people:on:NONE-body,NONE-people:in:NONE-rowing,NONE-people:on:NONE-body,NONE-body:of:NONE-water
+2361867	Two small dogs on a sidewalk near a bicycle.	NONE-dog:on:NONE-sidewalk,small-dog:on:NONE-sidewalk,NONE-dog:near:NONE-bicycle,small-dog:near:NONE-bicycle,NONE-dog:on:NONE-sidewalk,small-dog:on:NONE-sidewalk,NONE-dog:near:NONE-bicycle,small-dog:near:NONE-bicycle
+2361869	A man is doing a trick on a skateboard.	NONE-man:do:NONE-trick,NONE-trick:on:NONE-skateboard
+2361870	A zebra is running into a group of wildebeests.	NONE-zebra:run into:NONE-group,NONE-group:of:NONE-wildebeest
+2361880	A guy holding a white umbrella and light on the beach at night.	NONE-guy:hold:NONE-umbrella,NONE-guy:hold:white-umbrella,NONE-guy:hold:NONE-light,NONE-umbrella:on:NONE-beach,white-umbrella:on:NONE-beach,NONE-beach:at:NONE-night
+2361883	The man, the young girl, and dog are on the surfboard.	NONE-man:on:NONE-surfboard,NONE-girl:on:NONE-surfboard,young-girl:on:NONE-surfboard,NONE-dog:on:NONE-surfboard
+2361886	A delicious view of some healthy food set in a plate.	NONE-view:of:NONE-food,NONE-view:of:healthy-food,delicious-view:of:NONE-food,delicious-view:of:healthy-food,NONE-view:set in:NONE-plate,delicious-view:set in:NONE-plate
+2361887	there are many people boarding a large plane	NONE-people:board:NONE-plane,NONE-people:board:large-plane,many-people:board:NONE-plane,many-people:board:large-plane,NONE-people:board:NONE-plane,NONE-people:board:large-plane,many-people:board:NONE-plane,many-people:board:large-plane
+2361891	A woman holds an umbrella at in indoor train station.	NONE-woman:hold:NONE-umbrella,NONE-woman:hold in:NONE-station,NONE-woman:hold in:indoor-station
+2361899	a policeman on a motorcycle and some orange cones	NONE-policeman:on:NONE-motorcycle,NONE-policeman:on:NONE-cone,NONE-policeman:on:orange-cone
+2361902	A woman has a boogie board and there is another woman behind her.	NONE-woman:have:NONE-board,NONE-woman:have:boogie-board,NONE-woman:behind:NONE-woman
+2361903	A wooden table topped with slices of toast, soup and OJ>	NONE-table:top with:NONE-slice,wooden-table:top with:NONE-slice,NONE-slice:of:NONE->
+2361905	An elephant standing over another elephant with its trunk over its head.	NONE-elephant:stand over:NONE-elephant,NONE-elephant:have:NONE-trunk,NONE-elephant:have:NONE-head,NONE-elephant:with:NONE-trunk,NONE-trunk:over:NONE-head
+2361907	A man wearing a red shirt reaching for a ball with a tennis racket.	NONE-man:wear:NONE-shirt,NONE-man:wear:red-shirt,NONE-shirt:reach for:NONE-ball,red-shirt:reach for:NONE-ball,NONE-ball:with:NONE-racket
+2361910	A bunch of elephants are standing in a field.	NONE-elephant:stand in:NONE-field,NONE-elephant:stand in:NONE-field
+2361911	A woman leaning on a silver microwave next to shelf.	NONE-woman:lean on:NONE-microwave,NONE-woman:lean on:silver-microwave,NONE-woman:lean next to:NONE-shelf
+2361917	A row of doughnuts being passed through a fryer.	NONE-row:of:NONE-doughnut,NONE-row:pass through:NONE-fryer
+2361921	Commercial logging transport truck on dirt road near forest.	NONE-truck:on:NONE-road,commercial-truck:on:NONE-road,log-truck:on:NONE-road,NONE-road:near:NONE-forest
+2361922	a close up of some bright colorful kites above the beach	NONE-kite:above:NONE-beach,bright-kite:above:NONE-beach,colorful-kite:above:NONE-beach,NONE-kite:above:NONE-beach,bright-kite:above:NONE-beach,colorful-kite:above:NONE-beach
+2361923	The motorcyclists are on a charity ride through the town.	NONE-motorcyclist:on:NONE-ride,NONE-motorcyclist:on:NONE-ride,NONE-ride:through:NONE-town
+2361927	Two brown bears swimming together in green water.	NONE-bear:swim in:NONE-water,NONE-bear:swim in:green-water,brown-bear:swim in:NONE-water,brown-bear:swim in:green-water,NONE-bear:swim in:NONE-water,NONE-bear:swim in:green-water,brown-bear:swim in:NONE-water,brown-bear:swim in:green-water
+2361930	Man in a blue jacket with a dog on his shoulders.	NONE-man:in:NONE-jacket,NONE-man:in:blue-jacket,NONE-man:with:NONE-dog,NONE-man:have:NONE-shoulder,NONE-dog:on:NONE-shoulder
+2361933	Different assortment of noodles and vegetables sitting in a pot and tray.	NONE-assortment:of:NONE-noodle,different-assortment:of:NONE-noodle,NONE-assortment:of:NONE-vegetable,different-assortment:of:NONE-vegetable,NONE-assortment:sit in:NONE-pot,different-assortment:sit in:NONE-pot,NONE-assortment:sit in:NONE-tray,different-assortment:sit in:NONE-tray
+2361941	a train on a train track at a train station	NONE-train:on:NONE-train,NONE-train:track at:NONE-station
+2361942	Two trains sit side by side on the rusty rails.	NONE-train:sit:NONE-side,NONE-train:sit by:NONE-side,NONE-train:sit:NONE-side,NONE-train:sit by:NONE-side,NONE-side:on:NONE-rail,NONE-side:on:rusty-rail
+2361945	a bed room with a bed with a canopy	NONE-room:with:NONE-bed,NONE-room:with:NONE-canopy
+2361946	A living room filled with furniture and a small TV.	NONE-room:fill with:NONE-furniture,NONE-room:fill with:NONE-tv,NONE-room:fill with:small-tv
+2361949	A red train traveling down train tracks in a city.	NONE-train:travel down:NONE-train,red-train:travel down:NONE-train,NONE-train:track in:NONE-city,red-train:track in:NONE-city
+2361951	A train traveling along a loading platform at a train station.	NONE-train:travel along:NONE-platform,NONE-platform:at:NONE-station
+2361955	A large body of water with a boat on it.	NONE-body:of:NONE-water,large-body:of:NONE-water,NONE-body:with:NONE-boat,large-body:with:NONE-boat,NONE-boat:on:NONE-body,NONE-boat:on:large-body
+2361956	Farmer's market style display of carrots, celery, egg plants and squash.	NONE-Farmer:have:NONE-style,NONE-style:display of:NONE-carrot,NONE-style:display of:NONE-celery,NONE-style:display of:NONE-plant,NONE-style:display of:NONE-squash
+2361969	Black and white photograph of a horse below a window in a stable.	NONE-photograph:of:NONE-horse,white-photograph:of:NONE-horse,black-photograph:of:NONE-horse,NONE-photograph:in:NONE-stable,white-photograph:in:NONE-stable,black-photograph:in:NONE-stable,NONE-horse:below:NONE-window
+2361970	Two credit cards cut in half underneath a pair of scissors.	NONE-card:cut in:NONE-half,NONE-card:cut underneath:NONE-scissors,NONE-card:cut in:NONE-half,NONE-card:cut underneath:NONE-scissors
+2361974	A MAN AND CHILD ARE AT THE WATERS EDGE WITH A SURFBOARD	NONE-MAN:at:NONE-EDGE,NONE-MAN:at with:NONE-SURFBOARD,NONE-CHILD:at:NONE-EDGE,NONE-CHILD:at with:NONE-SURFBOARD
+2361975	A group of people standing around a table with a cake.	NONE-group:of:NONE-people,NONE-group:stand around:NONE-table,NONE-table:with:NONE-cake
+2361986	A set of wooden lawn furniture sitting on the ground.	NONE-set:of:NONE-furniture,NONE-set:of:wooden-furniture,NONE-set:sit on:NONE-ground
+2361987	A large bird flying over the water at sunset.	NONE-bird:fly over:NONE-water,large-bird:fly over:NONE-water,NONE-water:at:NONE-sunset
+2361989	People snowboarding down a hill in the mountains.	NONE-people:snowboard down:NONE-hill,NONE-people:snowboard down:NONE-hill,NONE-hill:in:NONE-mountain
+2361996	A row of park benches with flower beds hanging next to them.	NONE-row:hang to:NONE-row,NONE-row:of:NONE-bench,NONE-bench:with:NONE-bed
+2362003	A room with white walls and bright lights.	NONE-room:with:NONE-wall,NONE-room:with:white-wall,NONE-room:with:NONE-light,NONE-room:with:bright-light
+2362004	A tennis player holding his racket on the court.	NONE-player:have:NONE-racket,NONE-player:hold:NONE-racket,NONE-player:hold on:NONE-court
+2362007	A group of men holding a long hose next to a boat.	NONE-group:of:NONE-man,NONE-group:hold:NONE-hose,NONE-group:hold:long-hose,NONE-group:hold next to:NONE-boat
+2362008	Two giraffes are standing next to each other by trees.	NONE-giraffe:stand by:NONE-tree,NONE-giraffe:stand by:NONE-tree
+2362009	A household bathroom with vanity sink, toilet and tub and shower.	NONE-bathroom:with:NONE-sink,NONE-bathroom:with:NONE-toilet,NONE-bathroom:with:NONE-shower
+2362011	Two lounge chairs beneath an umbrella on the sand at the beach	NONE-chair:beneath:NONE-umbrella,NONE-chair:on:NONE-sand,NONE-chair:at:NONE-beach,NONE-chair:beneath:NONE-umbrella,NONE-chair:on:NONE-sand,NONE-chair:at:NONE-beach
+2362016	The train is going down the tracks by the church.	NONE-train:go down:NONE-track,NONE-train:go down by:NONE-church
+2362018	this is a sculpture of a seal with a hat	NONE-sculpture:of:NONE-seal,NONE-seal:with:NONE-hat
+2362026	A baby brushing it's teeth with a toothbrush.	NONE-baby:brush:NONE-baby,NONE-baby:brush:tooth-baby,tooth-baby:brush:NONE-baby,tooth-baby:brush:tooth-baby,NONE-tooth:with:NONE-toothbrush,NONE-tooth:with:NONE-toothbrush
+2362028	A pile of food sitting on top of a white plate.	NONE-pile:of:NONE-food,NONE-pile:sit on top of:NONE-plate,NONE-pile:sit on top of:white-plate
+2362029	A passenger jet airplane taking off with mountains in the background.	NONE-airplane:take off with:NONE-mountain,NONE-mountain:in:NONE-background
+2362030	A man on a court swinging a racket at a ball.	NONE-man:on:NONE-court,NONE-man:swing:NONE-racket,NONE-man:swing at:NONE-ball
+2362031	A black crow standing on a rock with its mouth open	NONE-standing:on:NONE-rock,black-standing:on:NONE-rock,NONE-standing:have:NONE-mouth,black-standing:have:NONE-mouth,NONE-rock:with:NONE-mouth
+2362034	horses are eating grass in a big field	NONE-horse:eat:NONE-grass,NONE-horse:eat:NONE-grass,NONE-grass:in:NONE-field,NONE-grass:in:big-field
+2362040	A woman riding a surfboard in a bikini bottom on a wave.	NONE-woman:ride:NONE-surfboard,NONE-woman:ride in:NONE-bottom,NONE-bottom:on:NONE-wave
+2362041	Many people bike through the streets at night.	NONE-people:bike through:NONE-street,many-people:bike through:NONE-street,NONE-people:bike at:NONE-night,many-people:bike at:NONE-night,NONE-people:bike through:NONE-street,street-people:bike through:NONE-street,NONE-people:bike at:NONE-night,street-people:bike at:NONE-night
+2362045	A plate with a mushroom and vegetables sitting on a table.	NONE-plate:with:NONE-mushroom,NONE-plate:with:NONE-vegetable,NONE-plate:sit on:NONE-table
+2362046	A partially eaten sandwich with steak and onions.	NONE-A:eat:NONE-sandwich,NONE-A:eat with:NONE-steak,NONE-A:eat with:NONE-onion
+2362049	A large green plant with snow on it's leaves.	NONE-plant:with:NONE-snow,green-plant:with:NONE-snow,large-plant:with:NONE-snow,leaf-plant:with:NONE-snow,NONE-snow:on:NONE-plant,NONE-snow:on:green-plant,NONE-snow:on:large-plant,NONE-snow:on:leaf-plant
+2362054	A cluttered desk with a laptop and discs sitting on it.	NONE-desk:sit on:NONE-desk,NONE-desk:sit on:cluttered-desk,cluttered-desk:sit on:NONE-desk,cluttered-desk:sit on:cluttered-desk,NONE-desk:with:NONE-laptop,cluttered-desk:with:NONE-laptop,NONE-desk:with:NONE-disc,cluttered-desk:with:NONE-disc
+2362056	a man on a motor bike jumps over a hill	NONE-man:on:NONE-bike,NONE-man:jump over:NONE-hill
+2362059	A truck carrying a smaller truck on a road.	NONE-truck:carry:NONE-truck,NONE-truck:carry:smaller-truck,NONE-truck:carry on:NONE-road
+2362062	this is a woman hilding a racket in a game	NONE-woman:hild:NONE-racket,NONE-racket:in:NONE-game
+2362064	A shirtless guy stands on a skateboard, while another person sits on it.	NONE-guy:stand on:NONE-skateboard,NONE-person:sit on:NONE-guy
+2362065	A bathroom with a paper dispenser, toilet roll and garbage bin.	NONE-bathroom:with:NONE-dispenser,bin-bathroom:with:NONE-dispenser,NONE-bathroom:with:NONE-roll,bin-bathroom:with:NONE-roll,NONE-bathroom:with:NONE-garbage,bin-bathroom:with:NONE-garbage
+2362071	a woman is standing near a curb by a car	NONE-woman:stand near:NONE-curb,NONE-woman:stand by:NONE-car
+2362072	A man and woman that are sitting on a bench.	NONE-man:sit on:NONE-bench,NONE-woman:sit on:NONE-bench
+2362073	A black bear crossing a forest lined street.	NONE-bear:cross:NONE-forest,black-bear:cross:NONE-forest,NONE-bear:line:NONE-street,black-bear:line:NONE-street
+2362074	A person riding a horse on top of a lush green field.	NONE-person:ride:NONE-horse,NONE-person:ride on top of:NONE-field,NONE-person:ride on top of:green-field,NONE-person:ride on top of:lush-field
+2362075	The man is on a horse pointing his finger.	NONE-man:on:NONE-horse,NONE-horse:have:NONE-finger,NONE-horse:point:NONE-finger
+2362076	a couple of trains are sitting on some tracks	NONE-train:sit on:NONE-track,NONE-train:sit on:NONE-track
+2362079	A group of people sitting at a table together.	NONE-group:of:NONE-people,NONE-group:sit at:NONE-table
+2362080	A bunch of glasses of wine sitting in front of a camera.	NONE-bunch:sit in front of:NONE-camera,NONE-glass:of:NONE-wine,NONE-glass:of:NONE-wine
+2362085	A group of men in wheelchairs play tennis in a tennis court.	NONE-group:of:NONE-man,NONE-group:play:NONE-tennis,NONE-man:in:NONE-wheelchair,NONE-tennis:in:NONE-court
+2362086	a croissant on a plate near a beverage on a table	NONE-croissant:on:NONE-plate,NONE-plate:near:NONE-beverage,NONE-beverage:on:NONE-table
+2362088	A rusted out old train sitting on the side of a road.	NONE-A:rust out:NONE-train,NONE-A:rust out:old-train,NONE-train:sit on:NONE-side,old-train:sit on:NONE-side,NONE-side:of:NONE-road
+2362092	People take brownies and oreos off of plates.	NONE-people:take off:NONE-brownie,NONE-people:take off:NONE-oreo,NONE-people:take off of:NONE-plate,NONE-people:take off:NONE-brownie,NONE-people:take off:NONE-oreo,NONE-people:take off of:NONE-plate
+2362094	A white toilet with it's seat up in a bathroom.	NONE-toilet:have:NONE-seat,white-toilet:have:NONE-seat,NONE-toilet:with:NONE-seat,white-toilet:with:NONE-seat
+2362100	A street sign next to a building with a white heart in a second story window.	NONE-street:sign next to:NONE-building,NONE-street:sign with:NONE-heart,NONE-street:sign with:white-heart,NONE-heart:in:NONE-window,NONE-heart:in:second-window,white-heart:in:NONE-window,white-heart:in:second-window
+2362101	A man in black shirt playing a game with a Nintendo Wii controller.	NONE-man:in:NONE-shirt,NONE-man:in:black-shirt,NONE-man:play:NONE-game,NONE-man:play with:NONE-controller
+2362107	a woman tosses a frisbee in a public park	NONE-woman:toss:NONE-frisbee,NONE-frisbee:in:NONE-park,NONE-frisbee:in:public-park
+2362109	Large clock tower overlooking a busy street during the day.	NONE-tower:overlook:NONE-street,NONE-tower:overlook:busy-street,large-tower:overlook:NONE-street,large-tower:overlook:busy-street,NONE-tower:overlook during:NONE-day,large-tower:overlook during:NONE-day
+2362111	a man that is standing up with a cord in his hand	NONE-man:have:NONE-hand,NONE-man:in:NONE-hand
+2362116	A stop sign on the corner of W Waveland Ave.	NONE-sign:on:NONE-corner,NONE-corner:of:NONE-Ave.
+2362118	Many different types of small boats on the water.	NONE-type:of:NONE-boat,NONE-type:of:small-boat,many-type:of:NONE-boat,many-type:of:small-boat,different-type:of:NONE-boat,different-type:of:small-boat,NONE-type:on:NONE-water,many-type:on:NONE-water,different-type:on:NONE-water,NONE-type:of:NONE-boat,NONE-type:of:small-boat,many-type:of:NONE-boat,many-type:of:small-boat,different-type:of:NONE-boat,different-type:of:small-boat,NONE-type:on:NONE-water,many-type:on:NONE-water,different-type:on:NONE-water
+2362119	A boy in red shirt grinding a skateboard on a stair.	NONE-boy:in:NONE-shirt,NONE-boy:in:red-shirt,NONE-boy:grind:NONE-skateboard,NONE-skateboard:on:NONE-stair
+2362121	A work space in a home under a couple of windows.	NONE-space:in:NONE-home,NONE-space:of:NONE-window,NONE-home:under:NONE-couple
+2362123	A pottery vase filled with flowers and leaves.	NONE-vase:fill with:NONE-flower,NONE-vase:fill with:NONE-leaf
+2362125	a man with a white shirt is being fed food by someone else	NONE-man:with:NONE-shirt,NONE-man:with:white-shirt,NONE-someone:feed:NONE-man
+2362131	there is a an washing his foot in a toilet	NONE-a:wash:NONE-foot,NONE-a:wash in:NONE-toilet
+2362144	A young man on a skate board in a big court yard.	NONE-man:on:NONE-board,NONE-man:on:skate-board,young-man:on:NONE-board,young-man:on:skate-board,NONE-man:in:NONE-yard,NONE-man:in:big-yard,young-man:in:NONE-yard,young-man:in:big-yard
+2362157	An elephant is walking around his exhibit at the zoo	NONE-elephant:have:NONE-exhibit,NONE-elephant:walk around:NONE-exhibit,NONE-elephant:walk at:NONE-zoo
+2362158	A table with food in the middle of a garden setting.	NONE-table:with:NONE-food,NONE-table:in:NONE-middle,NONE-middle:of:NONE-setting
+2362159	A hot dog sitting on top of an orange tray next to a pile of fries.	NONE-dog:sit on top of:NONE-tray,NONE-dog:sit on top of:orange-tray,hot-dog:sit on top of:NONE-tray,hot-dog:sit on top of:orange-tray,NONE-dog:sit next to:NONE-pile,hot-dog:sit next to:NONE-pile,NONE-pile:of:NONE-fries
+2362165	A large living room with yellow curtains and couches	NONE-room:with:NONE-curtain,NONE-room:with:yellow-curtain,NONE-room:with:NONE-couch
+2362167	Three dishes of food on a green surface.	NONE-dish:of:NONE-food,NONE-dish:on:NONE-surface,NONE-dish:on:green-surface,NONE-dish:of:NONE-food,NONE-dish:on:NONE-surface,NONE-dish:on:green-surface,NONE-dish:of:NONE-food,NONE-dish:on:NONE-surface,NONE-dish:on:green-surface
+2362168	A person wearing a tie posing for a photo.	NONE-person:wear:NONE-tie,NONE-tie:pose for:NONE-photo
+2362169	there is a woman sitting on the stairs talking on the phone	NONE-woman:sit on:NONE-stair,NONE-stair:talk on:NONE-phone
+2362171	an image of a tennis player holding a tennis racket	NONE-image:of:NONE-player,NONE-player:hold:NONE-racket
+2362172	a lamppost during the day with two street sign	NONE-lamppost:during:NONE-day,NONE-lamppost:with:NONE-sign
+2362173	A lady is in the hospital and sitting in a chair smiling.	NONE-lady:in:NONE-hospital,NONE-lady:sit in:NONE-chair
+2362176	A giraffe standing underneath a beautiful rainbow in a cloudy sky..	NONE-giraffe:stand underneath:NONE-rainbow,NONE-giraffe:stand underneath:beautiful-rainbow,NONE-rainbow:in:NONE-sky,NONE-rainbow:in:cloudy-sky,beautiful-rainbow:in:NONE-sky,beautiful-rainbow:in:cloudy-sky
+2362179	A cat sleeping on top of a birdcage with a bird in it.	NONE-cat:sleep on top of:NONE-birdcage,NONE-cat:sleep with:NONE-bird,NONE-bird:in:NONE-cat
+2362181	Orange slices, onion slices, and pieces of bologna frying in a pan.	NONE-piece:of:NONE-frying,NONE-frying:in:NONE-pan
+2362182	A man riding a bike next to a red stop sign.	NONE-man:ride:NONE-bike,NONE-man:ride next to:NONE-sign,NONE-man:ride next to:red-sign
+2362184	A man slicing pizza behind the counter of a food place.	NONE-man:slice:NONE-pizza,NONE-man:slice behind:NONE-counter,NONE-counter:of:NONE-place
+2362189	Large television screen on top of an entertainment center in living room.	NONE-television:screen on top of:NONE-center,large-television:screen on top of:NONE-center,NONE-screen:on top of:NONE-center,NONE-center:in:NONE-room,NONE-center:in:live-room
+2362193	2 smiling men ring a gong in unison.	NONE-man:ring:NONE-gong,NONE-man:ring:NONE-gong,NONE-gong:in:NONE-unison
+2362200	A military air craft flies in the sky with landing gear down.	NONE-craft:fly in:NONE-sky,military-craft:fly in:NONE-sky,NONE-sky:with:NONE-gear
+2362201	A group of people standing on top of a beach near the ocean.	NONE-group:of:NONE-people,NONE-group:stand on top of:NONE-beach,NONE-beach:near:NONE-ocean
+2362203	A man standing over a cake next to a little boy.	NONE-standing:over:NONE-cake,NONE-standing:next to:NONE-boy,NONE-standing:next to:little-boy
+2362214	Top view of an orange with the to sliced off.	NONE-view:of:NONE-orange,top-view:of:NONE-orange,NONE-orange:with:NONE-the
+2362215	The Big Ben clock tower towering over the city of London	NONE-towering:over:NONE-city,NONE-city:of:NONE-London
+2362217	A pier with several boats in the water.	NONE-pier:with:NONE-boat,NONE-pier:with:several-boat,NONE-pier:in:NONE-water
+2362218	A tennis player jumps into the air while holding his racquet.	NONE-player:jump into:NONE-air,NONE-player:have:NONE-racquet
+2362219	A cook is in a kitchen looking at an aluminum pan.	NONE-cook:in:NONE-kitchen,NONE-kitchen:look at:NONE-pan
+2362220	a smal bench holds a teddy bear and an embroidered pillow	NONE-bench:hold:NONE-bear,NONE-bench:hold:teddy-bear,smal-bench:hold:NONE-bear,smal-bench:hold:teddy-bear,NONE-bench:hold:NONE-pillow,NONE-bench:hold:embroidered-pillow,smal-bench:hold:NONE-pillow,smal-bench:hold:embroidered-pillow
+2362227	A baseball player with a bat in his hands on a field.	NONE-player:with:NONE-bat,NONE-player:have:NONE-hand,NONE-player:on:NONE-field,NONE-bat:in:NONE-hand
+2362229	A young man in black jersey sitting on field with a soccer ball.	NONE-man:in:NONE-jersey,NONE-man:in:black-jersey,young-man:in:NONE-jersey,young-man:in:black-jersey,NONE-man:sit on:NONE-field,young-man:sit on:NONE-field,NONE-man:sit with:NONE-ball,young-man:sit with:NONE-ball
+2362232	Two horses with blazes on their faces nuzzling each other.	NONE-horse:with:NONE-blaze,face-horse:with:NONE-blaze,NONE-horse:with:NONE-blaze,face-horse:with:NONE-blaze,NONE-blaze:on:NONE-horse,NONE-blaze:on:face-horse,NONE-blaze:on:NONE-horse,NONE-blaze:on:face-horse
+2362235	A plate with hash browns, bacon, sausage, eggs and tomato next to coffee, milk and orange juice.	NONE-plate:with:NONE-brown,NONE-plate:with:hash-brown,juice-plate:with:NONE-brown,juice-plate:with:hash-brown,NONE-plate:with:NONE-bacon,juice-plate:with:NONE-bacon,NONE-plate:with:NONE-sausage,juice-plate:with:NONE-sausage,NONE-plate:with:NONE-egg,juice-plate:with:NONE-egg,NONE-plate:with:NONE-tomato,juice-plate:with:NONE-tomato,NONE-plate:next to:NONE-coffee,juice-plate:next to:NONE-coffee,NONE-plate:next to:NONE-milk,juice-plate:next to:NONE-milk,NONE-plate:next to:NONE-orange,juice-plate:next to:NONE-orange
+2362237	A train is traveling down the tracks in a deserted area.	NONE-train:travel down:NONE-track,NONE-track:in:NONE-area,NONE-track:in:deserted-area
+2362238	A man surfing in the ocean with a sail boat behind him.	NONE-man:surf in:NONE-ocean,NONE-ocean:with:NONE-boat,NONE-ocean:with:sail-boat,NONE-boat:behind:NONE-man,sail-boat:behind:NONE-man
+2362242	a fancy light brown building  with statues bells and a white clock	NONE-building:with:NONE-bell,brown-building:with:NONE-bell,NONE-building:with:NONE-clock,NONE-building:with:white-clock,brown-building:with:NONE-clock,brown-building:with:white-clock
+2362246	People on boats crowded in the water of a harbor.	NONE-people:on:NONE-boat,NONE-people:crowd in:NONE-water,NONE-people:on:NONE-boat,NONE-people:crowd in:NONE-water,NONE-water:of:NONE-harbor
+2362248	A group of people walking around a flock of birds.	NONE-group:of:NONE-people,NONE-group:walk around:NONE-flock,NONE-flock:of:NONE-bird
+2362252	A man sitting on a surfboard looking at the ocean.	NONE-man:sit on:NONE-surfboard,NONE-surfboard:look at:NONE-ocean
+2362253	A bird flying under a large jetliner in a cloudy blue sky.	NONE-bird:fly under:NONE-jetliner,NONE-bird:fly under:large-jetliner,NONE-jetliner:in:NONE-sky,NONE-jetliner:in:cloudy-sky,NONE-jetliner:in:blue-sky,large-jetliner:in:NONE-sky,large-jetliner:in:cloudy-sky,large-jetliner:in:blue-sky
+2362254	A cat laying on top of a suitcase laying on the floor.	NONE-cat:lay on top of:NONE-suitcase,NONE-suitcase:lay on:NONE-floor
+2362255	a person in a kitchen looking at their cell phone	NONE-person:in:NONE-kitchen,NONE-person:have:NONE-phone,NONE-kitchen:look at:NONE-phone
+2362260	Red Light at a street intersection with people present on the corner	NONE-Light:at:NONE-intersection,NONE-intersection:with:NONE-people
+2362266	A person riding down a flight of stairs near a forest.	NONE-person:ride down:NONE-flight,NONE-flight:of:NONE-stair,NONE-stair:near:NONE-forest
+2362272	A man doing a trick on his skateboard on a skate ramp.	NONE-man:do:NONE-trick,NONE-man:do on:NONE-skateboard,NONE-man:have:NONE-skateboard,NONE-skateboard:on:NONE-ramp,NONE-skateboard:on:skate-ramp
+2362274	A cat laying on top of a bed next to a window.	NONE-cat:lay on top of:NONE-bed,NONE-bed:next to:NONE-window
+2362276	Several teddy bears lined up with hearts and bow ties on them.	NONE-bear:bow on:NONE-bear,NONE-bear:bow on:several-bear,several-bear:bow on:NONE-bear,several-bear:bow on:several-bear,NONE-bear:line up with:NONE-heart,several-bear:line up with:NONE-heart,NONE-bear:bow:NONE-tie,several-bear:bow:NONE-tie,NONE-bear:line up with:NONE-heart,heart-bear:line up with:NONE-heart,NONE-bear:bow:NONE-tie,tie-bear:bow:NONE-tie
+2362280	Three boats ridding in choppy waves with a city in the background.	NONE-boat:rid in:NONE-wave,NONE-boat:rid in:choppy-wave,NONE-boat:rid with:NONE-city,NONE-boat:rid in:NONE-wave,NONE-boat:rid in:choppy-wave,NONE-boat:rid with:NONE-city,NONE-boat:rid in:NONE-wave,NONE-boat:rid in:choppy-wave,NONE-boat:rid with:NONE-city,NONE-city:in:NONE-background
+2362281	A woman standing in a kitchen with a smile on her face.	NONE-woman:stand in:NONE-kitchen,NONE-woman:have:NONE-face,NONE-kitchen:with:NONE-smile,NONE-smile:on:NONE-face
+2362282	The man is swinging at the tennis ball with a racquet.	NONE-man:swing at:NONE-ball,NONE-ball:with:NONE-racquet
+2362283	A man sitting on top of a pole next to a fire hydrant.	NONE-man:sit on top of:NONE-pole,NONE-pole:next to:NONE-hydrant
+2362293	A computer desk topped with a laptop next to a computer monitor.	NONE-desk:top with:NONE-laptop,NONE-desk:top with:next-laptop,NONE-desk:top to:NONE-monitor
+2362296	A white bath tub with soaps and a candle sitting on top of it.	NONE-bath:tub with:NONE-soap,white-bath:tub with:NONE-soap,NONE-bath:tub with:NONE-candle,white-bath:tub with:NONE-candle,NONE-candle:sit on top of:NONE-bath,NONE-candle:sit on top of:white-bath
+2362297	A brown horse laying in a field of lush vegetation.	NONE-horse:lay in:NONE-field,brown-horse:lay in:NONE-field,NONE-field:of:NONE-vegetation,NONE-field:of:lush-vegetation
+2362306	A cat laying in a window sill next to a high up window.	NONE-cat:lay in:NONE-window,NONE-cat:sill to:NONE-window,NONE-cat:sill to:high-window
+2362313	A ballplayer on deck practicing for his turn at bat	NONE-ballplayer:on:NONE-practicing,NONE-ballplayer:for:NONE-turn,NONE-ballplayer:have:NONE-turn,NONE-ballplayer:at:NONE-bat
+2362321	A long row of nice looking chairs in the sand.	NONE-row:look:NONE-chair,long-row:look:NONE-chair,NONE-row:look in:NONE-sand,long-row:look in:NONE-sand
+2362326	An adult polar bear with a carrot in it's mouth.	NONE-bear:with:NONE-carrot,polar-bear:with:NONE-carrot,mouth-bear:with:NONE-carrot,adult-bear:with:NONE-carrot,NONE-carrot:in:NONE-it
+2362328	a clock tower in the middle of a paved area in a park	NONE-tower:in:NONE-middle,NONE-middle:of:NONE-area,NONE-middle:of:paved-area,NONE-area:in:NONE-park,paved-area:in:NONE-park
+2362331	A man riding a wave on top of a surfboard.	NONE-man:ride:NONE-wave,NONE-man:ride on top of:NONE-surfboard
+2362332	A man with a scarf on his head standing in a big grass field.	NONE-man:with:NONE-scarf,NONE-man:have:NONE-standing,NONE-man:in:NONE-field,NONE-man:in:big-field,NONE-scarf:on:NONE-standing
