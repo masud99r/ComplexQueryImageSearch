@@ -1,5 +1,5 @@
 import operator
-
+import search.similarities.bm25.okapi_bm25 as model_bm25
 def keyword_based_graph_similarity(graph1, graph2):
     graph1_parts = remove_string_noise(str(graph1)).split(" ")
     graph2_parts = remove_string_noise(str(graph2)).split(" ")
@@ -22,12 +22,13 @@ def remove_string_noise(input_str):
     for c in all_noise:
         if c in input_str:
             input_str = input_str.replace(c, " ")#replace with space
+    input_str = input_str.replace("NONE","")
     fresh_str = ' '.join(input_str.split())
     return fresh_str
 def run_evaluation():
     #datapath = "/if24/mr5ba/Masud/PythonProjects/ComplexQueryImageSearch/data/"
     datapath = "K:/Masud/PythonProjects/ComplexQueryImageSearch/data/"
-    vg_graph_path = datapath+"image2relationship_filtered.txt"
+    vg_graph_path = datapath+"candidate_document.txt"
     vg_caption_path = datapath+"query.txt"
 
     querycaption = {}
@@ -47,6 +48,7 @@ def run_evaluation():
     query_count = 0
     total_mrr = 0.0
     total_query = 20
+    '''
     for query in vg_caption_map:
         query_count += 1
         if query in vg_graph_map:
@@ -71,13 +73,69 @@ def run_evaluation():
                 if topcount < 10:
                     print (str(score_tuple)+"\t"+"https://cs.stanford.edu/people/rak248/VG_100K/"+str(candidate_id)+".jpg")
             total_mrr += query_mrr
+        else:
+            print ("Not found in VG")
         if query_count>total_query:
             averageMRR = total_mrr/total_query
             print ("avg MRR = "+str(averageMRR))
             break
+        '''
+    search_results_score, search_results_sorted = model_bm25.generate_results(datapath, "2365441")
+    print search_results_sorted
 
-        else:
-            print ("Not found in VG")
+    print ("Done")
+
+def run_evaluation_v2():
+    #datapath = "/if24/mr5ba/Masud/PythonProjects/ComplexQueryImageSearch/data/"
+    datapath = "K:/Masud/PythonProjects/ComplexQueryImageSearch/data/"
+    vg_graph_path = datapath+"candidate_document.txt"
+    vg_caption_path = datapath+"query_document.txt"
+
+    candidate_list = []
+    query_map = {}
+    querycaption = {}
+    id_list = []
+    with open(vg_graph_path) as f_vggraph:
+        for line in f_vggraph:
+            candidate_list.append(line)
+    vg_caption_map = {}
+    with open(vg_caption_path) as f_vgcap:
+        for line in f_vgcap:
+            vg_id, caption, rel = line.split("\t")
+            vg_id = int(vg_id)
+            id_list.append(vg_id)
+            querycaption[vg_id] = caption
+            vg_caption_map[vg_id] = rel
+    query_count = 0
+    total_mrr = 0.0
+    total_query = 50
+    for query_id in vg_caption_map:
+
+        search_results_score, search_results_sorted = model_bm25.generate_results(datapath,str(query_id))
+        print ("Query = " + str(query_id) + "\t" + str(
+            querycaption[query_id]) + "\t" + "https://cs.stanford.edu/people/rak248/VG_100K/" + str(query_id) + ".jpg"+ "\t" + "Alternative: https://cs.stanford.edu/people/rak248/VG_100K_2/" + str(query_id) + ".jpg")
+        topcount = 0
+        query_mrr = 0
+        for score_tuple in search_results_sorted[0]:
+            topcount += 1
+            candidate_index, score_value = score_tuple
+            candidate_id = id_list[candidate_index]
+            if candidate_id == query_id:  # this will happen at most once
+                rank = topcount
+                print ("Rank is = " + str(rank))
+                query_mrr = 1.0 / int(rank)
+            if topcount < 10:
+                print (
+                str(score_tuple) + "\t" + "https://cs.stanford.edu/people/rak248/VG_100K/" + str(candidate_id) + ".jpg"+ "\t" + "Alternative: https://cs.stanford.edu/people/rak248/VG_100K_2/" + str(candidate_id) + ".jpg")
+        total_mrr += query_mrr
+        query_count += 1
+        if query_count > total_query:
+            averageMRR = total_mrr / query_count
+            print ("avg MRR = " + str(averageMRR))
+            break
+
+
     print ("Done")
 if __name__ == '__main__':
-    run_evaluation()
+    #run_evaluation()
+    run_evaluation_v2()

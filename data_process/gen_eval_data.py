@@ -207,11 +207,77 @@ def map_cococaption2vgcaption(datapath):
     f_vgcap.close()
     print (miss_count)
     print ("done")
+def remove_string_noise(input_str):
+    #give special char you want to remove
+    #do not put space between chars, and space (" ") is not a special char
+    punctuation_noise ="!\"#$%&'()*+,-./:;<=>?@[\]^_`{|}~" #print string.punctuation
+    number_noise = "0123456789"
+    special_noise = ""
+
+    all_noise = punctuation_noise + number_noise + special_noise
+
+    for c in all_noise:
+        if c in input_str:
+            input_str = input_str.replace(c, " ")#replace with space
+    input_str = input_str.replace("NONE","")
+    fresh_str = ' '.join(input_str.split())
+    return fresh_str
+def text_process(text):
+    return remove_string_noise(text)
+def generate_retrieval_data():
+    datapath = "/if24/mr5ba/Masud/PythonProjects/ComplexQueryImageSearch/data/"
+    # datapath = "K:/Masud/PythonProjects/ComplexQueryImageSearch/data/"
+    vg_graph_path = datapath + "image2relationship_filtered.txt"
+    vg_caption_path = datapath + "vg_caption_relation_attribute_processed_filtered.txt"
+
+    f_graph = open(datapath + "candidate_document.txt", "w")
+    f_cap = open(datapath + "query_document.txt", "w")
+
+    vg_graph_map = {}
+    with open(vg_graph_path) as f_vggraph:
+        for line in f_vggraph:
+            vg_id, rel = line.split("\t")
+            vg_id = int(vg_id)
+            vg_graph_map[vg_id] = rel
+    vg_caption_map = {}
+    query_line_map = {}
+    with open(vg_caption_path) as f_vgcap:
+        for line in f_vgcap:
+            vg_id, _, rel = line.split("\t")
+            vg_id = int(vg_id)
+            vg_caption_map[vg_id] = rel
+            query_line_map[vg_id] = line
+    doc_count = 0
+    for caption_id in vg_caption_map:
+        if caption_id in vg_graph_map:
+            query_rel = vg_caption_map[caption_id]
+            candidate_rel = vg_graph_map[caption_id]
+
+            fresh_query_rel = text_process(query_rel)
+            fresh_candidate_rel = text_process(candidate_rel)
+
+            if fresh_query_rel !="" and fresh_candidate_rel != "":
+                #f_cap.write(fresh_query_rel+"\n")
+                f_cap.write(str(query_line_map[caption_id]))
+
+                f_graph.write(fresh_candidate_rel+"\n")
+
+                f_id = open(datapath + "query/"+str(caption_id)+".txt", "w")
+                f_id.write(fresh_query_rel)
+                f_id.close()
+
+                doc_count += 1
+                if doc_count > 1000:
+                    break
+            else:
+                print ("Not found")
+    f_cap.close()
+    f_graph.close()
 if __name__ == '__main__':
     #datapath = "K:/Masud/PythonProjects/ComplexQueryImageSearch/data/"
     datapath = "/if24/mr5ba/Masud/PythonProjects/ComplexQueryImageSearch/data/"
     #process_caption_data(datapath)
-    data_filter()
+    generate_retrieval_data()
     #generate_scene_graph_data(datapath)
     #map_cococaption2vgcaption(datapath)
     #f_cap = open("./data/mscoco_caption_map.txt", "a")
